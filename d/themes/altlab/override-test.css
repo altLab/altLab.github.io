@@ -1,0 +1,96 @@
+/*!
+ * Any css here can override the base css in css/bootstrap.min.css
+*/
+
+body {
+font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif!important;
+}
+
+.navbar-inverse {
+   background-image: -webkit-linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+   background-image: -o-linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#6d94bf), color-stop(50%, #446e9b), to(#3e648d));
+   background-image: linear-gradient(#6d94bf, #446e9b 50%, #3e648d);
+   background-repeat: no-repeat;
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff6d94bf', endColorstr='#ff3e648d', GradientType=0);
+    -webkit-filter: none;
+   filter: none;
+   border: 1px solid #345578;
+   text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+}
+
+.dropdown-menu>li>a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.42857143;
+    color: #333333;
+    white-space: nowrap;
+    text-shadow: none;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #395c82;
+   }
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #dddddd;
+}
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #446e9b;
+   }
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+    background-color: transparent;
+    color: #ffffff;
+}
+
+/* Make the dropdown on hover*/
+@media screen and (min-width: 768px) {
+
+
+ul.nav li.dropdown:hover ul.dropdown-menu {
+    display: block;
+}
+
+}
+@media screen and (max-width: 360px) {
+.navbar-brand{
+margin-right: -8px;
+}
+.navbar-toggle{
+margin-right: 8px;
+}
+
+}
+
+/* Make-Up Youtube Videos - BY.VS160614 */
+.youtube-video {
+    text-align: center;
+    display: block;
+    background-color: #000;
+    padding: 20px 0px;
+    margin-top: 3px;
+}
+
+@media screen and (max-width: 700px) {
+
+.youtube-video {
+    width: 100%;
+    padding: 5px 5px;
+    margin-top: 3px;
+    background-color: #000;
+}
+
+.youtube-video>iframe {
+    width: 390px;
+    height: 293px;
+    width: 100%;
+    height: 100%;
+}
+
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Reviews - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/category/reviews/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Fri, 12 Jul 2013 16:11:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Book Review: Cinder Creative Coding Cookbook</title>
+		<link>https://altlab.org/2013/07/12/book-review-cinder-creative-coding-cookbook/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2013 16:11:46 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4228</guid>
+
+					<description><![CDATA[Cinder is a widely used C++ community-developed, free and open source library for professionals coding multimedia applications. Cinder Creative Coding Cookbook is all about getting started with Cinder. The book was written by Dawid Górny and Rui Madeira and published by Packt Publishing. It comes as a more comprehensive follow up to another book published &#8230; <a href="https://altlab.org/2013/07/12/book-review-cinder-creative-coding-cookbook/" class="more-link">Continue reading<span class="screen-reader-text"> "Book Review: Cinder Creative Coding Cookbook"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignleft" alt src="http://dgdsbygo8mp3h.cloudfront.net/sites/default/files/imagecache/productview_larger/8703OS.jpg"> <a href="http://libcinder.org/">Cinder</a> is a widely used C++ community-developed, free and open source library for professionals coding multimedia applications. Cinder Creative Coding Cookbook is all about getting started with Cinder. The book was written by <a href="http://blog.dawidgorny.com/">Dawid Górny</a> and <a href="http://ruim.pt/">Rui Madeira</a> and published by <a href="http://www.packtpub.com/cinder-creative-coding-cookbook/book">Packt Publishing</a>. It comes as a more comprehensive follow up to another book published by Packt about getting started with Cinder.</p>
+<p>This book has 352 pages divided into 12 chapters, progressively covering from the most basic to the relatively advanced.</p>
+<p>It will not teach you how to program, it will not do your project for you, it will not turn you into the uber cinder guru. What it will do is get you acquainted with the cinder developer environment, and give you a good insight on how to get the most out of using it. In short, if you’re a programmer looking to develop an interactive multimedia application with one of the hottest frameworks around this book should be more than enough to get the ball rolling for you with a small amount of time.</p>
+<p>If you’re an advanced user of cinder looking to expand your knowledge you can find some solid example code references. The book includes plenty of example code and clear explanations of what does what. The chapters often include “there is more” sub-sections, pointing to additional information for advanced use.</p>
+<p>I can tell you as an advanced user of cinder that this book does not cover all of the pitfalls and small annoying quirks, you will still have to put your foot in the hole and look them up on the online forum. But it does do a very good job at it’s main goal: being accessible and clear for the new user.</p>
+<p>Some special featured sub-chapters like the MayaGui, OSC, OpenCV, Syphon integration are quite useful for folks who are interested in setting up those specific modules.</p>
+<p>Negative mention to chapter 11, after reading the book description and considering how there were even a few chapters about getting OpenCV working with Cinder, one would expect some deeper examples on the topic of camera interaction. The examples are good, but the topic was hardly well covered, comparing for example with how well particles were. Similarly, regarding the Kinect, despite being a keyword on the book description, it’s only briefly covered in two examples, both of them using the official Windows SDK, ignoring all the work that has been done with OpenNI on multi-platforms before Microsoft launched the official SDK.</p>
+<p>Positive mention goes out to the particles chapter(s) which are quite comprehensive. It includes both basic and more high level information, coupled with explicit example code, which you’ll find useful regardless of your prior knowledge on particles.</p>
+<p>Overall i genuinely believe new people wanting to get involved with Cinder will find this book useful.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

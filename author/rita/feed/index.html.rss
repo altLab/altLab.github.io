@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rita Sá - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/author/rita/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Tue, 02 Apr 2013 19:14:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Open Mobile Project</title>
+		<link>https://altlab.org/2013/04/02/open-mobile-project-2/</link>
+		
+		<dc:creator><![CDATA[Rita Sá]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2013 19:14:41 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4154</guid>
+
+					<description><![CDATA[Open Mobile is a collaborative artwork that is being developed at AltLab and that is opened to all members. The mobile is constituted by pieces that are developed individually or collaboratively, and the final integrant structure is built &#160;in order to support all developed pieces and having in mind the characteristics of each individual piece. &#8230; <a href="https://altlab.org/2013/04/02/open-mobile-project-2/" class="more-link">Continue reading<span class="screen-reader-text"> "Open Mobile Project"</span></a>]]></description>
+										<content:encoded><![CDATA[<p dir="ltr"><a href="http://altlab.org/2013/04/01/open-mobile-project/imageforpost005/" rel="attachment wp-att-4142"><img decoding="async" loading="lazy" alt="ImageForPost005" src="http://altlab.org/wp-content/uploads/2013/04/ImageForPost005.jpg" width="600" height="450"></a></p>
+<p dir="ltr">Open Mobile is a collaborative artwork that is being developed at AltLab and that is opened to all members.</p>
+<p dir="ltr">The mobile is constituted by pieces that are developed individually or collaboratively, and the final integrant structure is built &nbsp;in order to support all developed pieces and having in mind the characteristics of each individual piece.</p>
+<p dir="ltr">The individual pieces — OMPs (Open Mobile Pieces) can range from 3D printed sculptures to electric and/or motorized works… stop by AltLab on any Tuesday (from 8.30pm on) and check it out.</p>
+<p dir="ltr">Development period: April — July 2013</p>
+<p dir="ltr">__________________________________________________________________________________________</p>
+<p dir="ltr">O Open Mobile é um projecto artístico colaborativo a ser desenvolvido no AltLab e o convite à participação é aberto a todos os membros.</p>
+<p dir="ltr">A ideia é construir uma estrutura kinética e/ou eléctrica (aka “mobile) em que cada pessoa (ou conjunto de pessoas) desenvolve uma peça integrante. O “esqueleto” da estrutura é posteriormente desenvolvido de forma a integrar as peças individuais e tendo em conta as suas características.</p>
+<p>A elaboração das peças individuais — OMPs (Open Mobile Pieces) podem ir desde impresssões 3D a trabalhos eléctricos e/ou motorizados… passem pelo AltLab numa terça-feira (a partir das 20h30) e espreitem.</p>
+<p>&nbsp;</p>
+<p>Período de desenvolvimento — Abril — Julho 2013</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

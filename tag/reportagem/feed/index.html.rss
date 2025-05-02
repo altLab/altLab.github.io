@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Reportagem - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/reportagem/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Sun, 01 Dec 2013 02:07:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Festival IN — Reportagem</title>
+		<link>https://altlab.org/2013/12/01/festival-in-reportagem/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Sun, 01 Dec 2013 02:07:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Creatividade]]></category>
+		<category><![CDATA[Feiras]]></category>
+		<category><![CDATA[Festival In]]></category>
+		<category><![CDATA[FIL]]></category>
+		<category><![CDATA[Mostra]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Reportagem]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4652</guid>
+
+					<description><![CDATA[Enquanto cozinhamos os vídeos que levantamos durante esta nossa participação no festival, fica aqui uma reportagem do site “Multimédia Com Todos”]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" width="840" height="473" src="https://www.youtube.com/embed/LyemmoPBOUY?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Enquanto cozinhamos os vídeos que levantamos durante esta nossa participação no festival, fica aqui uma reportagem do site “Multimédia Com Todos”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

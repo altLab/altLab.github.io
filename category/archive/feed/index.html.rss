@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Archive - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/category/archive/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 15:24:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Workshop — Constrói o teu CSEduino</title>
+		<link>https://altlab.org/2015/02/03/workshop-constroi-o-teu-cseduino/</link>
+		
+		<dc:creator><![CDATA[João Alves]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2015 22:18:29 +0000</pubDate>
+				<category><![CDATA[Archive]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[atmega328p]]></category>
+		<category><![CDATA[diy]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5145</guid>
+
+					<description><![CDATA[&#160; Nos próximos dias 28 de Fevereiro e 1 de Março de 2015 vai realizar-se a Workshop — Constrói o teu CSEduino. O CSEduino é uma versão barata do Arduino construída apenas com componentes THT (Thru Hole Technology) que são facilmente soldáveis a uma Stripboard. Será apresentada nesta Workshop a versão 2 desta placa. Esta &#8230; <a href="https://altlab.org/2015/02/03/workshop-constroi-o-teu-cseduino/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Constrói o teu CSEduino"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-5133 size-medium" src="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-300x199.jpg" alt="TS@altLab-17.01.2015-CSEduinoKitDetail-Web" width="300" height="199" srcset="https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-768x509.jpg 768w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-1024x678.jpg 1024w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web.jpg 1200w" sizes="(max-width: 300px) 85vw, 300px"></a></p>
+<p>&nbsp;</p>
+<p>Nos próximos dias 28 de Fevereiro e 1 de Março de 2015 vai realizar-se a Workshop — Constrói o teu <em>CSEduino</em>.</p>
+<p>O <em>CSEduino</em> é uma versão barata do Arduino construída apenas com componentes <em>THT (Thru Hole Technology)</em> que são facilmente soldáveis a uma <em>Stripboard</em>. Será apresentada nesta Workshop a versão 2 desta placa.</p>
+<p>Esta workshop foi desenhada para ser acessível a qualquer pessoa que deseje dar os primeiros passos no mundo da electrónica e ter logo a mão um <em>kit</em> que te permite iniciar a programação de microcontroladores e a interacção com componentes diversos.</p>
+<p>A Workshop realiza-se nas instalações do FabLab Lisboa — Rua Maria da Fonte – Mercado do Forno do Tijolo, 1170-221 Lisboa.</p>
+<p>O custo da Workshop é de 60€ e inclui todos os componentes para a construção do <em>CSEduino</em> assim como cerca de 30 componentes adicionais que serão teus no final da <em>workshop</em> e que te permitirão fazer desde logo&nbsp;as tuas experiências.</p>
+<p>A agenda da Workshop é a seguinte:</p>
+<p><strong>Dia 1:</strong></p>
+<ul>
+<li>Introdução à electrónica;</li>
+<li>Montagem do <em>CSEduino</em> numa <em>breadboard;</em></li>
+<li>Quatro módulos simples de introdução ao <em>Arduino.</em></li>
+</ul>
+<p><strong>Dia 2:</strong></p>
+<ul>
+<li>Aprendendo a soldar;</li>
+<li>Montagem do <em>CSEduino;</em></li>
+<li>Quatro módulos mais complexos que exploram os componentes que serão distribuidos no <em>kit</em>. Nestes quatro módulos iremos construir um <em>Ohmmeter</em>, um <em>Theremin</em>, um gerador de código Morse e mais algumas surpresas;</li>
+<li>Algumas dicas sobre onde comprar mais componentes e como;</li>
+<li>Apresentação em detalhe de um projectomais complexo que usa o CSEduino.</li>
+</ul>
+<p>O horário da Workshop é das 10H até às 18H com intervalo para almoço.</p>
+<p>Nº Máximo de Participantes: 8</p>
+<p>É necessário trazer um computador portátil com Linux&nbsp;ou Windows&nbsp;com uma porta USB disponível.</p>
+<p>Todas as ferramentas para a montagem do <em>CSEduino</em> e dos módulos estarão disponíveis.<br>
+Qualquer questão adicional poderá ser colocada através de email para jpralves@gmail.com</p>
+<p>Cada participante levará consigo um kit que lhe permitirá construir na workshop o CSEduino e todos os módulos. Será igualmente fornecido no <em>kit</em> uma placa com <em>interface</em>&nbsp;<em>USB</em> que permite programar o <em>CSEduino</em>.</p>
+<p>&nbsp;</p>
+<p>As inscrições na workshop estão fechadas. As vagas estão todas cheias.</p>
+<p>Caso queira inscrever-se na lista de espera ou ser notificado quando for preparada uma nova data pode preencher <a href="http://goo.gl/3ijEbX" target="_blank">este formulário</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Silkscreen - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/silkscreen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Thu, 12 Jul 2012 23:28:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>altLab Last Meetings — Update</title>
+		<link>https://altlab.org/2012/07/12/altlabs-last-meetings-update/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Thu, 12 Jul 2012 23:28:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[Cupkake]]></category>
+		<category><![CDATA[Dimension Elite]]></category>
+		<category><![CDATA[Fablabs]]></category>
+		<category><![CDATA[Lasercut]]></category>
+		<category><![CDATA[PCB]]></category>
+		<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Silkscreen]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[Violeta]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3493</guid>
+
+					<description><![CDATA[&#160; We have been absent from posting news for a couple of weeks now, but we haven’t been in no way inactive. These last two meetings have been fruitfull, we have dedicated some time to fixing the telescope controller, the collective has new members and this new blood is pumping full of ideas. It is &#8230; <a href="https://altlab.org/2012/07/12/altlabs-last-meetings-update/" class="more-link">Continue reading<span class="screen-reader-text"> "altLab Last Meetings — Update"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>We have been absent from posting news for a couple of weeks now, but we haven’t been in no way inactive.</p>
+<p>These last two meetings have been fruitfull, we have dedicated some time to fixing the telescope controller, the collective has new members and this new blood is pumping full of ideas.</p>
+<p>It is time to talk back to the community, and tomorrow we will be putting up some investigations we have been up.</p>
+<p>Here’s a list of some things we will be updating tomorrow</p>
+<p>&nbsp;</p>
+<p>- PCB workbench Project may come with a silkscreen flavour</p>
+<p>- Dimension Elite testing @Fablab EDP, Violeta’s Big Brother&nbsp;√</p>
+<p>- Lasercut Testings @Fablab EDP</p>
+<p>- Explorations on PCB creation techniques — The Silkscreen Method</p>
+<p>- The Project’s Project</p>
+<p>- Violeta Fixed and going on Tour&nbsp;√</p>
+<p>&nbsp;</p>
+<p>See you soon, here is a peek at some shots of the upcomming articles <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>
+
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP9753.jpg"><img width="150" height="100" src="https://altlab.org/wp-content/uploads/2012/07/IMGP9753.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP9838.jpg"><img width="100" height="150" src="https://altlab.org/wp-content/uploads/2012/07/IMGP9838.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP9837.jpg"><img width="100" height="150" src="https://altlab.org/wp-content/uploads/2012/07/IMGP9837.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP9751.jpg"><img width="150" height="92" src="https://altlab.org/wp-content/uploads/2012/07/IMGP9751.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP0229.jpg"><img width="150" height="100" src="https://altlab.org/wp-content/uploads/2012/07/IMGP0229.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

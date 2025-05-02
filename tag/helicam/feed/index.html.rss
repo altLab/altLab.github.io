@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>helicam - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/helicam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Sun, 05 Jul 2009 18:36:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Project Helicam</title>
+		<link>https://altlab.org/2009/07/05/project-helicam/</link>
+		
+		<dc:creator><![CDATA[Luís Palma]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2009 18:36:10 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[helicam]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=474</guid>
+
+					<description><![CDATA[Helicam is an AltLab project that emerged from the wish to capture images from the sky with a WiFi enabled camera so that one can see what’s being shot from a different perspective and in real-time. This approach may lead to new paradigms in visual perspectives by enabling shooting from air views at a considerably &#8230; <a href="https://altlab.org/2009/07/05/project-helicam/" class="more-link">Continue reading<span class="screen-reader-text"> "Project Helicam"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" width="599" height="338" class="size-full wp-image-475 alignnone" src="http://altlab.org/wp-content/uploads/2009/07/helicam_sketches.jpg" alt="Helicam Sketches"></p>
+<p>Helicam is an AltLab project that emerged from the wish to capture images from the sky with a WiFi enabled camera so that one can see what’s being shot from a different perspective and in real-time. This approach may lead to new paradigms in visual perspectives by enabling shooting from air views at a considerably low cost and also so close that cannot be easily done from a helicopter.</p>
+<p>As a real example, one of the projects to accomplish with Helicam is for testing for local forests surveillance and use in related research projects, as with forest fire prevention for sustainability. Other possible operation fields can be architecture, building surveillance or even artistic performance environments where multimedia has a strong presence.</p>
+<p>The main idea is to build an inexpensive and flexible platform using – as a starting point – specifications made available by several open source projects available online (like <a href="http://www.mikrokopter.de">Mikrokopter</a> or <a href="http://ng.uavp.ch/moin">UAVP-NG</a>). After doing some initial research and costs evaluation we realized that we cannot make this prototype with the resources currently available within the group members or AltLab and therefore we started to seek for some kind of sponsorship. I have to say that we were lucky since with only two contacts made, we were able to fundraise money in order to build a flying prototype according to our initial costs predictions. Thank you <a title="Mobbit" href="http://mobbit.net/" target="_blank">Mobbit</a> for accepting our proposal!!</p>
+<p>If you wanna join us in this project stop by AltLab in one of our regular Tuesday night meetings.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

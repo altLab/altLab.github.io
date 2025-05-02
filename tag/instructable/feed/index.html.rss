@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>instructable - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/instructable/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 29 Apr 2009 09:30:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Control your motors with L293D and Arduino</title>
+		<link>https://altlab.org/2009/04/29/control-your-motors-with-l293d-and-arduino/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 09:30:47 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[chip]]></category>
+		<category><![CDATA[instructable]]></category>
+		<category><![CDATA[l293d]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=222</guid>
+
+					<description><![CDATA[I realized there was some lack of information regarding the use of this chip with Arduino, so I made this Instructable. Hope you find it usefull 😉]]></description>
+										<content:encoded><![CDATA[<p>I realized there was some lack of information regarding the use of this chip with Arduino, so I made this Instructable. Hope you find it usefull  <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/"><img decoding="async" class="alignnone" src="http://www.instructables.com/image/F8TQPXMFTY4CX3G/Basic-implementation.jpg" alt></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

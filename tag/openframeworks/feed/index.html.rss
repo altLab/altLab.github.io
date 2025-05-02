@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>openframeworks - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/openframeworks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 18 Jul 2012 15:46:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>OF007-lx — workshop report</title>
+		<link>https://altlab.org/2012/07/18/of007-lx-workshop-report/</link>
+		
+		<dc:creator><![CDATA[as]]></dc:creator>
+		<pubDate>Wed, 18 Jul 2012 15:46:36 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[openframeworks]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3522</guid>
+
+					<description><![CDATA[&#160; This last weekend, at altlab, we had&#160;OF007-LX, an workshop on creative c++ coding using openFrameworks,&#160;led by&#160;André Sier. The workshop began with installation of openframeworks, tutorial on variables, functions, cycles, classes, all those goodies which allowed us to process with images, sounds, cameras, particles, blobs, physical computing. A series of situations where developed and dynamically &#8230; <a href="https://altlab.org/2012/07/18/of007-lx-workshop-report/" class="more-link">Continue reading<span class="screen-reader-text"> "OF007-lx — workshop report"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+
+<a href="https://altlab.org/wp-content/uploads/2012/07/CIMG41081.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2012/07/CIMG41081.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/CIMG4109.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2012/07/CIMG4109.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMG_20120714_150946.jpeg"><img width="150" height="112" src="https://altlab.org/wp-content/uploads/2012/07/IMG_20120714_150946.jpeg" class="attachment-thumbnail size-thumbnail" alt="OF007-lx" decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMG_20120714_131219.jpeg"><img width="150" height="112" src="https://altlab.org/wp-content/uploads/2012/07/IMG_20120714_131219.jpeg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/CIMG4106.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2012/07/CIMG4106.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/CIMG4115.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2012/07/CIMG4115.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+
+<p>This last weekend, at altlab, we had&nbsp;<a href="http://s373.net/continuum/2012/06/10/of007-lx-wks-openframeworks/"><strong>OF007-LX</strong></a>, an workshop on creative c++ coding using <a href="http://openframeworks.cc">openFrameworks</a>,&nbsp;led by&nbsp;<a href="http://s373.net/continuum">André Sier</a>.</p>
+<p>The workshop began with installation of openframeworks, tutorial on variables, functions, cycles, classes, all those goodies which allowed us to process with images, sounds, cameras, particles, blobs, physical computing.</p>
+<p>A series of situations where developed and dynamically changed to adjust into finer programs. Drawing shapes with styles, video pontilism, particles interactions, kinect meshification, video interaction to programs, sound making and interactivities.</p>
+<p>The last afternoon we had a programming jam, building individual projects, where people would let loose their thoughts and attempt to code them. Almost everyone left the workshop with a working idea running on their devices, and, above all, a powerful new way to build more and more ideas:)</p>
+<p>We should probably do this again soon, it was fun, stay tuned!</p>
+<p>&nbsp;</p>
+<blockquote><p>»On 16 Jul 2012, at 4:58 PM, João Alves wrote:<br>
+»<br>
+»Boa tarde!<br>
+»<br>
+»Gostei muito do workshop e aprendi bastante.<br>
+»<br>
+»Só tive pena na instalação dos drivers da Kinect para Windows que me atrasaram um pouco mas devo informar que já consegui instalar e correr a compilação.<br>
+»<br>
+»Eis alguns prints de um projeto que tentei desenvolver na aula (attachments).<br>
+»<br>
+»Fico à espera do nível dois do workshop OF:)<br>
+»<br>
+»Cumprimentos:<br>
+»<br>
+»João</p></blockquote>
+<p>&nbsp;</p>
+<p>some images of the cool projects coding at the workshop!</p>
+<p><a href="http://altlab.org/2012/07/18/of007-lx-workshop-report/of1/" rel="attachment wp-att-3534"><img decoding="async" loading="lazy" class="alignnone  wp-image-3534" title="of1" src="http://altlab.org/wp-content/uploads/2012/07/of1.jpg" alt width="600" height="450"></a></p>
+<p><a href="http://altlab.org/2012/07/18/of007-lx-workshop-report/of2/" rel="attachment wp-att-3535"><img decoding="async" loading="lazy" class="alignnone  wp-image-3535" title="of2" src="http://altlab.org/wp-content/uploads/2012/07/of2.jpg" alt width="600" height="450"></a></p>
+<p><a href="http://altlab.org/2012/07/18/of007-lx-workshop-report/wp_000007/" rel="attachment wp-att-3547"><img decoding="async" loading="lazy" class="alignnone  wp-image-3547" title="WP_000007" src="http://altlab.org/wp-content/uploads/2012/07/WP_000007.jpg" alt width="600" height="450"></a></p>
+<p><a href="http://altlab.org/2012/07/18/of007-lx-workshop-report/wp_000008/" rel="attachment wp-att-3548"><img decoding="async" loading="lazy" class="alignnone  wp-image-3548" title="WP_000008" src="http://altlab.org/wp-content/uploads/2012/07/WP_000008.jpg" alt width="600" height="450"></a></p>
+<p><a href="http://altlab.org/2012/07/18/of007-lx-workshop-report/of-cvparticles/" rel="attachment wp-att-3560"><img decoding="async" loading="lazy" class="alignnone  wp-image-3560" title="of-cvparticles" src="http://altlab.org/wp-content/uploads/2012/07/of-cvparticles.jpg" alt width="600" height="450"></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

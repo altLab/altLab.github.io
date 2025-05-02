@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>opening - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/opening/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 27 May 2009 08:06:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>LCD spring show</title>
+		<link>https://altlab.org/2009/05/27/lcd-spring-show/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Wed, 27 May 2009 08:06:02 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<category><![CDATA[opening]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=325</guid>
+
+					<description><![CDATA[Our friends at LCD are having their semiannual show this thursday. If your in Porto do stop by. There will be many awesome pieces to see/play with, and lots of wonderful and creative people to meet.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.audienciazero.org/lcd/" target="_blank"><img decoding="async" loading="lazy" width="465" height="783" class="alignnone size-full wp-image-327" title="LCD spring show" src="http://altlab.org/wp-content/uploads/2009/05/lcdapresentacao09.jpg" alt="LCD spring show"></a><br>
+Our friends at <a href="http://www.audienciazero.org/lcd/" target="_blank">LCD</a> are having their semiannual show this thursday. If your in Porto do stop by. There will be many awesome pieces to see/play with, and lots of wonderful and creative people to meet.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AltLab opening with paper arduinos</title>
+		<link>https://altlab.org/2009/05/05/altlab-opening-with-paper-arduinos/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 02:12:22 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<category><![CDATA[opening]]></category>
+		<category><![CDATA[paperduino]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=266</guid>
+
+					<description><![CDATA[We are happy to introduce the paperduino &#160;😀 This Tuesday AltLab had its first public session and we did a mini workshop on “paperduinos”, a new generation of cardboard arduinos. We had lots of fun and have many more ideas we’d like to try: different layouts, colored papers, and other materials. More info soon.]]></description>
+										<content:encoded><![CDATA[<p>We are happy to introduce the paperduino &nbsp;<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3550/3506355142_f4150ba5b6.jpg?v=0" alt width="500" height="375"></p>
+<p>This Tuesday AltLab had its first public session and we did a mini workshop on “paperduinos”, a new generation of cardboard arduinos. We had lots of fun and have many more ideas we’d like to try: different layouts, colored papers, and other materials. More info soon.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3659/3505545053_a0c3e7d0c7.jpg?v=0" alt width="500" height="335"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3413/3506354854_dae7570a74.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3316/3505545447_1fe235ebf7.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3626/3506354500_c4aff22dc2.jpg?v=0" alt width="500" height="335"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3361/3505545923_7ef5e3ece4.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3384/3505545783_4bf025a685.jpg?v=0" alt width="500" height="375"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

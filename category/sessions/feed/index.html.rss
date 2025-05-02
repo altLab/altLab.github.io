@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sessions - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/category/sessions/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 22:49:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Sprint — Report — Sabado 2015.05.23</title>
+		<link>https://altlab.org/2015/05/25/sprint-report-sabado-2015-05-23/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Mon, 25 May 2015 02:23:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Sessions]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5249</guid>
+
+					<description><![CDATA[&#160; Bem haja Masters &#160; Este Sábado passado, houve Sprint Session no altLab com o objectivo de acelerar o desenvolvimento do sistema Documenta, que tem por missão procurar&#160;a forma mais simples e fácil de documentar e oferece-la aos nossos membros. &#160; O objectivo do Documenta é facilitar a criação de documentação e no processo cristalizar &#8230; <a href="https://altlab.org/2015/05/25/sprint-report-sabado-2015-05-23/" class="more-link">Continue reading<span class="screen-reader-text"> "Sprint — Report — Sabado 2015.05.23"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class=" size-full wp-image-5250 aligncenter" src="http://altlab.org/wp-content/uploads/2015/05/altLab-sprint-logo.png" alt="altLab Sprint" width="250" height="100"></p>
+<p>&nbsp;</p>
+<p>Bem haja Masters</p>
+<p>&nbsp;</p>
+<p>Este Sábado passado, houve Sprint Session no altLab com o objectivo de acelerar o desenvolvimento do sistema <a title="Documentar nunca foi tão divertido" href="http://altlab.org/d/" target="_blank">Documenta</a>, que tem por missão procurar&nbsp;a forma mais simples e fácil de documentar e oferece-la aos nossos membros.</p>
+<p>&nbsp;</p>
+<p>O objectivo do Documenta é facilitar a criação de documentação e no processo cristalizar o conhecimento do Colectivo numa plataforma aberta.</p>
+<p>&nbsp;</p>
+<p>Estiveram presentes os Masters, Pedro Angelo, João Alveirinho, João Alves e Vinicius Silva.</p>
+<p>&nbsp;</p>
+<p>Começou-se por avaliar e melhorar a classificação do website e do Documenta com uma simples optimização, activação da compressão<br>
+<img decoding="async" loading="lazy" class=" size-medium wp-image-5259 aligncenter" src="http://altlab.org/wp-content/uploads/2015/05/IMGP8783-Small-300x200.jpg" alt="IMGP8783 (Small)" width="300" height="200" srcset="https://altlab.org/wp-content/uploads/2015/05/IMGP8783-Small-300x200.jpg 300w, https://altlab.org/wp-content/uploads/2015/05/IMGP8783-Small.jpg 720w" sizes="(max-width: 300px) 85vw, 300px"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-medium wp-image-5260" src="http://altlab.org/wp-content/uploads/2015/05/IMGP8784-Small-300x200.jpg" alt="IMGP8784 (Small)" width="300" height="200" srcset="https://altlab.org/wp-content/uploads/2015/05/IMGP8784-Small-300x200.jpg 300w, https://altlab.org/wp-content/uploads/2015/05/IMGP8784-Small.jpg 720w" sizes="(max-width: 300px) 85vw, 300px"></p>
+<p><img decoding="async" loading="lazy" class=" wp-image-5261 aligncenter" src="http://altlab.org/wp-content/uploads/2015/05/IMGP8785-Small-200x300.jpg" alt="IMGP8785 (Small)" width="300" height="450" srcset="https://altlab.org/wp-content/uploads/2015/05/IMGP8785-Small-200x300.jpg 200w, https://altlab.org/wp-content/uploads/2015/05/IMGP8785-Small.jpg 480w" sizes="(max-width: 300px) 85vw, 300px"></p>
+<p>&nbsp;</p>
+<p>A partir daí dividiu-se o sprint em 2 equipas.</p>
+<p>&nbsp;</p>
+<p>A equipa A concentrou-se nos textos informativos e tutoriais de instalação e utilização da plataforma</p>
+<blockquote><p>Modificou-se a Landing page do documenta onde se sumariza a missão origens e objectivos e criou-se a primeira versão das páginas de boas-vindas a novos membros com a informação de como instalar e usar a plataforma pela primeira vez.</p></blockquote>
+<p>&nbsp;</p>
+<p>A equipa B na parte da programação;</p>
+<blockquote><p>Foi criado um repositório no github onde o código-fonte do Phile assim como dos plugins que foram usados foram colocados.<br>
+Este permite que seja feita a gestão da evolução da ferramenta com base nas evoluções independentes dos repositórios oficiais.<br>
+Adicionalmente foram feitos alguns testes com o docker para criar um ambiente de teste da solução.</p>
+<p>&nbsp;</p></blockquote>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="https://vimeo.com/128756903">https://vimeo.com/128756903</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Acabado o Sprint, ainda sobraram algumas forças para se recondicionar o espaço da arrecadação no âmbito da melhoria continua do espaço e este é o resultado actual.</p>
+<p>&nbsp;</p>
+<p><img decoding="async" loading="lazy" class=" size-full wp-image-5258 aligncenter" src="http://altlab.org/wp-content/uploads/2015/05/IMGP9107-Small.jpg" alt="IMGP9107 (Small)" width="480" height="720"></p>
+<p><img decoding="async" loading="lazy" class=" size-full wp-image-5255 aligncenter" src="http://altlab.org/wp-content/uploads/2015/05/altlab-qmol-4.jpg" alt="altlab-qmol (4)" width="720" height="480"></p>
+<p><img decoding="async" loading="lazy" class=" size-full wp-image-5254 aligncenter" src="http://altlab.org/wp-content/uploads/2015/05/altlab-qmol-3.jpg" alt="altlab-qmol (3)" width="720" height="480"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Report — TS @ Altlab —  17.01.2015</title>
+		<link>https://altlab.org/2015/01/19/report-ts-altlab-17-01-2015/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2015 02:02:06 +0000</pubDate>
+				<category><![CDATA[Sessions]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5114</guid>
+
+					<description><![CDATA[&#160; &#160; &#160; &#160; Neste&#160;Sábado que passou estivemos de casa cheia! &#160; O tópico central para o qual os membros e amigos do Lab foram convidados, foi a validação do workshop que irá decorrer já no ultimo fim de semana de Fevereiro. &#160; &#160; &#160; &#160; &#160; O tema deste próximo workshop é o CSEduino, &#8230; <a href="https://altlab.org/2015/01/19/report-ts-altlab-17-01-2015/" class="more-link">Continue reading<span class="screen-reader-text"> "Report — TS @ Altlab —  17.01.2015"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><a href="http://altlab.org/category/sessions/"><img decoding="async" loading="lazy" class="wp-image-5115 aligncenter" src="http://altlab.org/wp-content/uploads/2015/01/TinkerSessions-300x162.png" alt="TinkerSessions" width="185" height="100" srcset="https://altlab.org/wp-content/uploads/2015/01/TinkerSessions-300x162.png 300w, https://altlab.org/wp-content/uploads/2015/01/TinkerSessions.png 400w" sizes="(max-width: 185px) 85vw, 185px"></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Neste&nbsp;Sábado que passou estivemos de casa cheia!</p>
+<p>&nbsp;</p>
+<p>O tópico central para o qual os membros e amigos do Lab foram convidados, foi a validação do workshop que irá decorrer já no ultimo fim de semana de Fevereiro.</p>
+<p>&nbsp;</p>
+<p><img decoding="async" loading="lazy" class="aligncenter wp-image-5132 size-large" src="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web-1024x777.jpg" alt="TS@altLab-17.01.2015-CSEduinoGiftBox-Web" width="840" height="637" srcset="https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web-1024x777.jpg 1024w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web-300x228.jpg 300w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web-768x582.jpg 768w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"></p>
+<p>&nbsp;</p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-5133" src="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-1024x678.jpg" alt="TS@altLab-17.01.2015-CSEduinoKitDetail-Web" width="640" height="423" srcset="https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-1024x678.jpg 1024w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-768x509.jpg 768w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></p>
+<p>&nbsp;</p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-5134" src="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web-1024x678.jpg" alt="TS@altLab-17.01.2015-CSEduinoShowOff-Web" width="640" height="423" srcset="https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web-1024x678.jpg 1024w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web-768x509.jpg 768w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>O tema deste próximo workshop é o <a href="http://jpralves.net/cseduino/" target="_blank">CSEduino, (Cheap Simple Easy Arduino)</a>&nbsp;— Um arduino por menos de 5.euros — Um projeto que visa democratizar o acesso ao hardware baseado na plataforma <a href="http://www.arduino.cc/" target="_blank">arduino</a> e partilhar as bases para usar o potencial desta plataforma que pode fazer tudo. Desde acender leds a controlar a temperatura ou os motores de uma CNC.</p>
+<p>&nbsp;</p>
+<p>Abre caminho para o workshop que se visa ter lugar em Março, onde se pegará nas plataformas de microcontroladores e se poderá aprender o que são motores, que tipo de motores existem e que hardware e know how necessitamos para saber onde eles estão e como move-los.</p>
+<p>&nbsp;</p>
+<p>CSEduino, é uma plataforma OpenSource, baseada no Arduino que foi pensada e pelo nosso Master João Alves, que será o orientador deste nosso primeiro Workshop.</p>
+<p>&nbsp;</p>
+<p>O Workshop vai ter lugares limitados (8) será de 2 dias e ocorrerá em 28.fev e 1.Março, pelo valor de 60.euros</p>
+<p>As inscrições para o Worskhop abrem dia 1 de Fevereiro.</p>
+<p>[Actualização]</p>
+<p><a title="Workshop — Constrói o teu CSEduino" href="http://altlab.org/2015/02/03/workshop-constroi-o-teu-cseduino/">Link o post com o detalhe da workshop</a></p>
+<p>&nbsp;</p>
+<p>Enquanto esperam por fevereiro, aproveitam inscrevam-se na <a href="http://audienciazero.org/mailman/listinfo/altlab_audienciazero.org" target="_blank">mailing list</a>&nbsp;do altLab para receberem updates em relação a este e outros workshops.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Durante esta sessão de Tinker, fomos ainda brindados pela visita de amigos makers da <a href="http://junitec.ist.utl.pt/" target="_blank">Junitec</a>&nbsp;e uma visita inesperada de um colega maker de um hackerspace holandês</p>
+<p>&nbsp;</p>
+<p>Em suma, um Sabado bem passado na companhia de amigos <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ts @ altLab &#038; Junk Challenge @ Doing — Balanço</title>
+		<link>https://altlab.org/2014/12/01/ts-altlab-junk-challenge-doing-balanco/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2014 01:27:49 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Sessions]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5075</guid>
+
+					<description><![CDATA[Foi um dia cheio. &#160; De manhã abriu-se as portas do Lab a um Tinker Session privado (para membros) orientado pelo nosso histórico Nuno Marques. Tema, exploração de sensores de posição e orientação de voo com arduino… &#160; &#160; As 14.30 segui para o Pavilhão do conhecimento, mais o Pedro Roque da Hackerschool, para preparar &#8230; <a href="https://altlab.org/2014/12/01/ts-altlab-junk-challenge-doing-balanco/" class="more-link">Continue reading<span class="screen-reader-text"> "Ts @ altLab &#38; Junk Challenge @ Doing — Balanço"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/category/sessions/"><img decoding="async" loading="lazy" class="aligncenter wp-image-5115 size-full" src="http://altlab.org/wp-content/uploads/2015/01/TinkerSessions.png" alt="TinkerSessions" width="400" height="216" srcset="https://altlab.org/wp-content/uploads/2015/01/TinkerSessions.png 400w, https://altlab.org/wp-content/uploads/2015/01/TinkerSessions-300x162.png 300w" sizes="(max-width: 400px) 85vw, 400px"></a></p>
+<p>Foi um dia cheio.</p>
+<p>&nbsp;</p>
+<p>De manhã abriu-se as portas do Lab a um Tinker Session privado (para membros) orientado pelo nosso histórico Nuno Marques. Tema, exploração de sensores de posição e orientação de voo com arduino…</p>
+<p>&nbsp;</p>
+<p><a href="http://altlab.org/wp-content/uploads/2014/12/ts-altlab-arduino-nmarques-web.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-5078 size-full" src="http://altlab.org/wp-content/uploads/2014/12/ts-altlab-arduino-nmarques-web.jpg" alt="ts-altlab-arduino-nmarques-web" width="1200" height="795"></a></p>
+<p><a href="http://altlab.org/wp-content/uploads/2014/12/ts-altlab-arduino-running-program-web.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-5091 size-large" src="http://altlab.org/wp-content/uploads/2014/12/ts-altlab-arduino-running-program-web-1024x678.jpg" alt width="640" height="423" srcset="https://altlab.org/wp-content/uploads/2014/12/ts-altlab-arduino-running-program-web-1024x678.jpg 1024w, https://altlab.org/wp-content/uploads/2014/12/ts-altlab-arduino-running-program-web-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2014/12/ts-altlab-arduino-running-program-web-768x509.jpg 768w, https://altlab.org/wp-content/uploads/2014/12/ts-altlab-arduino-running-program-web.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></a></p>
+<p>&nbsp;</p>
+<p>As 14.30 segui para o Pavilhão do conhecimento, mais o Pedro Roque da Hackerschool, para preparar a sessão de junk challenge (desafio da tralha), versão artistica as 15.30 recebemos os inscritos e deitamos mãos à massa.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://altlab.org/wp-content/uploads/2014/12/doing-ready-tools-web.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-5079 size-full" src="http://altlab.org/wp-content/uploads/2014/12/doing-ready-tools-web.jpg" alt="doing-ready-tools-web" width="1200" height="795"></a></p>
+<p><a href="http://altlab.org/wp-content/uploads/2014/12/doing-junk-challenge-action_web.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-5080 size-full" src="http://altlab.org/wp-content/uploads/2014/12/doing-junk-challenge-action_web.jpg" alt="doing-junk-challenge-action_web" width="1200" height="795"></a></p>
+<p><a href="http://altlab.org/wp-content/uploads/2014/12/doing-junk-challenge-action-desoldering-web.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-5087 size-full" src="http://altlab.org/wp-content/uploads/2014/12/doing-junk-challenge-action-desoldering-web.jpg" alt="doing-junk-challenge-action-desoldering-web" width="1200" height="795"></a></p>
+<p><a href="http://altlab.org/wp-content/uploads/2014/12/doing-junk-challenge-action-looking-glass-web.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-5089 size-full" src="http://altlab.org/wp-content/uploads/2014/12/doing-junk-challenge-action-looking-glass-web.jpg" alt="doing-junk-challenge-action-looking-glass-web" width="1200" height="828"></a></p>
+<p>&nbsp;</p>
+<p>Não resistimos, e durante a pausa entre sessões aproveitamos para jogar um pouco de scrabble com teclas dos agora defuntos teclados de pc.</p>
+<p>&nbsp;</p>
+<p><a href="http://altlab.org/wp-content/uploads/2014/12/altlab-hackerschool-doing-scrabble-web.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-5081 size-large" src="http://altlab.org/wp-content/uploads/2014/12/altlab-hackerschool-doing-scrabble-web-1024x674.jpg" alt="altlab-hackerschool-doing-scrabble-web" width="640" height="421" srcset="https://altlab.org/wp-content/uploads/2014/12/altlab-hackerschool-doing-scrabble-web-1024x674.jpg 1024w, https://altlab.org/wp-content/uploads/2014/12/altlab-hackerschool-doing-scrabble-web-300x198.jpg 300w, https://altlab.org/wp-content/uploads/2014/12/altlab-hackerschool-doing-scrabble-web-768x506.jpg 768w, https://altlab.org/wp-content/uploads/2014/12/altlab-hackerschool-doing-scrabble-web.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></a></p>
+<p>&nbsp;</p>
+<p>O modelo do junk challenge (desafio da tralha) é um sucesso. Existem em cada um de nós um desejo secreto de saber o que está para lá da caixa negra, de descobrir como as coisas funcionam, de analisar e dissecar a realidade que nos rodeia. quanto mais jovens somos mais essa natureza transparece. Não deixa de ser surpreendente a adesão que este modelo de evento tem e é simplesmente lindo ver o sorriso de criança que este exercício de desembalarem provoca nos adultos que participam.</p>
+<p>&nbsp;</p>
+<p>Agredecimentos a todos os participantes pelo divertimento e a toda a equipa pelo excelente trabalho promovido.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://altlab.org/wp-content/uploads/2014/11/altlab-hackerschool-doing-junkchallenge-closing.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-5076 size-large" src="http://altlab.org/wp-content/uploads/2014/11/altlab-hackerschool-doing-junkchallenge-closing-1024x592.jpg" alt="altlab-hackerschool-doing-junkchallenge-closing" width="840" height="486" srcset="https://altlab.org/wp-content/uploads/2014/11/altlab-hackerschool-doing-junkchallenge-closing-1024x592.jpg 1024w, https://altlab.org/wp-content/uploads/2014/11/altlab-hackerschool-doing-junkchallenge-closing-300x174.jpg 300w, https://altlab.org/wp-content/uploads/2014/11/altlab-hackerschool-doing-junkchallenge-closing-768x444.jpg 768w, https://altlab.org/wp-content/uploads/2014/11/altlab-hackerschool-doing-junkchallenge-closing.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"></a></p>
+<p>&nbsp;</p>
+<p>A todos um bem Haja.</p>
+<p>altLab [Luis Dinis, Vinicius Silva]; Hackerschool [Inês, Pedro];&nbsp;Dóing [Lucia, Miguel]</p>
+<p>&nbsp;</p>
+<p>—-</p>
+<p>PS: amanhã carregamos as fotos das obras que este jc&nbsp;produziu <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Makerfaire prep</title>
+		<link>https://altlab.org/2014/09/18/makerfaire-prep/</link>
+		
+		<dc:creator><![CDATA[pangelo]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2014 10:50:08 +0000</pubDate>
+				<category><![CDATA[Sessions]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4964</guid>
+
+					<description><![CDATA[This last Tuesday meeting was super hectic with everyone getting their projects ready for the upcoming Lisbon Mini Makerfaire and for the Junk Challenge altLab is organizing there (join us!). Here are some photos as a sneak peek of the preparations. I’ll let you work out by yourself what everyone is doing as I don’t &#8230; <a href="https://altlab.org/2014/09/18/makerfaire-prep/" class="more-link">Continue reading<span class="screen-reader-text"> "Makerfaire prep"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>This last Tuesday meeting was super hectic with everyone getting their projects ready for the upcoming <a href="http://makerfairelisbon.com/" title="Lisbon Mini Maker Faire">Lisbon Mini Makerfaire</a> and for the Junk Challenge altLab is organizing there (join us!).</p>
+<p>Here are some photos as a sneak peek of the preparations. I’ll let you work out by yourself what everyone is doing as I don’t want to spoil the surprises.</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/altlab_makerfaire_prep_meeting.jpg" alt="altlab_makerfaire_prep_meeting" width="640" height="480" class="aligncenter size-full wp-image-4965"></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/makerfaire_prep_1.jpg" alt="makerfaire_prep_1" width="640" height="480" class="aligncenter size-full wp-image-4966"></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/makerfaire_prep_2.jpg" alt="makerfaire_prep_2" width="640" height="480" class="aligncenter size-full wp-image-4967"></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/makerfaire_prep_3.jpg" alt="makerfaire_prep_3" width="640" height="480" class="aligncenter size-full wp-image-4968"></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/makerfaire_prep_4.jpg" alt="makerfaire_prep_4" width="640" height="480" class="aligncenter size-full wp-image-4969"></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/makerfaire_prep_5.jpg" alt="makerfaire_prep_5" width="640" height="480" class="aligncenter size-full wp-image-4970"></p>
+<p>See you at the Faire!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>we’re back</title>
+		<link>https://altlab.org/2014/09/12/were-back/</link>
+		
+		<dc:creator><![CDATA[pangelo]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2014 11:44:36 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Sessions]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4957</guid>
+
+					<description><![CDATA[After a well deserved holliday, the altLab crew is back in the lab. We are still getting to know our new home, and it will still take a while for us to get completely comfortable, but some of us are already back to work on their projects. Here’s the play-by-play report of last Tuesday’s session. &#8230; <a href="https://altlab.org/2014/09/12/were-back/" class="more-link">Continue reading<span class="screen-reader-text"> "we’re back"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>After a well deserved holliday, the altLab crew is back in the lab. We are still getting to know our new home, and it will still take a while for us to get completely comfortable, but some of us are already back to work on their projects. Here’s the play-by-play report of last Tuesday’s session.</p>
+<p>Luis worked on his HackyRacers project, trying to get it ready to show at the Lisbon Maker Faire. He also put the finishing touches on a small electronics kit to teach kids about electronics.</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/hacky_racers.jpg" alt="hacky racers" width="500" height="375" class="aligncenter size-full wp-image-4958"></p>
+<p>Fernando set out to improve the power consumption of our lab’s RFID door lock to only turn on when someone is actually trying to use it. This week he dismantled the door knob and modded it to close a circuit when the lever is pulled, check it:</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/door_switch.jpg" alt="modified door knob" width="500" height="375" class="aligncenter size-full wp-image-4959"></p>
+<p>I went to the lab to etch some PCBs for a <a href="http://hugatree.artivis.net" title="Hugatree">wireless sensor kit that detects tree hugs</a> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Our usual toner transfer technique wasn’t working properly, as the glossy magazine paper wasn’t sticking to the copper plate when passed under the laminator several times, so I took a tip from Fernando and used some mad ironing skills:</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/pcb_ironing.jpg" alt="ironing a PCB" width="375" height="500" class="aligncenter size-full wp-image-4960"></p>
+<p>The results were great:</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/hugatree_pcbs.jpg" alt="etched PCBs" width="500" height="375" class="aligncenter size-full wp-image-4961"></p>
+<p>Next week will be hectic as we will be preparing for the Maker Faire and setting up our new shelves to sort all our materials and tools and make the new place a proper workshop.</p>
+<p>See you next Tuesday!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

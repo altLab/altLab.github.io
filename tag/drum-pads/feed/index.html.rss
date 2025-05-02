@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>drum pads - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/drum-pads/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Tue, 04 Aug 2009 17:57:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Drum Pads</title>
+		<link>https://altlab.org/2009/08/04/drum-pads/</link>
+		
+		<dc:creator><![CDATA[Ricardo Webbens]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2009 17:57:54 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[drum pads]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[recycle]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=489</guid>
+
+					<description><![CDATA[Hey. Four drum pads ready to go. All made of old material found in the Alt/Lab installations, and a very special big thankxxx for Mónica who brought the casings (we are going back to that in a moment) for the drum pads. So the idea was to make drum pads that we could hook up &#8230; <a href="https://altlab.org/2009/08/04/drum-pads/" class="more-link">Continue reading<span class="screen-reader-text"> "Drum Pads"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" width="320" height="240" class="alignleft size-full wp-image-490" src="http://altlab.org/wp-content/uploads/2009/08/drumpads1.jpg" alt="drumpads1"><img decoding="async" loading="lazy" class="alignleft size-full wp-image-491" src="http://altlab.org/wp-content/uploads/2009/08/drumpads2.jpg" alt="drumpads2" width="320" height="240"></p>
+<p>Hey.</p>
+<p>Four drum pads ready to go.</p>
+<p>All made of old material found in the Alt/Lab installations, and a very special big thankxxx for Mónica who brought the casings (we are going back to that in a moment) for the drum pads.</p>
+<p>So the idea was to make drum pads that we could hook up to a sound card(or whatever) and them make sweet music, this is a very nice combination between piezoelectric components and a few layers of some absorbent sound&nbsp; material like rubber or cork foil (that’s what we use because there was nothing more) and a piece of aluminum foil for a greater drum area .</p>
+<p>We use an old can (20l) of paint, four piezoelectric found in electronic junk like old modems and old telephones, wire for connecting the piezos, cork foil for insulation the drum pad area and Mónica supply the casings (square rubber cd´s stands), and glue for putting everything nice and tight .</p>
+<p>First we cut a piece of the can (circular about 10cm radius)and we glued the piezo into it, then we drilled one hole into the rubber casing for the wires to came out, them we cut two square cork foil parts (the first in the bottom of the casing and the other for the top) a bit of glue and that’s it drum pads ready to rock.</p>
+<p>Now we got some audio coming out of the pads but thats just boring because its always the same and we want to go further like transforming audio into midi messages, and we found the right tool for it, its called&nbsp; “<a href="http://koen.smartelectronix.com/KTDrumTrigger/" target="_blank">KTDrumTrigger</a>” and he transforms the audio signal into midi notes, we can use this midi notes inside a sequencer program to control any kind of instrument (either VSTI or some other stuff), in our case we use the drum pads to control “<a href="http://www.native-instruments.com/#/en/products/producer/battery-3/" target="_blank">Battery</a>” and thats it instant fun.</p>
+<p>There are some other links and some other ideas for drum pads. This “<a href="http://www.spikenzielabs.com/SpikenzieLabs/DrumKitKit.html">one</a>“uses ardunio as a source for the imput signal.</p>
+<p><img decoding="async" loading="lazy" width="320" height="240" class="alignleft size-full wp-image-494" src="http://altlab.org/wp-content/uploads/2009/08/drumpads3.jpg" alt="drumpads3"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

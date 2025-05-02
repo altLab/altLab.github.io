@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>solarbots - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/solarbots/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 15:04:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Workshops at BetaLab</title>
+		<link>https://altlab.org/2010/05/10/workshops-at-betalab/</link>
+		
+		<dc:creator><![CDATA[Tiago Henriques]]></dc:creator>
+		<pubDate>Mon, 10 May 2010 09:01:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[solarbots]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=731</guid>
+
+					<description><![CDATA[In the next weeks we’ll be giving two workshops at BetaLab, a co-working space organized by betahaus&#124; within the Chiado-After-Work program. Here’s all the information and workshops’ schedule (in Portuguese): Workshop DIY Kinetic SolarBots — Construa o seu próprio robot cinético solar. Neste workshop os participantes vão construir um pequeno robot cinético através da montagem &#8230; <a href="https://altlab.org/2010/05/10/workshops-at-betalab/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshops at BetaLab"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>In the next weeks we’ll be giving two workshops at BetaLab, a co-working space organized by <a href="http://www.betahaus.de/">betahaus|</a> within the <a href="http://chiado-after-work.blogspot.com/">Chiado-After-Work</a> program.</p>
+<p>Here’s all the information and workshops’ schedule (in Portuguese):</p>
+<p><strong>Workshop DIY Kinetic SolarBots</strong> — Construa o seu próprio robot cinético solar.</p>
+<p>Neste workshop os participantes vão construir um pequeno robot cinético através da montagem de um circuito solar com um pequeno motor e do design/modelagem do corpo do robot com Shmelzolan (plástico utilizado em artesanato).</p>
+<p><strong>Datas</strong> : 12 de Maio / 19 de Maio / 26 de Maio</p>
+<p><strong>Horário</strong> : 17h — 21h</p>
+<p><strong>Preço</strong> : 25 Euros/Pessoa</p>
+<p><strong>Local</strong> : Rua Garrett, 70 (Baixa, Lisboa)</p>
+<p><object width="522" height="294" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=10737480&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="522" height="294" src="http://vimeo.com/moogaloop.swf?clip_id=10737480&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" allowfullscreen="allowfullscreen"></object></p>
+<p>CC : Video by xdatelier (<a href="http://xdatelier.org/">http://xdatelier.org/</a>)</p>
+<p><strong>Workshop Electrónica Aprender a soldar </strong></p>
+<p>Qualquer pessoa é capaz de fazer uma boa soldadura, é só uma questão de prática! Neste workshop aprendemos a soldar construindo circuitos muito divertidos como o Pisca-Pisca LED, uPONG (Retro Video GAME), Drawdio (um lápis/pincel que emite sons enquanto desenhámos) entre outros.</p>
+<p><strong>Datas</strong> : 14 de Maio / 21 de Maio / 28 de Maio</p>
+<p><strong>Horário</strong> : 17h — 21h</p>
+<p><strong>Preço</strong> : entre 10 — 35&nbsp; Euros/Pessoa (consoante o kit seleccionado para construir)</p>
+<p><strong>Local</strong> : Rua Garrett, 70 (Baixa, Lisboa)</p>
+<figure id="attachment_734" aria-describedby="caption-attachment-734" style="width: 300px" class="wp-caption alignnone"><a href="http://altlab.org/wp-content/uploads/2010/05/moz-screenshot.png"><img decoding="async" class="wp-image-734 size-medium" title="moz-screenshot" src="http://altlab.org/wp-content/uploads/2010/05/moz-screenshot-300x218.png" width="300" height="218" srcset="https://altlab.org/wp-content/uploads/2010/05/moz-screenshot-300x218.png 300w, https://altlab.org/wp-content/uploads/2010/05/moz-screenshot.png 500w" sizes="(max-width: 300px) 85vw, 300px"></a><figcaption id="caption-attachment-734" class="wp-caption-text">CC : Photo by LadyAda (www.adafruit.com)</figcaption></figure>
+<p>A inscrição para qualquer um dos workshops numa das das disponíveis deve ser efectuada via email para o endereço : <a href="mailto:daniela@betahaus.de">daniela@betahaus.de</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

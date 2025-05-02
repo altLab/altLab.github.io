@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lawsuit - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/lawsuit/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Fri, 13 Jul 2012 13:18:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>3D Printing, a disruptive technology…</title>
+		<link>https://altlab.org/2012/07/13/3d-printing-a-disruptive-technology/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Fri, 13 Jul 2012 13:18:21 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[Copyright]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[Lawsuit]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3505</guid>
+
+					<description><![CDATA[&#160; 3D Printing seems to be finally hitting the mainstream. People are becomming aware of this new old tecnology, much due to the fact that the availability and open sourceness of it is plunging down the cost of model printing. The reality of this is falling like a hammer in the industry that is starting &#8230; <a href="https://altlab.org/2012/07/13/3d-printing-a-disruptive-technology/" class="more-link">Continue reading<span class="screen-reader-text"> "3D Printing, a disruptive technology…"</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_3506" aria-describedby="caption-attachment-3506" style="width: 660px" class="wp-caption alignnone"><a href="http://altlab.org/2012/07/13/3d-printing-a-disruptive-technology/st_thompson_techlaw_f/" rel="attachment wp-att-3506"><img decoding="async" class="size-full wp-image-3506" title="st_thompson_techlaw_f" src="http://altlab.org/wp-content/uploads/2012/07/st_thompson_techlaw_f.jpg" alt width="660" height="533"></a><figcaption id="caption-attachment-3506" class="wp-caption-text">Photo illustration: Andrew B. Myers</figcaption></figure>
+<p>&nbsp;</p>
+<p>3D Printing seems to be finally hitting the mainstream.</p>
+<p>People are becomming aware of this new old tecnology, much due to the fact that the availability and open sourceness of it is plunging down the cost of model printing.</p>
+<p>The reality of this is falling like a hammer in the industry that is starting to see how disruptive this tech will be. So much that law suits over copyright have started to happen as we write.</p>
+<p>&nbsp;</p>
+<blockquote><p>Games Workshop, the UK-based firm that makes Warhammer, noticed Valenty’s work and sent Thingiverse a takedown notice, citing the Digital Millennium Copyright Act. Thingiverse removed the files, and Valenty suddenly</p>
+<p>became an unwilling combatant in the next digital war: the fight over copying physical objects.</p></blockquote>
+<p>&nbsp;</p>
+<p>Check out the full article @ WIRED &gt;<a title="3D Printing Copyrights battle's have begun..." href="http://www.wired.com/design/2012/05/3-d-printing-patent-law" target="_blank">here</a>&lt;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

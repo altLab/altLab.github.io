@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<!-- <base href="https://altlab.org/d/" />  -->
+		<title>AltSpectra | altLab Documenta</title>
+				<meta name="description" content="notas Sobre o Desenvolvimento e produção de de um espectrómetro de baixo custo.">
+				<meta property="og:type" content="article" />
+		<meta property="og:title" content="AltSpectra | altLab Documenta" />
+		<meta property="og:description" content="notas Sobre o Desenvolvimento e produção de de um espectrómetro de baixo custo." />
+		<meta property="og:url" content="https://altlab.org/d/s/projectos/altspectra/" />
+		<meta property="og:site_name" content="altLab Documenta" />
+
+		<!-- Bootstrap -->
+		<link href="../../../themes/altlab/css/bootstrap.min.css" rel="stylesheet">
+		<link href="../../../themes/altlab/override-test.css" rel="stylesheet">
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="../../../themes/altlab/js/jquery-1.12.4.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="../../../themes/altlab/js/bootstrap.min.js"></script>
+
+	</head>
+	<body>
+<div class="container">
+<div class="container-fluid">
+      <div class="page-header hidden-xs" id="brand-logo">
+        <h1><a href="../../../../index.html"><img src="../../../themes/altlab/altlab-logo-gradoverwhite.png" width="180" height="120" alt="Home" style="vertical-align:text-bottom" /></a> Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></h1>
+
+      </div>
+			<nav class="navbar navbar-inverse">
+
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+<div class="visible-xs">
+<a class="navbar-brand" href="../../../../index.html"><img src="../../../themes/altlab/altlab-logo-documenta.png" width="58" height="35" alt="Home" style="margin-top: -7px;"></a>
+						<a class="navbar-brand" href="../../../index.html">Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></a></div>
+					</div>
+					<div class="collapse navbar-collapse" id="myNavbar">
+						<ul class="nav navbar-nav">
+
+           	<li id="dropdown.1" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Membros <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../../../m/index.html">Index</a>
+</li>
+   
+           	<li id="dropdown.101" class="dropdown">
+		<a href="../../../m/jpralves/index.html">João Alves <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.102" class="dropdown">
+		<a href="../../../m/sislog/index.html">Fernando Carvalho <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.103" class="dropdown">
+		<a href="../../../m/pangelo/index.html">Pedro Ângelo <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.104" class="dropdown">
+		<a href="../../../m/dinix/index.html">Dinix <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../../../m/funke/funke.html">m/funke/funke</a>
+  
+   	</li>
+            	<li id="dropdown.106" class="dropdown">
+		<a href="../../../m/afonsom/index.html">Afonso Muralha <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.107" class="dropdown">
+		<a href="../../../m/x3msnake/index.html">X3msnake <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../../../m/ampmendes/index.html">António Mendes</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/guardajoao/index.html">GuardaJoao</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/jac/index.html">JAC</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/nini/index.html">Nuno Nini</a>
+  
+   	</li>
+ 
+</ul>
+    	</li>
+            	<li id="dropdown.2" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Documentação Partilhada <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../../index.html">Index</a>
+</li>
+   
+                         	<li id="dropdown.203" class="dropdown">
+		<a href="../../workshops/index.html">Workshops <span class="caret"></span></a>
+  
+      	</li>
+                   	<li>
+		<a href="../../documenta/index.html">Documenta DevMap</a>
+  
+   	</li>
+                   	<li>
+		<a href="../../processos/index.html">Processos do Lab (draft)</a>
+  
+   	</li>
+            	<li id="dropdown.208" class="dropdown">
+		<a href="../../recursos/index.html">Recursos <span class="caret"></span></a>
+  
+      	</li>
+ 
+</ul>
+    	</li>
+ 
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="container">
+				<section id="content">
+					<div class="inner">
+						<h1>AltSpectra</h1>
+
+<p>autores: FC, JAC</p>
+
+<h2 id="Topo">Topo</h2>
+
+<p><a href="#Software">Software</a></p>
+
+<p><a href="#Hardware">Hardware</a></p>
+
+<p><a href="#BaseTeorica">Base teórica</a></p>
+
+<p><a href="#Datasheets">Datasheets</a></p>
+
+<p><a href="#Subpaginas">subpáginas</a></p>
+
+<ul>
+<li><p><a href="https://altlab.org/d/s/projectos/altspectra/avrdude">avrdude</a></p></li>
+<li><p><a href="putty">putty</a></p></li>
+<li><p><a href="https://altlab.org/d/s/projectos/altspectra/logicanalyser">Analisador Lógico</a></p></li>
+<li><p><a href="psoc">Cypress PSoC4</a></p></li>
+<li><p><a href="https://altlab.org/d/s/projectos/altspectra/difracao">Cálculo da difração</a></p></li>
+<li><p><a href="readtemperature">lendo a temperatura de dois LM61, com 0.1ºC precisão</a></p></li>
+<li><p><a href="1%C2%AAExperi%C3%AAncia_Peltier">1ªExperiência_Peltier</a></p></li>
+<li><p><a href="pcbmaking">Produção de Placas de PCB pelo método de indirect Laser Etching</a></p></li>
+<li><p><a href="drivers">Drivers Arduino Nano</a></p></li>
+</ul>
+
+<p><a href="https://altlab.org/d/s/projectos/altspectra/versionOne">Versão 1</a></p>
+
+<h2>Fases do desenvolvimento</h2>
+
+<ul>
+<li>desenvolvimento do relógio para controlo do sensor linear Sony ILX544A</li>
+<li>desenvolvimento do circuito de deteção de temperatura</li>
+<li>desenvolvimento do circuito de controlo de TEC cooler</li>
+<li>desenvolvimento do circuito de controlo do sensor CCD</li>
+<li>obtenção do sinal com osciloscópio, para determinação do sinal de base, currente térmica, sinal propriamente dito, determinação da tensão de saturação.</li>
+<li>construção da placa de interface sensor/arduino</li>
+<li>integração Arduino nano + placa de aquisição.</li>
+<li>desenvolvimento do módulo óptico</li>
+<li>integração módulo electrónica com módulo óptico.</li>
+</ul>
+
+<h2>Lista de Materiais</h2>
+
+<h3>placa Sensor V1</h3>
+
+<table>
+<thead>
+<tr>
+  <th>qt.</th>
+  <th>descrição</th>
+  <th>Preço</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>Sony ILX 554A</td>
+  <td></td>
+</tr>
+<tr>
+  <td>22</td>
+  <td>pinos Fêmea maquinados</td>
+  <td></td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>pinos Macho</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>R1 - 150  Ohm</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>R2 - 150  Ohm</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>transistor PNP</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>C1 - 10nF</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>C2 - 22uF</td>
+  <td></td>
+</tr>
+<tr>
+  <td>_________</td>
+  <td>_________________________</td>
+  <td>________</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+  <th>qt.</th>
+  <th>descrição</th>
+  <th>Preço</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>Arduino Nano</td>
+  <td></td>
+</tr>
+<tr>
+  <td>_________</td>
+  <td>_________________________</td>
+  <td>________</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+  <th>qt.</th>
+  <th>descrição</th>
+  <th>Preço</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>Fonte de Alimentação 9V</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>R3 - 100K Ohm</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>P4 - 5K   Ohm</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>R5 - 10   Ohm</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>R7 - 330  Ohm</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>C3 - 22uF</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>C4 - 10nF</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>OPA350UA</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>TL431CDBRE4</td>
+  <td></td>
+</tr>
+<tr>
+  <td>_________</td>
+  <td>_________________________</td>
+  <td>________</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+  <th>qt.</th>
+  <th>descrição</th>
+  <th>Preço</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>peltier</td>
+  <td></td>
+</tr>
+<tr>
+  <td>_________</td>
+  <td>_________________________</td>
+  <td>________</td>
+</tr>
+</tbody>
+</table>
+
+<p>Módulo de controlo de temperatura do sensor e so peltier
+| 1       | lm61  - sensor CCD      |        |
+| 1       | lm61  - dissipador      |        |
+|_________|_________________________|________|</p>
+
+<h2>Esquema <a href="#Topo">Topo</a></h2>
+
+<p>Placa do Sensor CCD Linear</p>
+
+<p><img src="554K_schematic_V1.png" alt="Placa do sensor V1" /></p>
+
+<p><img src="554K_schematic_V2.png" alt="Placa do sensor V2" /></p>
+
+<p>Processing Unit</p>
+
+<p><img src="arduino-nano.jpg" alt="Arduino Nano" /> <img src="altOspectra.png" alt="Conjunto" /></p>
+
+<p>Exploded View of the Assembly</p>
+
+<h1 id="Software">Software:</h1>
+
+<p><a href="#Topo">Topo</a></p>
+
+<ul>
+<li><a href="http://www.openfoam.org/index.php">OpenFoam - Computational Flow Dynamics</a></li>
+<li><a href="http://sigrok.org/wiki/Main_Page">SIGROK - open Source Logic Analyser</a></li>
+<li><a href="http://www.seeedstudio.com/depot/Bus-Pirate-v36-universal-serial-interface-p-609.html">SeedStudio Bus Pirate</a></li>
+</ul>
+
+<h1 id="Hardware">Hardware</h1>
+
+<p><a href="#Topo">Topo</a></p>
+
+<ul>
+<li><a href="http://imall.iteadstudio.com/power/dc-dc/im130731002.html">BuckConverter </a></li>
+</ul>
+
+<h1 id="Datasheets">Datasheets:</h1>
+
+<p><a href="#Topo">Topo</a></p>
+
+<p>-<a href="ilx544a.pdf">ILX544A - Sony linear CCD</a></p>
+
+<h1>Livro de Registos</h1>
+
+<table>
+<thead>
+<tr>
+  <th>sessão</th>
+  <th>Trabalho</th>
+  <th>Local/Data</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>1</strong></td>
+  <td>sessão de esclarecimentos FC/JAC</td>
+  <td>Altlab 19/5/2015</td>
+</tr>
+<tr>
+  <td><strong>2</strong></td>
+  <td>Sessão de Trabalho FC/JAC</td>
+  <td>Skypameeting 20/5/2015</td>
+</tr>
+<tr>
+  <td><strong>3</strong></td>
+  <td>Sessão de Trabalho FC/JAC</td>
+  <td>AltLab 27/5/2015</td>
+</tr>
+<tr>
+  <td><strong>-</strong></td>
+  <td>Sessões de Trabalho FC/JAC</td>
+  <td>OwnLabs Sprint 27/5/2015</td>
+</tr>
+<tr>
+  <td><strong>4</strong></td>
+  <td>Sessão de Trabalho FC/JAC</td>
+  <td>SkypaMeeting 27/5/2015</td>
+</tr>
+</tbody>
+</table>
+
+<h1>Sensores</h1>
+
+<h2>Sony:</h2>
+
+<h3>lista de sensores da Sony</h3>
+
+<ul>
+<li>Modelo ILX544A - sensor de 2048pixels, de 14 um.</li>
+<li>Modelos com melhores caracteristicas : {sensibilidade, e dimensão do Pixel} - ILX103A,ILX526A)
+http://www.poeticmonkey.com/ebay/semiconductors/optos/ilx751a/linear-ccd-guide.pdf</li>
+</ul>
+
+<h2>Toshiba</h2>
+
+<p>tdc2903D {origem scanner}
+tdc1304AP</p>
+
+<h2>Hamamatsu</h2>
+
+<ul>
+<li>Sensor
+http://www.hamamatsu.com/us/en/S11155-2048-01.html</li>
+<li>Driver Board
+http://www.hamamatsu.com/us/en/product/category/3100/4005/4170/4198/C11165-01/index.html</li>
+</ul>
+
+<h1 id="BaseTeorica">Base Teórica</h1>
+
+<p><a href="#Topo">Topo</a></p>
+
+<p>Compreender o funcionamento do sensor Linear de CCD ILX544A.</p>
+
+<p>Um sensor linear CCD é composto por um array de fotodiodos sobre uma linha, com um conjunto de portas que são descarregadas, quando acionada a porta de libertação das portas, e posteriormente é estimulada por um relógio que aciona a descarga de cada photodiodo.</p>
+
+<p>Um Sensor CCD tem como principio de funcionamento, um elemento sensivel à luz que converte os fotões recebidos em carga eléctrica, a quantidade de carga electrica é maior quanto maior for o tempo durante o qual o elemento de armazenamento estiver no estado de armazenamento.</p>
+
+<p>O sensor linear tem dois modos de funcionamento:
+- S/H Store and Hold - O sensor é exposto e guardada a carga.
+- S/W Store and Wipe - O sensor é exposto e descarregada a carga desenvolvida.</p>
+
+<p>Obter estes dois modos efectua-se da seguinte forma:
+- Store and Hold - o porto de SHSW é colocado ao 5V.
+- Store and Wipe - o porto de SHSW é colocado ao Ground</p>
+
+<p>os dois portos importantes além da alimentação do mesmo, são os portos de libertação das portas ou ROG(Release of Gates), e do relógio CLK.</p>
+
+<p>extrair dados de um sensor simples como o ILX544, passa pela compreensão do sistema de sinais lógicos que colocam o sensor no modo de aquisição ou no modo de envio dos sinais para um microcontrolador capaz de os tratar ou reenviar para a unidade de processamento.</p>
+
+<p>O sensor necessita de ser actuado com um trem de ondas na porta ROG e CLK, para que se torne possível registar o valor de cada pixel. para isso é necessário perceber que o sensor uma vez limpo deve ser colocado a armazenar carga, que após a exposição deve ser lida com um conversor analógico digital. este processo ocorre se o trem de ondas for realizado como se observa na folha de dados do Sensor (Datasheet) ná página 4, no caso de estarmos a utilizar o Modo Store and Hold SH, no caso do modo Store and Wipe SW com o pino à massa o trem de sinais deve obedecer ao trem de ondas apresentado na página 5 da folha de dados do sensor.</p>
+
+<p>existem mais parâmetros que são necessários compreender para conseguir retirar dados de um sensor destes, e obter resultados com rigor, e precisão necessários para que este tipo de sensores tenha aplicabilidade.</p>
+
+<p>Pelo estudo da folha de dados do fabricante deste e de outros sensores e dispositivos é possivel obter o desempenho para que estes dispositivos sejam aplicados no melhor das suas capacidades.</p>
+
+<p>é Necessário compreender que estes sensores possuem um nível de Ruido que é inerente ao seu funcionamento, que mantendo a temperatura estável e baixa será possível reduzir este ruído ao mínimo, para que este ponto se concretize temos de adicionar um sistema que consiga reduzir a temperatura do sensor, e mantê-lo estável, para termos uma ideia concreta dos ganhos que obtemos reduzindo a temperatura e mantendo estável, analisemos o segundo gráfico da página 8 da folha de dados do sensor que diz respeito à Dark Voltage Vs Ambient Temperature, e reparemos que a a 24 graus centigrados, temos uma razão de 1 , e que se a temperatura a que o sensor estiver a trabalhar for de 0 graus centigrados, a razão é de apenas 0,4. Estas razões dão-nos um a indicação da quantidade no entanto para termos uma percepção real do que significam temos de compreender que a Dark Voltage.</p>
+
+<p>Obter a redução da temperatura a que um sensor destes pode trabalhar para cerca de 0 grau centigrado, só é passível de obter com sistemas de arrefecimento, nos dias de hoje existe sistemas de arrefecimento, que tiram partido de um sistema descoberto em 18XX por XXXX Sebeck, e que mais tarde e com o desenvolvimento da tecnologia dos materiais foi possivel de tornar mais simples de executar assim como mais eficiente, por J.C. Peltier. que passa pela utilização de um TEC ou Peltier este tipo de dispositivo funciona como uma bomba de calor, que extrai o calor de uma superficie enviando-o pela superficie oposta. usualmente estes dispositivos são colocados num dissipador que arrefecido a ar ou água extrairá o calor acumulado no dissipador aumentando a eficiencia do do sistema. é utilizado um meio condutor eficiente para extrair o calor do sensor, este processo colocará o sensor a uma temperatura inferior ao da atmosfera circundante.</p>
+
+<p>No entanto, temos de compreender que na medida em que retiramos calor de um objecto aumentamos a tendência para que a água passe do estado gasoso-liquido-sólido porque a temperatuda de condensação foi atingida e posteriormente a temperatura de solidificação que no caso da àgua conhecemos como gelo. Este problema ao ocorrer invalida a utilização de um sensor como este pois essa condensação invalida a recolha de fotões de forma eficiente, logo, implica que um sensor destes ao ser arrefecido, se encontre numa atmosfera destituída do máximo de água, sendo o seu valor suficientemente baixo, para que não ocorra condensação. Do que foi exposto de depreende que o sensor necessite estar numa atmosfera controlada, estanque para que não ocorram trocas com a atmosfera, exterior do dispositvo e ainda que esta se encontre disecada (sem água).</p>
+
+<p>Neste contexto a condensação não ocorre e o sensor funciona no máximo da sua eficiência.</p>
+
+<p>Os sistemas de controlo dos TEC/Peltiers necessitam funcionam com um sistema de reposta em ciclo ou temperature feedback-loop que permitem regular a potência aplicada ao TEC/Peltier de modo a que este funione no máximo da sua eficiência possível.</p>
+
+<p>Um factor a ter em linha de conta é que a inexistência de água no interior da atmosfera, dá um aumento da eficiência do sistema de arrefecimento pois este não necessita de estar a efectuar trabalho a retirar calor da água que se encontra na atmosfera da camara onde o sensor se encontra.</p>
+
+<p><img src="http://dscproject.4t.com/images/ccd%20sig.GIF" alt="timing generator" /></p>
+
+<h2>Compreender o Espectro da radiação</h2>
+
+<p>Para se ter uma correcta noção do que é um espectro é necessário em primeiro lugar compreender que a luz visível seja ela de que cor senos apresente, e um intervalo de comprimentos de onda que se nos apresentam com diferentes cores, esse intervalo pode ver-se num Espectro apresentado de forma gráfica desde os 400 nm aos 800 nm.</p>
+
+<p><img src="solarspectrum.png" alt="Espectro da luz solar" /></p>
+
+<h2>compreender as linhas de Emissão/absorção de um Espectro.</h2>
+
+<p>Os espectros são caracterizados pelas linhas de emissão e absorção.</p>
+
+<h3>Emissão:</h3>
+
+<ul>
+<li>a emissão de radiação resulta do fenómeno em que a matéria irradiada, absorve a radiação, dando origem a um processo de excitação da nuvem electrónica, que posteriormente reemite fotões com um comprimento de onda proporcional à mudança de estado dos electrões envolvidos.</li>
+</ul>
+
+<p><img src="emissionlines.gif" alt="linhas de emissao" /></p>
+
+<h3>Absorpção:</h3>
+
+<ul>
+<li>o processo de absorção parte do presuposto que a matéria é atravessada pela radiação, sendo a radiação absorvida em determinados comprimentos de onda, para isso é necessário conhecer a radiação que está a ser irradiada para a matéria, e posteriormente, determinar o diferencial absorvido.</li>
+</ul>
+
+<p><img src="absorptionlines.jpg" alt="linhas de absorpção no espectro" /></p>
+
+<h2>Compreender o Funcionamento do Sensor CCD</h2>
+
+<p>Os sensores de CCD possuem várias caracteristicas importantes de ter em conta:</p>
+
+<ul>
+<li><p>sensibilidade</p></li>
+<li><p>ruído</p></li>
+</ul>
+
+<h3>sensibilidade</h3>
+
+<p>A sensibilidade de um sensor é a capacidade de este converter os fotões em electrões nos photodiodos que compõem a matriz de photodiodos do mesmo, sendo esta linear ou matrix x/y. deste fenómeno decorre o ganho que o sensor possui. a compreensão deste fenómeno permite compreender e corrigir o sinal obtido por forma a obter medições rigorosas com sensores ccd/cmos.</p>
+
+<h3>Ruido</h3>
+
+<p>O ruído no sinal resulta do ruído interno do sensor assim como do ruído do circuito, considerando que o ruído do sistema de aquisição é o somatório dos ruídos desde a camera de aquisição até ao computador.</p>
+
+<p>Para se obter o Ruído do sensor é necessário efectuar uma exposição o mais curta possível com o sensor, não estando este exposto a radiação, os dados obtidos dizem respeito ao ruído. e são utilizados posteriormente para processar o sinal obtido.</p>
+
+<h3>Currente Negra</h3>
+
+<p>A denominação 'currente negra' decorre do fenómeno de acumulação de sinal nos pixels durante uma exposição, sendo proporcional ao tempo de exposição. altera o sinal recebido alterando a precisão dos resultados, no entanto pode ser quantificada por forma a ser subtraída ao sinal recebido.</p>
+
+<p>Para se obter o sinal da dark current é necessário efectuar uma exposição com o sensor sem receber radiação com o tempo de exposição da imagem que iremos efectuar. Estes dados são utilizados posteriomente para processar o sinal obtido.</p>
+
+<h3>Processamento de Sinal</h3>
+
+<p>O processamento de sinal, são um conjunto de métodos com base matemática que permitem, melhorar a qualidade deste, e obter o resultado mais rigoroso.</p>
+
+<h3>Resposta Espectral</h3>
+
+<p>A resposta Espectral de um sensor é a sensibilidade para cada comprimento de onda dos pixels, influencia a capacidade de um sensor responder a fotões num intervalo de comprimentos de onda.</p>
+
+<p>Para se obter a resposta espectral é necessário efectuar obter o sinnal de uma fonte conhecida e bem determinada por forma a obter a curva de resposta do sensor.</p>
+
+<p>O resultado deste processamento, produz mais uma matriz de dados utilizada no processamento do signal por forma a obter-se um erro reduzido na nossa medição de sinal.</p>
+
+<p>na Figura seguinte apresenta-se uma resposta espectral de um sensor.</p>
+
+<p><img src="ILX511QE.PNG" alt="ILX511 resposta espectral" /></p>
+
+<h2>Compreender a resolução de um espectrómetro (óptico)</h2>
+
+<p>A resolução de um espectrometro depende do sistema óptico associado, assim como da dimensão do pixel que faz a aquisição do sinal.</p>
+
+<h2>Como se processa o aquisição do Sinal de cada Pixel</h2>
+
+<p>{TODO}</p>
+
+<h2>Como se obtém o Espectro Normalizado</h2>
+
+<h2>Tipos de redes de difracção</h2>
+
+<h3>reflexão</h3>
+
+<h3>difracção</h3>
+
+<p>descrição: <a href="https://en.wikipedia.org/wiki/Blazed_grating">Blazed Gratings</a></p>
+
+<h3>Exemplos</h3>
+
+<h2>linhas de gases detectáveis por Espectrometria de absorpção</h2>
+
+<p><img src="http://www.nist.gov/pml/div682/images/DIALFig2-Copy.jpg" alt="Espectro de absorpção de CO2, H20, NO2, CH4" /></p>
+
+<p>diagrama de absorpção de gases e estimulação no IV próximo</p>
+
+<p><img src="http://six.cheng.cam.ac.uk/wiki/images/4/45/WavelengthAgilePrinciple.jpg" alt="método de estmulação e deteção da absorpção de gases" /></p>
+
+<h1 id="Subpaginas">Subpáginas</h1>
+
+<p><a href="#Topo">Topo</a></p>
+
+<ul>
+<li><p><a href="https://altlab.org/d/s/projectos/altspectra/logicanalyser">Analisador Lógico</a></p></li>
+<li><p><a href="https://altlab.org/d/s/projectos/altspectra/avrdude">avrdude</a></p></li>
+<li><p><a href="psoc">Cypress PSoC4</a></p></li>
+</ul>
+
+<h1>Recursos</h1>
+
+<p><a href="#Topo">Topo</a></p>
+
+<p>-<a href="http://spec.jpl.nasa.gov/ftp/pub/catalog/catform.html">Catálogo de espectroscopia molecular - JPL/NASA</a></p>
+
+<p>-<a href="http://laserstars.org/data/elements/">Plasma Recombination lasers in stellar atmospheres</a></p>
+
+<p>-<a href="http://www.nist.gov/pml/data/asd.cfm">NIST - National Institute of Standards and technology - Atomic Spectra database</a></p>
+
+<p>-<a href="http://www.spectralcalc.com/spectral_browser/db_intensity.php">Spectra calculator</a></p>
+
+<p>-<a href="http://astro.unl.edu/naap/hydrogen/animations/hydrogen_atom.html">Hidrogen atom simulator</a></p>
+
+<h1>Projectos Actuais:</h1>
+
+<p><a href="#Topo">Topo</a>
+- <a href="http://myspectral.com">spetroduino</a></p>
+
+<ul>
+<li><p><a href="http://asnora.pagesperso-orange.fr/ccd/monoligne/monoligne511.htm">MonoUno - camera monolitica realisada com um sensor CCD ilx511 e um uC mega32</a></p></li>
+<li><p><a href="http://asnora.pagesperso-orange.fr/ccd/monoligne/monoligne511_arm.htm">MonoUno - camera Monolítica realizada com um Tiva-c Texas</a></p></li>
+<li><p><a href="http://spectralworkbench.org">SpectralWorkbench</a></p></li>
+<li><p><a href="spectrduino1.jpg">Arquitetctura interna do spectrduino</a></p></li>
+<li><p><a href="http://www.edmundoptics.com/optics/gratings/reflective-ruled-diffraction-gratings/1896">Redes de difração difraction gratings</a></p></li>
+<li><p><a href="http://www.thishollowearth.org/category/the/">this hollow eart spectruino project</a></p></li>
+<li><p><a href="http://www.appropedia.org/Spectruino_protocol:MOST">Spectruino - protocol</a></p></li>
+</ul>
+
+<h1>Instalação de drivers do nano origem oriental</h1>
+
+<p><a href="http://0xcf.com/2015/03/13/chinese-arduinos-with-ch340-ch341-serial-usb-chip-on-os-x-yosemite/">dicas para a instalação do driver para o ch341</a></p>
+
+					</div>
+				</section>
+				</div> <!-- Container -->
+
+				<footer id="footer" class="panel-footer">
+					<div class="inner">
+						<a href="https://github.com/PhileCMS/Phile">Phile</a> was made by <a href="https://github.com/PhileCMS">The PhileCMS Community</a>.
+					</div>
+				</footer>
+			</div>
+		</div>
+</div>
+		<script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-20725619-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+		<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.altlab.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+	</body>
+</html>

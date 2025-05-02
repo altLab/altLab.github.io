@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>audiencia zero - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/audiencia-zero/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Thu, 12 Dec 2013 22:27:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>5º Encontro Anual de Laboratórios Audiência Zero — Programa de Actividades</title>
+		<link>https://altlab.org/2013/12/12/encontro-az-program/</link>
+		
+		<dc:creator><![CDATA[pangelo]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2013 22:27:23 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[audiencia zero]]></category>
+		<category><![CDATA[azlabs]]></category>
+		<category><![CDATA[encontro]]></category>
+		<category><![CDATA[events]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4662</guid>
+
+					<description><![CDATA[Começa já neste sábado o 5º Encontro Anual de Laboratórios Audiência Zero. O Encontro vai decorrer no Espaço Protótipo (sala 4.31) da Faculdade de Belas Artes da Universidade de Lisboa. A participação no evento é gratuita e carece apenas de uma inscrição informal por email para o endereço info@altlab.org O programa proposto para o evento &#8230; <a href="https://altlab.org/2013/12/12/encontro-az-program/" class="more-link">Continue reading<span class="screen-reader-text"> "5º Encontro Anual de Laboratórios Audiência Zero — Programa de Actividades"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Começa já neste sábado o 5º Encontro Anual de Laboratórios Audiência Zero. O Encontro vai decorrer no Espaço Protótipo (sala 4.31) da Faculdade de Belas Artes da Universidade de Lisboa.</p>
+<p>A participação no evento é gratuita e carece apenas de uma inscrição informal por email para o endereço info@altlab.org</p>
+<p>O programa proposto para o evento é o seguinte (sujeito a eventuais alterações de ultima hora):</p>
+<h3>Sábado, 14 de Dezembro</h3>
+<h4>10:00 — 13:00</h4>
+<ul>
+<li>abertura de portas</li>
+<li>talks
+<ul>
+<li>“Laboratórios Audiência Zero”, Ricardo Lobo, Rui Marcelino, Tiago Serra (adiada para as 15:00)</li>
+<li>“2001”, Nuno Antunes (adiado para as 14:30)</li>
+<li>“LabIO”, Mick Mengucci, Francisco Medeiros</li>
+</ul>
+</li>
+<li>demonstração
+<ul>
+<li><a href="http://youtu.be/1Z_7KaBszho">“SonarX — image sonification”</a>, Mick Mengucci, Francisco Medeiros / LabIO</li>
+</ul>
+</li>
+</ul>
+<h4>14:00 — 18:00</h4>
+<ul>
+<li>mesas de trabalho
+<ul>
+<li>“Audio Hacking”, Artica</li>
+<li>“Experiências de alta tensão”, Adriano Couto, Fernando Carvalho, Gonçalo Carvalhal, João Nuno Carvalho</li>
+<li>“Braços Robóticos”, Nuno Antunes</li>
+<li>“Raspberry Pi”, Pedro Ângelo</li>
+<li>“Open Mobile”, Rita Sá</li>
+</ul>
+</li>
+<li>demonstração de projectos
+<ul>
+<li>“Desenvolvimento com Kinect e Leap em Unity”, João Saraiva</li>
+<li>“Mocha Kit”, Rita Sá</li>
+</ul>
+</li>
+</ul>
+<h4>18:00</h4>
+<ul>
+<li>mesa redonda “Criatividade em Rede”
+<ul>
+<li>André Rocha (DAR)</li>
+<li>Bernardo Gaeiras (FabLab Lisboa)</li>
+<li>Carlos Alcobia + Pedro Neves (Espaço Protótipo)</li>
+<li>Diogo Alves (MafraLab)</li>
+<li>Ferdinand Meier (FabLab EDP)</li>
+<li>João Pedro Costa (NEDE)</li>
+<li>Paulo Martins (SpinLab)</li>
+<li>Ricardo Lobo (LCD)</li>
+<li>Rui Marcelino (altLab)</li>
+<li>Tiago Serra (xDA)</li>
+</ul>
+</li>
+</ul>
+<h3 dir="ltr">Domingo, 15 de Dezembro</h3>
+<h4 dir="ltr">10:00 — 13:00</h4>
+<ul>
+<li>abertura de portas</li>
+<li>lightning talks</li>
+</ul>
+<h4>14:00 — 18:00</h4>
+<ul>
+<li>mesas de trabalho (continuação)</li>
+</ul>
+<h4>18:00</h4>
+<ul>
+<li>apresentações das mesas de trabalho</li>
+<li>encerramento</li>
+</ul>
+<p>Gostariamos de deixar nosso sincero agradecimento a todos aqueles que nos ajudaram a elaborar este programa propondo actividades e acedendo ao nosso convite a participar, e um agradecimento especial ao Espaço Protótipo da Faculdade de Belas Artes da Universidade de Lisboa pelo apoio logístico na realização do evento.</p>
+<p>Até já <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

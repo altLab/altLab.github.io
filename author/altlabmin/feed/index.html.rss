@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>altlabmin - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/author/altlabmin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Sat, 27 Jul 2013 21:38:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Work­shop Aprende a sol­dar e con­strói o teu próprio Arduino</title>
+		<link>https://altlab.org/2013/07/27/work%c2%adshop-aprende-a-sol%c2%addar-e-con%c2%adstroi-o-teu-proprio-arduino/</link>
+		
+		<dc:creator><![CDATA[altlabmin]]></dc:creator>
+		<pubDate>Sat, 27 Jul 2013 21:38:19 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4315</guid>
+
+					<description><![CDATA[Mais infor­mações e inscrições Workshop Aprende a soldar e constrói o teu próprio Arduino O Arduino é uma excelente plataforma de desenvolvimento para computação física, muito popular, que permite a engenheiros, artistas digitais e hobbystas criar sistemas para manipular o mundo físico e com ele interagir. É o coração de muitas exposições de arte interactiva, &#8230; <a href="https://altlab.org/2013/07/27/work%c2%adshop-aprende-a-sol%c2%addar-e-con%c2%adstroi-o-teu-proprio-arduino/" class="more-link">Continue reading<span class="screen-reader-text"> "Work­shop Aprende a sol­dar e con­strói o teu próprio Arduino"</span></a>]]></description>
+										<content:encoded><![CDATA[<h3><a href="http://altlab.org/2013/07/27/work­shop-aprende-a-sol­dar-e-con­stroi-o-teu-proprio-arduino/#WSFREEDUINO"><strong>Mais infor­mações e inscrições<br>
+</strong><br>
+</a></h3>
+<p><a href="http://altlab.org/wp-content/uploads/2013/07/Workshop-FREEDUINOnovadata1.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-4445" alt="Workshop-FREEDUINOnovadata" src="http://altlab.org/wp-content/uploads/2013/07/Workshop-FREEDUINOnovadata1.jpg" width="552" height="842"></a></p>
+<p><span id="more-4315"></span></p>
+<p style="line-height: 18px;"><a name="WSFREEDUINO"></a></p>
+<h4 style="font-size: 18px; letter-spacing: normal;">Workshop <span style="letter-spacing: -0.02em;">Aprende a soldar e constrói o teu próprio Arduino</span></h4>
+<p style="line-height: 18px;">O Arduino é uma excelente plataforma de desenvolvimento para computação física, muito popular, que permite a engenheiros, artistas digitais e hobbystas criar sistemas para manipular o mundo físico e com ele interagir.</p>
+<p style="line-height: 18px;">É o coração de muitas exposições de arte interactiva, instrumentos musicais personalizados, sistemas de automação residencial, robôs e muito mais.</p>
+<p style="line-height: 18px;"><a style="color: #ed1e24; text-decoration: underline;" href="http://altlab.org/events/comics/" rel="attachment wp-att-2622"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-2622" title="comics" alt src="http://altlab.org/wp-content/uploads/2011/01/comics.jpg" width="638" height="485"></a></p>
+<p style="line-height: 18px;"><a title="Arduino Comics" href="http://www.jodyculkin.com/wp-content/uploads/2011/09/arduino-comic-latest3.pdf" target="_blank">Arduino Comics by Jody Culkin : Vejam esta divertida introdução!</a></p>
+<p style="line-height: 18px;">Neste workshop vais aprender a trabalhar com esta plataforma incrivelmente útil, desde a electrónica básica, a soldar os componemtes do teu Arduino e a ligação de sensores e actuadores! E o mais importante, ou seja, ideias para projectos futuros.</p>
+<p style="line-height: 18px;">Será um workshop aberto, para que todos possam experimentar projectos mais avançados, ter ideias, ajuda e feedback!</p>
+<p style="line-height: 18px;">Os participantes aprendem a soldar na prática através da montagem do <strong><a title="Freeduino KIT" href="http://www.ledsandchips.com/Kits/270" target="_blank">Freeduino KIT</a></strong> que levam para casa depois <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="line-height: 18px;"><img decoding="async" style="width: 500px; height: 375px;" alt src="http://ledsandchips.com/upload/Freeduino01.jpg"></p>
+<p style="line-height: 18px;"><img decoding="async" alt src="http://ledsandchips.com/upload/Freeduino02.jpg"></p>
+<p>Não tens que saber muito de programação, pois no workshop cobriremos algumas noções básicas e programar o Arduino é uma tarefa simples – esta é precisamente uma das razões porque o Arduino é tão popular.</p>
+<p style="line-height: 18px;"><strong>Conteúdos abordados:</strong></p>
+<p style="line-height: 18px;">- Introdução a Electrónica<br>
+— Aprender a Soldar (montagem do <strong><a style="color: #ed1e24; text-decoration: underline;" title="Freeduino KIT" href="http://www.ledsandchips.com/Kits/270" target="_blank">Freeduino KIT</a></strong>)<br>
+— Introdução a Plataforma Arduino<br>
+— <span class="GRcorrect">Sensores</span> e Actuadores<br>
+— Como ligar sensores e actuadores ao Arduino<br>
+— Dicas e truques para instalações interactivas</p>
+<p style="line-height: 18px;"><strong>Não te esqueças de trazer um computador portátil com uma porta USB disponível.</strong> Antes de vir, descarrega o ambiente de programação em <strong><a href="http://arduino.cc/en/Main/Software" target="_blank">arduino.cc</a></strong>. Trás ideias, projectos, motores, componentes, etc. que pretendas desenvolver, se não tens um não há problema! No dia do workshop haverá um conjunto de componentes, sensores e actuadores de vários tipos para emprestar e também outros kits para comprar.</p>
+<p style="line-height: 18px;">Este workshop será orientado por Mauricio Martins.</p>
+<p><strong>Inscrições</strong> : <a href="http://altlab.org/event-registration/#WSFREEDUINO" target="_blank"><b>AQUI</b> (a inscrição on-line é obrigatória)</a><br>
+<strong>Preço</strong> : 50€ | Membros do altLab só pagam 35€ ;p <strong>(Inclui </strong><a style="color: #ed1e24; text-decoration: underline;" title="Freeduino KIT" href="http://www.ledsandchips.com/Kits/270" target="_blank">Freeduino KIT</a><strong>)</strong><br>
+<strong>Local</strong> : no altLab, é claro! (<a href="http://maps.google.com/maps/ms?daddr=&amp;saddr=Praceta+Domingos+Rodrigues,+Loures+2685,+Portugal&amp;ie=UTF8&amp;hl=en&amp;doflg=ptk&amp;msa=0&amp;ll=38.784465,-9.127729&amp;spn=0.004382,0.010568&amp;t=h&amp;z=17&amp;msid=207816408522249587914.00049d2e29ed5bcfba45e" target="_blank">Praceta Domingos Rodrigues, nº2</a>)<br>
+<strong>Nº Máximo de Participantes</strong> : 12</p>
+<p>Cá te esperamos! Trás um amigo também <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> !</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

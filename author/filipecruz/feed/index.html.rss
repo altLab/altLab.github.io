@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>filipecruz - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/author/filipecruz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 14:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Book Review: Cinder Creative Coding Cookbook</title>
+		<link>https://altlab.org/2013/07/12/book-review-cinder-creative-coding-cookbook/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2013 16:11:46 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4228</guid>
+
+					<description><![CDATA[Cinder is a widely used C++ community-developed, free and open source library for professionals coding multimedia applications. Cinder Creative Coding Cookbook is all about getting started with Cinder. The book was written by Dawid Górny and Rui Madeira and published by Packt Publishing. It comes as a more comprehensive follow up to another book published &#8230; <a href="https://altlab.org/2013/07/12/book-review-cinder-creative-coding-cookbook/" class="more-link">Continue reading<span class="screen-reader-text"> "Book Review: Cinder Creative Coding Cookbook"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignleft" alt src="http://dgdsbygo8mp3h.cloudfront.net/sites/default/files/imagecache/productview_larger/8703OS.jpg"> <a href="http://libcinder.org/">Cinder</a> is a widely used C++ community-developed, free and open source library for professionals coding multimedia applications. Cinder Creative Coding Cookbook is all about getting started with Cinder. The book was written by <a href="http://blog.dawidgorny.com/">Dawid Górny</a> and <a href="http://ruim.pt/">Rui Madeira</a> and published by <a href="http://www.packtpub.com/cinder-creative-coding-cookbook/book">Packt Publishing</a>. It comes as a more comprehensive follow up to another book published by Packt about getting started with Cinder.</p>
+<p>This book has 352 pages divided into 12 chapters, progressively covering from the most basic to the relatively advanced.</p>
+<p>It will not teach you how to program, it will not do your project for you, it will not turn you into the uber cinder guru. What it will do is get you acquainted with the cinder developer environment, and give you a good insight on how to get the most out of using it. In short, if you’re a programmer looking to develop an interactive multimedia application with one of the hottest frameworks around this book should be more than enough to get the ball rolling for you with a small amount of time.</p>
+<p>If you’re an advanced user of cinder looking to expand your knowledge you can find some solid example code references. The book includes plenty of example code and clear explanations of what does what. The chapters often include “there is more” sub-sections, pointing to additional information for advanced use.</p>
+<p>I can tell you as an advanced user of cinder that this book does not cover all of the pitfalls and small annoying quirks, you will still have to put your foot in the hole and look them up on the online forum. But it does do a very good job at it’s main goal: being accessible and clear for the new user.</p>
+<p>Some special featured sub-chapters like the MayaGui, OSC, OpenCV, Syphon integration are quite useful for folks who are interested in setting up those specific modules.</p>
+<p>Negative mention to chapter 11, after reading the book description and considering how there were even a few chapters about getting OpenCV working with Cinder, one would expect some deeper examples on the topic of camera interaction. The examples are good, but the topic was hardly well covered, comparing for example with how well particles were. Similarly, regarding the Kinect, despite being a keyword on the book description, it’s only briefly covered in two examples, both of them using the official Windows SDK, ignoring all the work that has been done with OpenNI on multi-platforms before Microsoft launched the official SDK.</p>
+<p>Positive mention goes out to the particles chapter(s) which are quite comprehensive. It includes both basic and more high level information, coupled with explicit example code, which you’ll find useful regardless of your prior knowledge on particles.</p>
+<p>Overall i genuinely believe new people wanting to get involved with Cinder will find this book useful.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Labs @ O Espaço do Tempo</title>
+		<link>https://altlab.org/2012/01/22/az-labs-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Sun, 22 Jan 2012 20:57:46 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3010</guid>
+
+					<description><![CDATA[&#160; The AZ Labs residency at Espaço do Tempo in Montemor-o-Novo is sadly over for now. Folks have been working hard to finish things up for the proto exhibition of projects we had on Saturday. A few projects were shelved or abandoned for different reasons. Not stable enough, not enough time, no right materials, not &#8230; <a href="https://altlab.org/2012/01/22/az-labs-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Labs @ O Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>The AZ Labs residency at Espaço do Tempo in Montemor-o-Novo is sadly over for now. Folks have been working hard to finish things up for the proto exhibition of projects we had on Saturday.</p>
+<p>A few projects were shelved or abandoned for different reasons. Not stable enough, not enough time, no right materials, not enough beer. In the end were left with 9 projects.</p>
+<p>AR Cubes — André Sier developed a few experiments with cubes glued with printed augmented reality fiducial markers. Different markers trigger different effects. You can play with them to make different combinations of objects and lines interacting with each other.</p>
+<p style="text-align: center;"><a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h39m26s147.png"><img decoding="async" loading="lazy" class="alignnone wp-image-3017 size-full" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h39m26s147.png" width="600" height="338"></a>&nbsp;&nbsp;<a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h47m37s83.png"><img decoding="async" loading="lazy" class="alignnone wp-image-3024 size-full" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h47m37s83.png" width="600" height="338"></a></p>
+<p>Tracking Head — Tiago Serra, Andrea Inocêncio and Mauricio Martins worked on a manequin head rescued during a dumpster diving session. They equipped a box with IR leds and use a camera with filters to track the movement of the box. With these values they send rotation information to a servo motor equiped in the base of the manequin head. The same values are also sent to a software that selects a corresponding angle photo which is projected in the manequin. This system makes the freaky manequin head rotate in the direction of the object.</p>
+<p>Talking Head — Next to the Tracking Head we have a speaker box equipped wih an arduino, an ir receiver and a wave shield. When the box handled by the user aims at the speaker box it triggers random samples from a sample pool, giving the illusion that the head itself is talking. Mauricio, André, Filipe, João and Rita worked on this project.</p>
+<p>Tracking Boids — The floor of the Tracking Head space is covered with small light spots flying around. These boids, programmed by André Sier may look like random disco lights on first glance but when someone moves into the camera they flock towards the user.</p>
+<p style="text-align: center;"><a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h44m28s208.png"><img decoding="async" loading="lazy" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h44m28s208-300x169.png" alt width="300" height="169"></a>&nbsp;&nbsp;<a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h55m51s191.png"><img decoding="async" loading="lazy" title="vlcsnap-2012-01-23-22h55m51s191" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h55m51s191-300x169.png" alt width="300" height="169"></a></p>
+<p>Micro CNC — Tiago Rorke had been working on a Micro CNC project, pieces printed with the Makerbot. Tereza Cardoso gave him a hand making a project out of it by taking photos of the attenders of the residency, downgrading them to vector format and having the micro cnc sketch them. They are drawn on the walls of the residency itself, along with qr code linking to video interviews talking about each persons involvement with the different projects.</p>
+<p><a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h54m47s207.png"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-3027 aligncenter" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h54m47s207.png" alt width="600" height="338"></a></p>
+<p>Paint Video Signals — Andrea Inocêncio recorded some short videos of red blue and black paint being applied to different mediums (water, paper, table). Filipe Cruz did a little processing sketch to extract midi values from a grid of pixels in the video and send them to reaktor. Some generative sound tests were recorded and mixed into a video dvd.</p>
+<p style="text-align: center;"><a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h46m41s40.png"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-3022" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h46m41s40.png" alt width="600" height="338"></a></p>
+<p>Blip Blop Blir Boxes — André Sier and Mauricio Martins worked on a few small boxes packed with an Arduino, IR sensors, LEDs and speakers. Boxes pointing to each other make the LEDs change their color. A third box pointed to the previous boxes makes them give out some blips and blops sounds.</p>
+<p style="text-align: center;"><a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h42m14s31.png"><img decoding="async" loading="lazy" class="alignnone wp-image-3018 size-full" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h42m14s31.png" width="600" height="338"></a>&nbsp;&nbsp;<a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h44m59s247.png"><img decoding="async" loading="lazy" class="alignnone wp-image-3020 size-full" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h44m59s247.png" width="600" height="338"></a>&nbsp;&nbsp;<a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h56m33s105.png"><img decoding="async" loading="lazy" class="alignnone wp-image-3031 size-full" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h56m33s105.png" width="600" height="338"></a></p>
+<p>“O mundo é em cada instante o que ele não pode não ser.” — A project conceived by Patricia Proença consisting of a hand drawn animation of a tree growing being projected into a wall. The animation is triggered when a watering can equiped with a cellphone is tilted into an alien plant object. Tiago Serra gave her a hand with the technical implementation.</p>
+<p style="text-align: center;"><a href="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h48m07s135.png"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-3025" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/vlcsnap-2012-01-23-22h48m07s135.png" alt width="600" height="338"></a></p>
+<p>Trailchi — Guilherme Cartaxo and Sónia Malaquias been working for while on their project involving long exposions to tai chi sessions performed in the dark with a sword and suit equipped with 12 LEDs. The captured animations makes some beautiful light trails art. Also helps analyse the motion of the session.</p>
+<p style="text-align: center;">
+</p><p style="text-align: center;">
+</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Labs @ O Espaço do Tempo</title>
+		<link>https://altlab.org/2012/01/16/az-labs-o-espaco-do-tempo-2/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2012 01:35:20 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3000</guid>
+
+					<description><![CDATA[Day three is already upon us at the AZ Labs Residency. Folks still happily hacking away day and night. Run to the local chinese store brought back some hackable goodies like colorful balls, a giant rubik’s cube and some wooden boxes. Andrea Inocêncio was assigned to drilling duty after finishing up with the manequin head. &#8230; <a href="https://altlab.org/2012/01/16/az-labs-o-espaco-do-tempo-2/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Labs @ O Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Day three is already upon us at the AZ Labs Residency. Folks still happily hacking away day and night.</p>
+<p>Run to the local chinese store brought back some hackable goodies like colorful balls, a giant rubik’s cube and some wooden boxes. Andrea Inocêncio was assigned to drilling duty after finishing up with the manequin head. Ricardo Webbens left behind his radio location arduino circuit prototypes for me to test.</p>
+<p><a href="http://audienciazero.net/xda/wp-content/uploads/2012/01/2012-01-14-19.14.32.jpg"><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-1132" src="http://audienciazero.net/xda/wp-content/uploads/2012/01/2012-01-14-19.14.32-1024x614.jpg" alt width="584" height="350"></a></p>
+<p>César Coelho took the time to learn some new software stuff. Tiago Serra is currently trying to make the kinect and the arduino talk with each other and make some annoying sinus sounds. André Sier spent the afternoon hacking with Mauricio Martins programming the arduinos with ir detection to give some random blips and blops.</p>
+<p>Tiago Rorke is almost finished with printing and sanding the hardware of his revolutionary Micro CNC. Ricardo Lobo tried desperatly to get the other Makerbot working. Pedro Ângelo seccluded himself to code some kinect stuff for Play With Fire. Filipe Cruz spent some time testing new versions of kinect libraries and random iPad development.</p>
+<p>Ivo Andrade dropped by to enhance his project of the boy sitting on a metal cube. Patricia Proença sketched some concept art. Other folks were also walking around looking busy and discussing ideas. 7 more days to go.</p>
+
+<a href="https://altlab.org/wp-content/uploads/2012/01/2012-01-15-23.48.06.jpg"><img width="150" height="90" src="https://altlab.org/wp-content/uploads/2012/01/2012-01-15-23.48.06.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/01/2012-01-15-23.48.16.jpg"><img width="150" height="90" src="https://altlab.org/wp-content/uploads/2012/01/2012-01-15-23.48.16.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/01/2012-01-15-23.49.36.jpg"><img width="150" height="90" src="https://altlab.org/wp-content/uploads/2012/01/2012-01-15-23.49.36.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Labs @ O Espaço do Tempo</title>
+		<link>https://altlab.org/2012/01/14/az-labs-o-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2012 02:17:16 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2992</guid>
+
+					<description><![CDATA[&#160; AZ Labs are back in residency at Montemor-o-Novo. This time we are trying to have a connecting theme for the creative technology hacking insanity. The plan for the next 10 days is to brainstorm, conceptualize and prototype project ideas for tangible objects that can interact with each other and the environment. We have folks &#8230; <a href="https://altlab.org/2012/01/14/az-labs-o-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Labs @ O Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>AZ Labs are back in residency at Montemor-o-Novo. This time we are trying to have a connecting theme for the creative technology hacking insanity. The plan for the next 10 days is to brainstorm, conceptualize and prototype project ideas for tangible objects that can interact with each other and the environment.</p>
+<p><img decoding="async" loading="lazy" title="AZ Residency 2012" src="http://altlab.org/wp-content/uploads/2012/01/2012-01-16-01.01.51.jpg" alt width="600" height="360"></p>
+<p>We have folks attending with all sorts of backgrounds: computer science, plastic arts, performance arts, electronics, industrial fabrication, graphic design, sound design, statistics, sociology. We barely had time to introduce ourselves to the first timers and new ideas are already brewing. Plans for infrared communication. Augmented reality environments. Radio signal triangulations. LED boards and cubes. Multiple kinect abuse. Let us wait and see into what these ideas will mature into.</p>
+<p>Right now it’s 2 am, some folks already went to sleep while others are hard at work on personal projects. Using one of the Makerbots to print parts to build a Micro CNC. Trying to get the larger CNC working again. Hacking malfunctioning audio adaptors to create contact microphones. Implementing some tangible interaction with the kinect. Testing out some things with Arduinos. Failing to install ofxPTAM. The list goes on.</p>
+<p>True hacking knows no sleep.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ ready for world domination</title>
+		<link>https://altlab.org/2010/12/17/az-ready-for-world-domination/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Sat, 18 Dec 2010 01:43:32 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[sapo codebits]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1015</guid>
+
+					<description><![CDATA[It took us a while, but practice makes perfect, and we’re now much closer to ridiculing Justin Bieber than we’ve ever been before! You might have noticed what derived from our Residency @ Espaço do Tempo, a dozen projects from several folks spread over the 3 labs exploring the robotic, the interactive, the sensorial, the &#8230; <a href="https://altlab.org/2010/12/17/az-ready-for-world-domination/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ ready for world domination"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>It took us a while, but practice makes perfect, and we’re now much closer to ridiculing Justin Bieber than we’ve ever been before!</p>
+<p>You might have noticed what derived from our <a href="http://www.audienciazero.org/espacodotempo/">Residency @ Espaço do Tempo</a>, a dozen projects from several folks spread over the 3 labs exploring the robotic, the interactive, the sensorial, the tangible, the generative, the audiovisual, the augmented, the provocative, the performative and a few other of all those dirty little words you so much secretly love hearing about. Don’t be shy now. Nothing wrong with getting a little tangible now and again. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>We even participated in a little exhibit last month at Pavilhão Atlântico to present these and a couple other works. And now we’re back with more weapons of mass destruction. And now, <a href="http://labcd.org/2010/12/06/mostra-criatividade/">this very weekend</a> we’re meeting up again for some holiday hacking follery at LCD to show some more of our projects and do a few mini-sprints. Feel free to join us. Lock up your geeks, we’re coming for them!</p>
+<p style="text-align: center;"><img decoding="async" src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs1210.snc4/156275_1671412072519_1453906930_31689591_6392541_n.jpg" alt width="150px"> <img decoding="async" src="http://labcd.org/wp-content/uploads/2010/12/MostraCriatividade.png" alt width="150px"></p>
+<p><span id="more-1015"></span></p>
+<p>And if all this wasn’t good enough to turn you on and make you come down to meet us and participate, allow me to break some further news to you. Two of our projects have recently received their due acknowledgement by two of the highest distinctions in these parts:</p>
+<ul>
+<li>“Among” By Sérgio Ferreira et al won Fundacion Telefonica’s VIDA competition, read all about it in <a href="http://clix.exameinformatica.pt/aluno-da-universidade-do-minho-recebe-premio-internacional=f1008035">the news (.pt only)</a> and <a href="http://virtual-illusion.blogspot.com/2010/12/mtad-premiado-no-vida-130.html">the interview</a>.</li>
+<li>“Big Brother Goes Green: Surveillance for Sustainable Forests” by Mónica Mendes et al was <a href="http://panelpicker.sxsw.com/ideas/view/6736">approved at South By SouthWest</a>.</li>
+</ul>
+<p>And just in case you recognize the lab affiliations from the above and feel like xDA is slacking off compared to our counterparts: <a href="http://www.publico.pt/Tecnologia/sensewall-universidade-de-coimbra-apresenta-parede-interactiva-multitoque_1470699">we’re not</a>, we got multitouch interfaces.</p>
+<p>And if you’ve read this far, please make some tea and have yourself a <a href="http://bit.ly/hPOebF">Bieber moment in a cube</a>. You’re welcome.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZLabs @ O Espaço do Tempo</title>
+		<link>https://altlab.org/2010/07/13/azlabs-o-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Tue, 13 Jul 2010 20:52:36 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[residency]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=903</guid>
+
+					<description><![CDATA[After many days of work, stress and fun, we seem to have managed to pull through 10 projects to showcase at O Espaço do Tempo! The exhibition opened yesterday, 12th July at Convento da Saudação and will remain in exhibit until the end of the month. We also have a mini-site with bios of the &#8230; <a href="https://altlab.org/2010/07/13/azlabs-o-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "AZLabs @ O Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>After many days of work, stress and fun, we seem to have managed to pull through 10 projects to showcase at <a href="http://www.oespacodotempo.pt/pt/">O Espaço do Tempo</a>! The exhibition opened yesterday, 12th July at Convento da Saudação and will remain in exhibit until the end of the month.</p>
+<p>We also have a mini-site with bios of the authors and descriptions of the works, temporarily hosted <a href="http://www.tpolm.org/~ps/AZ_ET/">here</a>. Not only of the works present at the exhibition but also a few others developed during the residency that couldn’t be exhibited by one reason or another. Check them out!</p>
+<p>Big thanks are in order to everyone at <a href="http://www.oespacodotempo.pt/pt/">O Espaço do Tempo</a> for the opportunity we had, and all the in loco support to our needs, you rock. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZLabs @ O Espaço Do Tempo (0day ‑2)</title>
+		<link>https://altlab.org/2010/07/10/azlabs-o-espaco-do-tempo-0day-2/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Sun, 11 Jul 2010 03:13:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[residency]]></category>
+		<guid isPermaLink="false">http://altlab.org/2010/07/10/azlabs-o-espaco-do-tempo-0day-2/</guid>
+
+					<description><![CDATA[2 days to go until the exhibit opening of the Audiencia Zero Labs residency at O Espaço Do Tempo! A few folks seem to be missing in action. Mauricio is back with some news from Interactivos to lend us a hand on pending projects. Mónica and Pedro are still working on B‑wind!. Margarida working on &#8230; <a href="https://altlab.org/2010/07/10/azlabs-o-espaco-do-tempo-0day-2/" class="more-link">Continue reading<span class="screen-reader-text"> "AZLabs @ O Espaço Do Tempo (0day ‑2)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>2 days to go until the exhibit opening of the Audiencia Zero Labs residency at O Espaço Do Tempo!</p>
+<p>A few folks seem to be missing in action. Mauricio is back with some news from <a href="http://medialab-prado.es/interactivos">Interactivos</a> to lend us a hand on pending projects. Mónica and Pedro are still working on B‑wind!.  Margarida working on his robot Freddy. Victor Silva rehearsing his The Last Words of Dominico. Victor and Marco working on Discardable Beauty. Guilherme finishing his Róbotica Criativa works. And me finishing up Meta Gen Haiku. Catarina and Joel should also show up tomorow with their Micro Dérive.</p>
+<p style="text-align: center"><img decoding="async" class="aligncenter" src="http://farm5.static.flickr.com/4096/4781283789_18d1804e8b.jpg" alt></p>
+<p>Website with more info on the presented projects should go online soon. In the meantime if you should show up on Monday the 12th July in Montemor-O-Novo for the exhibit. We will have 7 projects installed under exhibition until the 31st July, and 2 liveacts presented on the exhibition day 12th July.</p>
+<p>In the meantime we’ll leave you with some important t‑shirt quote material we have recently acquired:<br>
+“48 horas são 6 dias de trabalho, em turnos de 8 horas”<br>
+“Eu só faço projection mapping quando estou bêbado”<br>
+“Não tens pincel para isso. Vai antes de rolo.”<br>
+“Queres falar ao telefone? Fala aí! *slap*”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Residency Day 13 – We were never gone</title>
+		<link>https://altlab.org/2010/06/19/az-residency-day-13-we-were-never-gone/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2010 01:23:41 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=877</guid>
+
+					<description><![CDATA[You thought we were dead. But the nerds in black were never gone. AZ Residency at Espaço Tempo has resumed its course on the 14th July 2010, and we’ve been kicking it real with some hardcore project dev for a whole week now! Our main aim is to get all of these projects kicking and &#8230; <a href="https://altlab.org/2010/06/19/az-residency-day-13-we-were-never-gone/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Residency Day 13 – We were never gone"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>You thought we were dead. But the nerds in black were never gone.</p>
+<p style="text-align: center"><img decoding="async" class="aligncenter" src="http://farm5.static.flickr.com/4063/4701194828_852e1a7b65_b.jpg" alt width="400px"></p>
+<p><a href="http://labcd.org/2010/01/29/residencia-audiencia-zero-no-espaco-do-tempo/">AZ Residency at Espaço Tempo</a> has resumed its course on the 14th July 2010, and we’ve been kicking it real with some hardcore project dev for a whole week now! Our main aim is to get all of these projects kicking and screaming on the 12th July for the big opening of the exhibition.<span id="more-877"></span></p>
+<p>Catarina and Joel spent most of their week fiddling with some heavy duty MakerBot printing trial and error. In between random python re-learning fast courses, they managed to pull off some awesome hacks, such as a <a href="http://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/">makerbot microscope</a> to observe bacteria, a nutella jesus on a toast, and some robot printed &amp; baked cookies.</p>
+<p style="text-align: center"><img decoding="async" src="http://farm2.static.flickr.com/1295/4702458807_5646b5fb1f_m.jpg" alt><img decoding="async" src="http://farm5.static.flickr.com/4068/4714599633_7354f1f8cf_m.jpg" alt></p>
+<p style="text-align: center"><img decoding="async" src="http://farm5.static.flickr.com/4072/4714174673_2ef8a7da5b_m.jpg" alt><img decoding="async" src="http://farm5.static.flickr.com/4033/4714612842_d5bdbf3bdb_m.jpg" alt></p>
+<p>Random project quotes include:<br>
+“we have scientifically proven that strawberry yogurt is not printable”<br>
+“if you believe, it will work”<br>
+“how big should we make jesus?”<br>
+“only two jesus toasts and already out of nutella?!”<br>
+“there is a guy coming by on monday to get a jesus on a toast”</p>
+<p>Meanwhile Francesco and Mariana been hard at work on their ant tracking project. Marco drawing <a href="http://farm4.static.flickr.com/3511/3804661913_be1fbe26c4.jpg">some more Suicide Girls</a> for his secret projection art installation project. Ricardo working on his thesis. Pedro and Mónica working some more on the <a href="http://www.rtiviss.com/">RTiVISS</a> (Real-Time Video Interactive Systems for Sustainability) project. Vitor upgrading his version of Attic Tesla / Last Words of Domenico performance. Margarida working on her arduino based reactive robot.</p>
+<p style="text-align: center"><img decoding="async" class="aligncenter" width="400px" src="http://i84.photobucket.com/albums/k35/kotoko_san/angry.jpg" alt></p>
+<p>Myself and Tiago arrived yesterday night and been hard at work in our own projects as well. Me preparing a release version of <a href="http://www.tpolm.org/~ps/recyclebinladen/metagenhaiku/">Gen Haiku</a>, helping out with the webdev side of things on the <a href="http://www.tpolm.org/~ps/iCook/">iCookie</a> fast-hack project and conjuring some evil plans for world domination preparing a liveact for the opening day of the exhibition. And Tiago working on his bus GPS tracking system app.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Residency Follow up — Filipe Pais</title>
+		<link>https://altlab.org/2010/03/25/az-residency-follow-up-filipe-pais/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Fri, 26 Mar 2010 00:23:05 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=722</guid>
+
+					<description><![CDATA[I arrived to Residência AZ with a very simple project in mind called Bloop. This project explores the idea of “enfo” — unnecessary/useless information and information overload on the web, looking particularly to social networks. Fishes don’t speak, but they communicate between themselves. For humans, this is an invisible process which is at the moment &#8230; <a href="https://altlab.org/2010/03/25/az-residency-follow-up-filipe-pais/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Residency Follow up — Filipe Pais"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://xdatelier.org/wp-content/uploads/2010/03/fishsmilebig2oo.jpg"><img decoding="async" loading="lazy" src="http://xdatelier.org/wp-content/uploads/2010/03/fishsmilebig2oo-300x168.jpg" alt width="300" height="168" class="aligncenter size-medium wp-image-497"></a></p>
+<p>I arrived to Residência AZ with a very simple project in mind called Bloop. This project explores the idea of “enfo” — unnecessary/useless information and information overload on the web, looking particularly to social networks.</p>
+<p>Fishes don’t speak, but they communicate between themselves. For humans, this is an invisible process which is at the moment completely insignificant for us. Who cares about what is a fish saying to the other or even if he’s complaining or philosophizing alone? The project doesn’t intend to put fishes talking but instead to use their actions to dump random messages to twitter. This work plays with the metaphor of the glass house and observes this very own moment of social networks incrustation.<span id="more-722"></span></p>
+<p>In order to develop this work, an improvised structure was built using some objects available in he kitchen and all over the residence space to track 2 fishes inside the aquarium. The computer vision setup was made using 2 cameras and values of x and y of each blob (fish) were available to calculate the distance between them, When a minimum distance value  was reached a random message was sent to twitter profiles, Bloop_a and Bloop_b, updating its status. A different perspective of the work using two fishes was also develop but this time with the intent to create a fake personal profile. Here an algorithm searchs all over twitter for messages with certain key words and post them into fake profiles controlled by fishes interactions. Thus, each profile presents a line of interest and shows up as if some person could be behind it.</p>
+<p>In the first two days I was dedicated to computer vision issues and also to the communication between processing and twitter. For the second perspective/project I was coding a small routine in order to communicate with twitter api, search for tags and update each profile status. During the third day (Wednesday) the projects technical issues were solved and working as expected but the fishes seemed not to like their new home and problems came with that. In order to create a good environment for them, I ran over local shops searching for a new aquarium and water treatment products. This task took a lot of time, not because we were in Alentejo but because new ideas arrived within group interaction and new material needs came to complicate more the situation.</p>
+<p>By the end of the week, a team formed by me, Ricardo Lobo and Mauricio worked hardly on the Piano Cocktail, an original idea by Boris Vian . The results obtained were enough to celebrate during the last eve and make everyone, or almost, drinking trough the divine mechanism.</p>
+<p><a href="http://xdatelier.org/wp-content/uploads/2010/03/piano_strucutre_exhibition_.jpg"><img decoding="async" loading="lazy" src="http://xdatelier.org/wp-content/uploads/2010/03/piano_strucutre_exhibition_-300x205.jpg" alt width="300" height="205" class="aligncenter size-medium wp-image-500"></a></p>
+<p><a href="http://xdatelier.org/wp-content/uploads/2010/03/piano_interface_.jpg"><img decoding="async" loading="lazy" src="http://xdatelier.org/wp-content/uploads/2010/03/piano_interface_-300x225.jpg" alt width="300" height="225" class="aligncenter size-medium wp-image-499"></a></p>
+<p><a href="http://xdatelier.org/wp-content/uploads/2010/03/board+arduino_.jpg"><img decoding="async" loading="lazy" src="http://xdatelier.org/wp-content/uploads/2010/03/board+arduino_-300x225.jpg" alt width="300" height="225" class="aligncenter size-medium wp-image-496"></a></p>
+<p><a href="http://xdatelier.org/wp-content/uploads/2010/03/mauricio_.jpg"><img decoding="async" loading="lazy" src="http://xdatelier.org/wp-content/uploads/2010/03/mauricio_-225x300.jpg" alt width="225" height="300" class="aligncenter size-medium wp-image-498"></a></p>
+<p>Some moments were odd and I found myself imagining and making bizarre things as The Wig’on’wheels:</p>
+<p><a href="http://xdatelier.org/wp-content/uploads/2010/03/Picture-1.jpg"><img decoding="async" loading="lazy" src="http://xdatelier.org/wp-content/uploads/2010/03/Picture-1-300x138.jpg" alt width="300" height="138" class="aligncenter size-medium wp-image-501"></a></p>
+<p>New ideas came up and they’ll be worked out in the next residence.</p>
+<p>This was the last image I have from Montemor-o-Novo, by the way, a wonderful place to work and to get inspiration.</p>
+<p><a href="http://xdatelier.org/wp-content/uploads/2010/03/ultima_imagem_de_montemor_.jpg"><img decoding="async" loading="lazy" src="http://xdatelier.org/wp-content/uploads/2010/03/ultima_imagem_de_montemor_-225x300.jpg" alt width="225" height="300" class="aligncenter size-medium wp-image-502"></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Residency Day 7 — We’ll Be Back</title>
+		<link>https://altlab.org/2010/03/07/az-residency-day-7-well-be-back/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Sun, 07 Mar 2010 16:24:24 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=691</guid>
+
+					<description><![CDATA[Yesterday’s late night hacking session managed to deliver some results. Baco’s Mechanism was complete and so, to celebrate, refreshments were in order, plus waking up to join the party anyone who was already asleep. The troublemakers delivered a personalized rendition of the classic, also previously abused for remixes, Vitor Espadinha “Recordar é Viver”. Today was &#8230; <a href="https://altlab.org/2010/03/07/az-residency-day-7-well-be-back/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Residency Day 7 — We’ll Be Back"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday’s late night hacking session managed to deliver some results. Baco’s Mechanism was complete and so, to celebrate, refreshments were in order, plus waking up to join the party anyone who was already asleep. The troublemakers delivered a personalized rendition of the classic, also previously abused for remixes, Vitor Espadinha “Recordar é Viver”.</p>
+<p>Today was a sad day, everyone who was taking their time getting up was also woken up with a new personalized rendition of Vitor Espadinha’s “Recordar é Viver”, payback is a bitch. We packed up and headed down to a local restaurant for the last meal of this week’s residency. With promises of returning in June for 10 more days of collaborative hacking.</p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-medium wp-image-451" src="http://xdatelier.org/wp-content/uploads/2010/03/DSC_0191-300x201.jpg" alt width="300" height="201"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

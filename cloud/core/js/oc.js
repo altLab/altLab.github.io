@@ -1,0 +1,15 @@
+var oc_debug=false;
+var oc_isadmin=false;
+var oc_dataURL=false;
+var oc_webroot="/cloud";
+var oc_appswebroots={"files":"/cloud/apps/files","activity":"/cloud/apps/activity","comments":"/cloud/apps/comments","dav":"/cloud/apps/dav","federatedfilesharing":"/cloud/apps/federatedfilesharing","federation":"/cloud/apps/federation","files_external":"/cloud/apps/files_external","files_pdfviewer":"/cloud/apps/files_pdfviewer","files_sharing":"/cloud/apps/files_sharing","files_texteditor":"/cloud/apps/files_texteditor","files_trashbin":"/cloud/apps/files_trashbin","files_versions":"/cloud/apps/files_versions","files_videoplayer":"/cloud/apps/files_videoplayer","firstrunwizard":"/cloud/apps/firstrunwizard","gallery":"/cloud/apps/gallery","notifications":"/cloud/apps/notifications","provisioning_api":"/cloud/apps/provisioning_api","systemtags":"/cloud/apps/systemtags","templateeditor":"/cloud/apps/templateeditor","updatenotification":"/cloud/apps/updatenotification"};
+var datepickerFormatDate="M\/d\/yy";
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var oc_config={"session_lifetime":1440,"session_keepalive":true,"version":"9.0.11.2","versionstring":"9.0.11","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":true};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":false,"defaultExpireDate":null,"defaultExpireDateEnforced":null,"enforcePasswordForPublicLink":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/doc.owncloud.org\/server\/9.0\/go.php?to=user-sharing-federated","allowGroupSharing":true,"previewsEnabled":true}};
+var oc_defaults={"entity":"ownCloud","name":"ownCloud","title":"ownCloud","baseUrl":"https:\/\/owncloud.org","syncClientUrl":"https:\/\/owncloud.org\/sync-clients\/","docBaseUrl":"https:\/\/doc.owncloud.org","docPlaceholderUrl":"https:\/\/doc.owncloud.org\/server\/9.0\/go.php?to=PLACEHOLDER","slogan":"web services under your control","logoClaim":"","shortFooter":"<a href=\"https:\/\/owncloud.org\" target=\"_blank\" rel=\"noreferrer\">ownCloud<\/a> \u2013 web services under your control","longFooter":"<a href=\"https:\/\/owncloud.org\" target=\"_blank\" rel=\"noreferrer\">ownCloud<\/a> \u2013 web services under your control","folder":""};

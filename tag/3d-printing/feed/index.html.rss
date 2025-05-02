@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>3D printing - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/3d-printing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 14:44:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>3D Printing, a disruptive technology…</title>
+		<link>https://altlab.org/2012/07/13/3d-printing-a-disruptive-technology/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Fri, 13 Jul 2012 13:18:21 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[Copyright]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[Lawsuit]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3505</guid>
+
+					<description><![CDATA[&#160; 3D Printing seems to be finally hitting the mainstream. People are becomming aware of this new old tecnology, much due to the fact that the availability and open sourceness of it is plunging down the cost of model printing. The reality of this is falling like a hammer in the industry that is starting &#8230; <a href="https://altlab.org/2012/07/13/3d-printing-a-disruptive-technology/" class="more-link">Continue reading<span class="screen-reader-text"> "3D Printing, a disruptive technology…"</span></a>]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_3506" aria-describedby="caption-attachment-3506" style="width: 660px" class="wp-caption alignnone"><a href="http://altlab.org/2012/07/13/3d-printing-a-disruptive-technology/st_thompson_techlaw_f/" rel="attachment wp-att-3506"><img decoding="async" class="size-full wp-image-3506" title="st_thompson_techlaw_f" src="http://altlab.org/wp-content/uploads/2012/07/st_thompson_techlaw_f.jpg" alt width="660" height="533"></a><figcaption id="caption-attachment-3506" class="wp-caption-text">Photo illustration: Andrew B. Myers</figcaption></figure>
+<p>&nbsp;</p>
+<p>3D Printing seems to be finally hitting the mainstream.</p>
+<p>People are becomming aware of this new old tecnology, much due to the fact that the availability and open sourceness of it is plunging down the cost of model printing.</p>
+<p>The reality of this is falling like a hammer in the industry that is starting to see how disruptive this tech will be. So much that law suits over copyright have started to happen as we write.</p>
+<p>&nbsp;</p>
+<blockquote><p>Games Workshop, the UK-based firm that makes Warhammer, noticed Valenty’s work and sent Thingiverse a takedown notice, citing the Digital Millennium Copyright Act. Thingiverse removed the files, and Valenty suddenly</p>
+<p>became an unwilling combatant in the next digital war: the fight over copying physical objects.</p></blockquote>
+<p>&nbsp;</p>
+<p>Check out the full article @ WIRED &gt;<a title="3D Printing Copyrights battle's have begun..." href="http://www.wired.com/design/2012/05/3-d-printing-patent-law" target="_blank">here</a>&lt;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>altLab Last Meetings — Update</title>
+		<link>https://altlab.org/2012/07/12/altlabs-last-meetings-update/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Thu, 12 Jul 2012 23:28:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[Cupkake]]></category>
+		<category><![CDATA[Dimension Elite]]></category>
+		<category><![CDATA[Fablabs]]></category>
+		<category><![CDATA[Lasercut]]></category>
+		<category><![CDATA[PCB]]></category>
+		<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Silkscreen]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[Violeta]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3493</guid>
+
+					<description><![CDATA[&#160; We have been absent from posting news for a couple of weeks now, but we haven’t been in no way inactive. These last two meetings have been fruitfull, we have dedicated some time to fixing the telescope controller, the collective has new members and this new blood is pumping full of ideas. It is &#8230; <a href="https://altlab.org/2012/07/12/altlabs-last-meetings-update/" class="more-link">Continue reading<span class="screen-reader-text"> "altLab Last Meetings — Update"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>We have been absent from posting news for a couple of weeks now, but we haven’t been in no way inactive.</p>
+<p>These last two meetings have been fruitfull, we have dedicated some time to fixing the telescope controller, the collective has new members and this new blood is pumping full of ideas.</p>
+<p>It is time to talk back to the community, and tomorrow we will be putting up some investigations we have been up.</p>
+<p>Here’s a list of some things we will be updating tomorrow</p>
+<p>&nbsp;</p>
+<p>- PCB workbench Project may come with a silkscreen flavour</p>
+<p>- Dimension Elite testing @Fablab EDP, Violeta’s Big Brother&nbsp;√</p>
+<p>- Lasercut Testings @Fablab EDP</p>
+<p>- Explorations on PCB creation techniques — The Silkscreen Method</p>
+<p>- The Project’s Project</p>
+<p>- Violeta Fixed and going on Tour&nbsp;√</p>
+<p>&nbsp;</p>
+<p>See you soon, here is a peek at some shots of the upcomming articles <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>
+
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP9753.jpg"><img width="150" height="100" src="https://altlab.org/wp-content/uploads/2012/07/IMGP9753.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP9838.jpg"><img width="100" height="150" src="https://altlab.org/wp-content/uploads/2012/07/IMGP9838.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP9837.jpg"><img width="100" height="150" src="https://altlab.org/wp-content/uploads/2012/07/IMGP9837.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP9751.jpg"><img width="150" height="92" src="https://altlab.org/wp-content/uploads/2012/07/IMGP9751.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2012/07/IMGP0229.jpg"><img width="150" height="100" src="https://altlab.org/wp-content/uploads/2012/07/IMGP0229.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FabriCamp Lx1</title>
+		<link>https://altlab.org/2011/03/21/fabricamp-lx1/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2011 10:56:14 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[FabriCulture]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1687</guid>
+
+					<description><![CDATA[3 de Abril de 2011 &#124; April 3rd 2011 @ Pavilhão do Conhecimento [PT] É com grande satisfação que a Rede de Laboratórios da AZ (Associação Audiência Zero) anuncia o primeiro evento da FabriCulture: o FabriCamp Lx1! É verdade, será um dia inteiro ao estilo barcamp , dedicado à fabricação digital. Vários membros e amigos &#8230; <a href="https://altlab.org/2011/03/21/fabricamp-lx1/" class="more-link">Continue reading<span class="screen-reader-text"> "FabriCamp Lx1"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong><em><strong><em>3 de Abril de 2011 | </em></strong>April 3rd 2011 @<a href="http://www.pavconhecimento.pt/home/"> Pavilhão do Conhecimento</a></em></strong></p>
+<p><strong> [PT]<br>
+</strong>É com grande satisfação que a <a href="http://www.audienciazero.org/">Rede de Laboratórios da AZ (Associação Audiência Zero)</a> anuncia o primeiro evento da <a title="FabriCulture" href="http://fabriculture.org/about/" target="_blank">FabriCulture</a>: o FabriCamp Lx1!</p>
+<p>É verdade, será um dia inteiro ao estilo <a href="http://en.wikipedia.org/wiki/Unconference">barcamp</a> , dedicado à fabricação digital. Vários membros e amigos dos hackerspaces da AZ (<a href="http://labcd.org/">LCD</a>, <a href="http://altlab.org/">altLab</a> e&nbsp;<a href="http://xdatelier.org/">xDA</a>) irão demonstrar as suas máquinas de prototipagem rápida, impressoras 3D e CNC Mills.<br>
+Caso tenha uma máquina para fabricação digital, seja de que tipo for, acabada, por acabar, avariada, etc., traga‑a consigo. Ou então traga os amigos e a família (é um evento também para crianças).</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1719" title="FabriCamp Lx1" src="http://altlab.org/wp-content/uploads/2011/03/flyer-post.jpg" alt="FabriCamp Lx1" width="600" height="425"></p>
+<p>Photo by MakerBot Industries</p>
+<p>Como em qualquer outro evento ao estilo barcamp, os participantes são também oradores; portanto estão todos convidados a fazer apresentações, lançar debates, demonstrar os seus projectos, o que lhes apetecer.</p>
+<h4>A participação é gratuita. Inscreva-se <a title="Event Registration" href="http://fabriculture.org/event-registration/" target="_blank">aqui</a>.</h4>
+<p><em>A <a title="FabriCulture" href="http://fabriculture.org" target="_blank">F</a>abriCulture é um projecto da AZ Labs Network dedicado à promoção do fabrico digital open source e da cultura maker em geral. <a href="http://fabriculture.org/about/">Saiba mais sobre a FabriCulture aqui</a>.</em></p>
+<p><em> </em><em>Se a revolução do fabrico digital é para si novidade , vale a pena dar uma vista de olhos à bela animação da NueveOjos <a href="http://vimeo.com/12768578?utm_source=share&amp;utm_medium=nsyght.com">Full Printed</a> e à apresentação <a href="http://www.youtube.com/watch?v=1osdnKzj-1k&amp;utm_source=MakerBot+Industries+List&amp;utm_campaign=9194f9b504-MakerBot_Newsletter_4_March_2011&amp;utm_medium=email">Schuyler St. Ledger’s Ignite Phoenix</a> .</em></p>
+<p><strong>[EN]</strong><br>
+The <a href="http://www.audienciazero.org/">AZ Labs Network</a> is extremely happy to announce <a title="FabriCulture" href="http://fabriculture.org/about/" target="_blank">FabriCulture</a>’s first event: FabriCamp Lx1! That’s right, it’ll be a barcamp style <a href="http://en.wikipedia.org/wiki/Unconference">unconference</a> dedicated to digital fabrication. Several members and friends of AZ’s hackerspaces (<a href="http://labcd.org/">LCD</a>, <a href="http://altlab.org/">altLab</a> and <a href="http://xdatelier.org/">xDA</a>) will be demoing their 3D printers and CNC mills. If you have any kind of digital fabricator—finished, unfinished, broken or so and so—bring it along. Or just bring yourself, your friends, your family (this is a children-friendly event). As in any other barcamp-style event, the attendees are also the speakers, so everyone is encouraged to give talks, start debates, demo their projects, lead workshops, whatever suits their fancy.</p>
+<h4>Participation is free. Please register <a title="Event Registration" href="http://fabriculture.org/event-registration/" target="_blank">here</a>.</h4>
+<p><em>Fabriculture is an AZ Labs Network project dedicated to promoting open source digital fabrication and maker culture in general. <a href="http://fabriculture.org/about/">Learn more about FabriCulture here</a>.</em></p>
+<p><em>For those new to the digital fabrication revolution make sure to also check out the beautiful Nueve Ojos <a href="http://vimeo.com/12768578?utm_source=share&amp;utm_medium=nsyght.com">Full Printed</a> animation and <a href="http://www.youtube.com/watch?v=1osdnKzj-1k&amp;utm_source=MakerBot+Industries+List&amp;utm_campaign=9194f9b504-MakerBot_Newsletter_4_March_2011&amp;utm_medium=email">Schuyler St. Ledger’s Ignite Phoenix presentation</a> for a quick overview.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Arduino Hack Day report</title>
+		<link>https://altlab.org/2011/02/07/arduino-hack-day-report/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2011 18:38:46 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1527</guid>
+
+					<description><![CDATA[[PT]No último sábado, 5 de Fevereiro, o altlab organizou o Arduino Hack Day. Participaram no evento perto de 40 pessoas, entre entusiastas em electrónica, artistas, programadores, arquitectos, fotógrafos, amigos. [EN]On Feb 5th altlab held its first Arduino Hack Day. Around 40 enthusiasts, artists, programmers, architects, photographers and friends participated in the event. &#160; [PT]Para muitos, &#8230; <a href="https://altlab.org/2011/02/07/arduino-hack-day-report/" class="more-link">Continue reading<span class="screen-reader-text"> "Arduino Hack Day report"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong>[PT]</strong>No último sábado, 5 de Fevereiro, o altlab organizou o Arduino Hack Day.<br>
+Participaram no evento perto de 40 pessoas, entre entusiastas em electrónica, artistas, programadores, arquitectos, fotógrafos, amigos.<br>
+<strong>[EN]</strong>On Feb 5th altlab held its first Arduino Hack Day. Around 40 enthusiasts, artists, programmers, architects, photographers and friends participated in the event.</p>
+<p><a href="http://altlab.org/wp-content/uploads/2011/02/AHD01.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1533" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD01.jpg" alt width="600" height="400"></a></p>
+<p>&nbsp;</p>
+<p><strong>[PT]</strong>Para muitos, foi o primeiro contacto com o Arduino, a descoberta da simplicidade desta plataforma para o desenvolvimento de projectos de computação física.<br>
+Distribuídos por quatro bancadas, os participantes começaram a experimentar assim que chegaram!<br>
+<strong>[EN]</strong>For many this was their first contact with the Arduino, discovering the ease with which this platform can be used for the development of physical computing projects.<br>
+Assembled around workbenches, participants started experimenting as soon as they arrived!</p>
+<p><span style="text-align: left;"><a href="http://altlab.org/wp-content/uploads/2011/02/AHD04.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1563 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD04.jpg" alt="Arduino Hack Day" width="600" height="400"></a></span><span style="text-align: left;"> <a href="http://altlab.org/wp-content/uploads/2011/02/AHD05.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1566 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD05.jpg" alt="Arduino Hack Day" width="600" height="400"></a></span></p>
+<p><span style="text-align: left;"><strong>[PT]</strong>Uma das bancadas, dedicada ao tema Arduino, motores e a robótica, ficou por conta do <a href="http://lab.guilhermemartins.net/" target="_blank">Guilherme Martins</a> (Guibot). </span>Noutra bancada, alguns principiantes aprendiam a dar os primeiros passos, com a ajuda de membros do altlab.<br>
+<span style="text-align: left;"><strong>[EN]</strong>One of the tables, dedicated to Arduino, motors and robotics, was run by <a href="http://lab.guilhermemartins.net/" target="_blank">Guilherme Martins</a> (Guibot). </span>Near by, at another table, some participants took their first steps with the help of altlab members.</p>
+<p><a href="http://altlab.org/wp-content/uploads/2011/02/AHD02.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1575 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD02.jpg" alt="Arduino Hack Day" width="600" height="450"></a> <a href="http://altlab.org/wp-content/uploads/2011/02/AHD06.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1585 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD06.jpg" alt="Arduino Hack Day" width="600" height="450"></a></p>
+<p><span style="text-align: left;"><strong>[PT]</strong>Enquanto isso, a impressora 3D (“makerbot”) trazida pelo nosso convidado neozelandês, Tiago, ia imprimindo as primeiras peças.</span><br>
+<span style="text-align: left;"><strong>[EN]</strong>All the while, the MakerBot brought by our New Zeleand guest Tiago, was printing some plastic parts for the projects.</span></p>
+<p><span style="text-align: left;"><a href="http://altlab.org/wp-content/uploads/2011/02/AHD08.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1589 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD08.jpg" alt="Arduino Hack Day" width="600" height="400"></a></span><span style="text-align: left;"> <a href="http://altlab.org/wp-content/uploads/2011/02/AHD07.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1590 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD07.jpg" alt="Arduino Hack Day" width="600" height="400"></a></span></p>
+<p><span style="text-align: left;"><strong>[PT]</strong>O Pedro Ângelo, do <a href="http://labcd.org/" target="_blank">LCDLab</a>, veio do Porto para nos ajudar e ressuscitou um projecto antigo do Maurício, que depois de pronto gerou alguma diversão…</span><br>
+<span style="text-align: left;"><strong>[EN]</strong>O Pedro Ângelo, from <a href="http://labcd.org/" target="_blank">LCDLab</a>, came from Porto to help out and decided to bring back to life an old project of Maurício’s which immediately turned into a lot of fun.…</span></p>
+<p><span style="text-align: left;"><a href="http://altlab.org/wp-content/uploads/2011/02/AHD09.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1591" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD09.jpg" alt="Arduino Hack Day" width="600" height="450"></a></span></p>
+<p><iframe loading="lazy" src="http://player.vimeo.com/video/19634124" width="600" height="340" frameborder="0"></iframe></p>
+<p><span style="text-align: left;"><strong>[PT]</strong>Logo depois do almoço começaram as apresentações. A <a href="http://monicamendes.wordpress.com/" target="_blank">Mónica Mendes</a> e o <a href="http://ledsandchips.com" target="_blank">Maurício Martins</a> deram a conhecer o colectivo altlab, o seu passado, presente e futuro. A <a href="http://cheeriocheng.com" target="_blank">Cheng Xu</a>, também nossa convidada, apresentou-nos o Seeeduino Film. Por fim, o Guibot e o André, da Artica, falaram do Motoruino e do Farrusco.</span><br>
+<span style="text-align: left;"><strong>[EN]</strong>After lunch we had some presentations. <a href="http://monicamendes.wordpress.com/" target="_blank">Mónica Mendes</a> and <a href="http://ledsandchips.com" target="_blank">Maurício Martins</a> talked about the past, present and future of altlab. Our guest <a href="http://cheeriocheng.com" target="_blank">Cheng Xu</a> presented the Seeduino film. Finally, Guibot and André from Artica talked about the Motoruino and Farrusco.</span></p>
+<p><a href="http://altlab.org/wp-content/uploads/2011/02/AHD10.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1592 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD10.jpg" alt="Arduino Hack Day" width="600" height="450"></a> <a href="http://altlab.org/wp-content/uploads/2011/02/AHD11.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1593 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD11.jpg" alt="Arduino Hack Day" width="600" height="450"></a></p>
+<p><strong>[PT]</strong>Passadas 10 horas de puro hacking e muita cerveja, o Arduino Hack Day chegava ao fim, todos os participantes muito satisfeitos com a experiência. O altlab conseguiu concretizar o principal objectivo desta iniciativa: juntar pessoas interessadas em partilhar conhecimentos sobre o Arduino, ajudar quem nunca tinha desenvolvido nada com a plataforma e conquistar novos interessados em pertencer a este colectivo fantástico!<br>
+<strong>[EN]</strong>After 10 hours of pure hacking and lots of beer, the Arduino Hack Day came to an end, and everyone left with a smile on their faces. We were able to attain the main goals for this event: gather people interested in sharing knowledge about the Arduino, help those who had never used the platform, and have several new members join our beloved collective.</p>
+<p><iframe loading="lazy" src="http://player.vimeo.com/video/19665078" width="600" height="340" frameborder="0"></iframe></p>
+<p><strong>[PT]</strong>Por último, fica aqui um agradecimento muito especial aos membros do altlab que contribuíram na organização deste evento:<br>
+<strong>[EN]</strong>Finally, a word of special thanks to the altlab members who contributed to making the Arduino Hack Day possible:</p>
+<p><strong>Andre Almeida, Ferdi Meier, Guilherme Martins, Leonardo Marques, Manuel Alves, Mauricio Martins, Mónica Mendes, Nuno João, Paulo Rodrigues e Pedro Ângelo (LCD).</strong></p>
+<p>Some photos by João Nogueira e Rita Carvalho.</p>
+<p><strong>Flickr Photo Set: <a href="http://tinyurl.com/6f7vhsx" target="_blank" rel="nofollow">http://tinyurl.com/6f7vhsx</a></strong></p>
+<p><strong>English version soon!</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Laser Etching a PCB with a RepRap by Leonardo</title>
+		<link>https://altlab.org/2011/02/01/laser-etching-a-pcb-with-a-reprap-by-leonardo/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Tue, 01 Feb 2011 14:02:50 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1465</guid>
+
+					<description><![CDATA[Leonardo has been working on a laser-head RepRap for some time. His latest experiment was etching a PCB with it. Above is the video of the first tests, but go on over to his blog to check out all the details.]]></description>
+										<content:encoded><![CDATA[<p><object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/LHH6aPAp_JE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/LHH6aPAp_JE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></object></p>
+<p>Leonardo has been working on a <a href="http://reonarudo.info/blog/" target="_blank">laser-head RepRap</a> for some time. His latest experiment was etching a PCB with it. Above is the video of the first tests, but go on over to <a href="http://reonarudo.info/blog/?p=24" target="_blank">his blog</a> to check out all the details.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Call for developers</title>
+		<link>https://altlab.org/2010/08/15/call-for-developers/</link>
+		
+		<dc:creator><![CDATA[Reonarudo]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2010 21:22:38 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=960</guid>
+
+					<description><![CDATA[For those who have been present at alt lab meetings know by now that I’m currently developing a 3D Laser Printer. As far as electronics everything is almost good to go with some minor tweaks, but I’m facing a giant problem now. I &#160;don’t have time to develop software for this pet and I don’t &#8230; <a href="https://altlab.org/2010/08/15/call-for-developers/" class="more-link">Continue reading<span class="screen-reader-text"> "Call for developers"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>For those who have been present at alt lab meetings know by now that I’m currently developing a 3D Laser Printer.</p>
+<figure id="attachment_961" aria-describedby="caption-attachment-961" style="width: 300px" class="wp-caption alignnone"><a href="http://altlab.org/wp-content/uploads/2010/08/DSC_9753s.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-961" src="http://altlab.org/wp-content/uploads/2010/08/DSC_9753s-300x199.jpg" alt width="300" height="199" srcset="https://altlab.org/wp-content/uploads/2010/08/DSC_9753s-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2010/08/DSC_9753s.jpg 752w" sizes="(max-width: 300px) 85vw, 300px"></a><figcaption id="caption-attachment-961" class="wp-caption-text">Laser projection </figcaption></figure>
+<p>As far as electronics everything is almost good to go with some minor tweaks, but I’m facing a giant problem now. I &nbsp;don’t have <strong>time</strong> to develop software for this pet and I don’t want it to be delayed for much longer than it already has been, so I’m requesting for kind hearted developers to step up and help me in this task.</p>
+<p>Any help is welcome please contact me to lj dot marques@fct dot unl dot pt (replace “dot” for “.”).</p>
+<figure id="attachment_963" aria-describedby="caption-attachment-963" style="width: 300px" class="wp-caption alignnone"><a href="http://altlab.org/wp-content/uploads/2010/08/DSC_9748s.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-963" src="http://altlab.org/wp-content/uploads/2010/08/DSC_9748s-300x199.jpg" alt width="300" height="199" srcset="https://altlab.org/wp-content/uploads/2010/08/DSC_9748s-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2010/08/DSC_9748s.jpg 752w" sizes="(max-width: 300px) 85vw, 300px"></a><figcaption id="caption-attachment-963" class="wp-caption-text">Current device</figcaption></figure>
+<p>Please adress this Git Hub repository for your kind code donations:</p>
+<p><a href="http://github.com/Reonarudo/O3DLP">http://github.com/Reonarudo/O3DLP</a></p>
+<p><a href="https://docs.google.com/drawings/edit?id=1nIf4HTbpe02AhZ9xC2geAJLnT6mtFhW2vougDdWIMcA&amp;hl=en_GB">Explanation of device components.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZLabs @ O Espaço do Tempo</title>
+		<link>https://altlab.org/2010/07/13/azlabs-o-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Tue, 13 Jul 2010 20:52:36 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[residency]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=903</guid>
+
+					<description><![CDATA[After many days of work, stress and fun, we seem to have managed to pull through 10 projects to showcase at O Espaço do Tempo! The exhibition opened yesterday, 12th July at Convento da Saudação and will remain in exhibit until the end of the month. We also have a mini-site with bios of the &#8230; <a href="https://altlab.org/2010/07/13/azlabs-o-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "AZLabs @ O Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>After many days of work, stress and fun, we seem to have managed to pull through 10 projects to showcase at <a href="http://www.oespacodotempo.pt/pt/">O Espaço do Tempo</a>! The exhibition opened yesterday, 12th July at Convento da Saudação and will remain in exhibit until the end of the month.</p>
+<p>We also have a mini-site with bios of the authors and descriptions of the works, temporarily hosted <a href="http://www.tpolm.org/~ps/AZ_ET/">here</a>. Not only of the works present at the exhibition but also a few others developed during the residency that couldn’t be exhibited by one reason or another. Check them out!</p>
+<p>Big thanks are in order to everyone at <a href="http://www.oespacodotempo.pt/pt/">O Espaço do Tempo</a> for the opportunity we had, and all the in loco support to our needs, you rock. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZLabs @ O Espaço Do Tempo (0day ‑2)</title>
+		<link>https://altlab.org/2010/07/10/azlabs-o-espaco-do-tempo-0day-2/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Sun, 11 Jul 2010 03:13:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[residency]]></category>
+		<guid isPermaLink="false">http://altlab.org/2010/07/10/azlabs-o-espaco-do-tempo-0day-2/</guid>
+
+					<description><![CDATA[2 days to go until the exhibit opening of the Audiencia Zero Labs residency at O Espaço Do Tempo! A few folks seem to be missing in action. Mauricio is back with some news from Interactivos to lend us a hand on pending projects. Mónica and Pedro are still working on B‑wind!. Margarida working on &#8230; <a href="https://altlab.org/2010/07/10/azlabs-o-espaco-do-tempo-0day-2/" class="more-link">Continue reading<span class="screen-reader-text"> "AZLabs @ O Espaço Do Tempo (0day ‑2)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>2 days to go until the exhibit opening of the Audiencia Zero Labs residency at O Espaço Do Tempo!</p>
+<p>A few folks seem to be missing in action. Mauricio is back with some news from <a href="http://medialab-prado.es/interactivos">Interactivos</a> to lend us a hand on pending projects. Mónica and Pedro are still working on B‑wind!.  Margarida working on his robot Freddy. Victor Silva rehearsing his The Last Words of Dominico. Victor and Marco working on Discardable Beauty. Guilherme finishing his Róbotica Criativa works. And me finishing up Meta Gen Haiku. Catarina and Joel should also show up tomorow with their Micro Dérive.</p>
+<p style="text-align: center"><img decoding="async" class="aligncenter" src="http://farm5.static.flickr.com/4096/4781283789_18d1804e8b.jpg" alt></p>
+<p>Website with more info on the presented projects should go online soon. In the meantime if you should show up on Monday the 12th July in Montemor-O-Novo for the exhibit. We will have 7 projects installed under exhibition until the 31st July, and 2 liveacts presented on the exhibition day 12th July.</p>
+<p>In the meantime we’ll leave you with some important t‑shirt quote material we have recently acquired:<br>
+“48 horas são 6 dias de trabalho, em turnos de 8 horas”<br>
+“Eu só faço projection mapping quando estou bêbado”<br>
+“Não tens pincel para isso. Vai antes de rolo.”<br>
+“Queres falar ao telefone? Fala aí! *slap*”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Labs Exhibition @ O Espaço do Tempo</title>
+		<link>https://altlab.org/2010/07/08/az-labs-exhibition-o-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 08 Jul 2010 17:04:57 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[residency]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=885</guid>
+
+					<description><![CDATA[LCD + AltLab + xDA 12 — 31 July 2010 Convento da Saudação &#124; Montemor-o-Novo &#124; Portugal Exhibition: Monday to Friday — 6pm / 11pm &#124; Saturday and Sunday — 4pm /11pm Opening: 12th of July, 18h00 Artists : Catarina Mota &#124; Filipe Cruz &#124; Francesco Cerutti &#124; Guilherme Martins &#124; João Maia e Silva &#8230; <a href="https://altlab.org/2010/07/08/az-labs-exhibition-o-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Labs Exhibition @ O Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2010/07/exhibit.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/07/exhibit.jpg" alt title="AZ Labs @ O Espaço do Tempo" width="500" height="115" class="alignnone size-full wp-image-890"></a></p>
+<p><strong>LCD + AltLab + xDA<br>
+12 — 31 July 2010<br>
+Convento da Saudação | Montemor-o-Novo | Portugal</strong></p>
+<p>Exhibition: Monday to Friday — 6pm / 11pm | Saturday and Sunday — 4pm /11pm<br>
+Opening: 12th of July, 18h00</p>
+<p>Artists : Catarina Mota | Filipe Cruz | Francesco Cerutti | Guilherme Martins | João Maia e Silva | Joël Belouet | Jorge Ribeiro | Pedro Ângelo | Margarida Faria | Maurício Martins | Mónica Mendes | Marco Moura | Mariana Ferreira  | Mécia Sá | Ricardo Webbens | Sérgio Ferreira | Tiago Serra | Vitor Lago Silva | Victor Martins</p>
+<p>This exhibition presents the results of a unique experiment. For 17 days, 30 members of the Audiencia Zero Labs from all over the country and also abroad lived and worked together on collective projects. New teams were formed, infinite ideas proposed, new tools and technologies experimented with, incredible adventures lived and new friends made. The projects at this exhibit are just the tip of the veil, the true impact of this experience is yet to come.</p>
+<p>More info @ <a href="http://www.oespacodotempo.pt/en/prog.php?idpan=pro_det&amp;recid=578">O Espaço do Tempo</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>makerbot as microscope: what we learned</title>
+		<link>https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2010 19:08:14 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[bio]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=766</guid>
+
+					<description><![CDATA[Joel Belouet has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the MakerBot sitting on our table was the solution. At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear &#8230; <a href="https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/" class="more-link">Continue reading<span class="screen-reader-text"> "makerbot as microscope: what we learned"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><object width="400" height="320"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="320"></object></p>
+<p><a href="http://joel.belouet.free.fr/" target="_blank">Joel Belouet</a> has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the <a href="http://www.makerbot.com/" target="_blank">MakerBot</a> sitting on our table was the solution.</p>
+<p>At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear that it would be much better to have the sample remain still and the camera move instead. Inverting the positions meant attaching the slide to the bottom of the z axis platform in order to prevent the camera lens from bumping against it. This setup also allowed him to use the <a href="http://www.thingiverse.com/thing:975" target="_blank">z crank</a> as a focus mechanism.<span id="more-766"></span></p>
+<p><a href="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg" alt title="makerbot microscope" width="400" height="533" class="alignnone size-full wp-image-838"></a></p>
+<p>So we were happy with the physical setup which, in conjunction with <a href="http://replicat.org/" target="_blank">ReplicatorG’s</a> control panel, proved very useful for finding and tracking microorganisms within the sample.</p>
+<p>But we also wanted to try an automated scan.</p>
+<p>So the next step was to generate a path for the camera. We made a bunch of experiments with MakerBot’s <a href="http://wiki.makerbot.com/frostruder-mk2-usage" target="_blank">Frostruder Tool Sweet</a>, but eventually an stl + <a href="http://reprap.org/wiki/Skeinforge" target="_blank">skeinforge</a>, with a feedrate of 12 mm/m, turned out to be the best solution.</p>
+<p>Finally, the microscope camera (which is a cheap webcam with a macro lens that Joel flipped upside down) was connected to his <a href="http://processing.org/" target="_blank">Processing</a> script that records both video and stills from the incoming video feed.</p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object><br>
+<em>Video of fist automated scan (sample is moss from a well).</em></p>
+<p>Joel will continue to work on this as part of his art project, but this setup seems to be useful for a few other things:<br>
+— Record microscopic images of each and every area of a sample: just feed the makerbot a grid-like design, set the processing script to take a photo of each quadrant, go enjoy the <a href="http://www.flickr.com/photos/34906770@N07/4701251724/in/set-72157623408197899/" target="_blank">great outdoors</a>, and when you return to the lab you’ll have all the images waiting for you on your hard drive.<br>
+— Automatically capture images of live bacteria: we’ll try to do this by having the processing script track certain types of motion and capture stills when it’s detected.<br>
+— Some dancers here at the AZ residency also became very interested in using it as live video feed for performance.</p>
+<p>Well, that’s it for now. We’re going to get more coffee and think of a way to make an action movie starring nematodes and tardigrades <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

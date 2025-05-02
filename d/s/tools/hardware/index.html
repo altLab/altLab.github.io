@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<!-- <base href="https://altlab.org/d/" />  -->
+		<title>altLab Documenta</title>
+				<meta property="og:type" content="article" />
+		<meta property="og:title" content=" | altLab Documenta" />
+		<meta property="og:description" content="" />
+		<meta property="og:url" content="https://altlab.org/d/s/tools/hardware/" />
+		<meta property="og:site_name" content="altLab Documenta" />
+
+		<!-- Bootstrap -->
+		<link href="../../../themes/altlab/css/bootstrap.min.css" rel="stylesheet">
+		<link href="../../../themes/altlab/override-test.css" rel="stylesheet">
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="../../../themes/altlab/js/jquery-1.12.4.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="../../../themes/altlab/js/bootstrap.min.js"></script>
+
+	</head>
+	<body>
+<div class="container">
+<div class="container-fluid">
+      <div class="page-header hidden-xs" id="brand-logo">
+        <h1><a href="../../../../index.html"><img src="../../../themes/altlab/altlab-logo-gradoverwhite.png" width="180" height="120" alt="Home" style="vertical-align:text-bottom" /></a> Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></h1>
+
+      </div>
+			<nav class="navbar navbar-inverse">
+
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+<div class="visible-xs">
+<a class="navbar-brand" href="../../../../index.html"><img src="../../../themes/altlab/altlab-logo-documenta.png" width="58" height="35" alt="Home" style="margin-top: -7px;"></a>
+						<a class="navbar-brand" href="../../../index.html">Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></a></div>
+					</div>
+					<div class="collapse navbar-collapse" id="myNavbar">
+						<ul class="nav navbar-nav">
+
+           	<li id="dropdown.1" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Membros <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../../../m/index.html">Index</a>
+</li>
+   
+           	<li id="dropdown.101" class="dropdown">
+		<a href="../../../m/jpralves/index.html">João Alves <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.102" class="dropdown">
+		<a href="../../../m/sislog/index.html">Fernando Carvalho <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.103" class="dropdown">
+		<a href="../../../m/pangelo/index.html">Pedro Ângelo <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.104" class="dropdown">
+		<a href="../../../m/dinix/index.html">Dinix <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../../../m/funke/funke.html">m/funke/funke</a>
+  
+   	</li>
+            	<li id="dropdown.106" class="dropdown">
+		<a href="../../../m/afonsom/index.html">Afonso Muralha <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.107" class="dropdown">
+		<a href="../../../m/x3msnake/index.html">X3msnake <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../../../m/ampmendes/index.html">António Mendes</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/guardajoao/index.html">GuardaJoao</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/jac/index.html">JAC</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/nini/index.html">Nuno Nini</a>
+  
+   	</li>
+ 
+</ul>
+    	</li>
+            	<li id="dropdown.2" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Documentação Partilhada <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../../index.html">Index</a>
+</li>
+   
+                         	<li id="dropdown.203" class="dropdown">
+		<a href="../../workshops/index.html">Workshops <span class="caret"></span></a>
+  
+      	</li>
+                   	<li>
+		<a href="../../documenta/index.html">Documenta DevMap</a>
+  
+   	</li>
+                   	<li>
+		<a href="../../processos/index.html">Processos do Lab (draft)</a>
+  
+   	</li>
+            	<li id="dropdown.208" class="dropdown">
+		<a href="../../recursos/index.html">Recursos <span class="caret"></span></a>
+  
+      	</li>
+ 
+</ul>
+    	</li>
+ 
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="container">
+				<section id="content">
+					<div class="inner">
+						<h1>Ferramentas</h1>
+
+<ul>
+<li><a href="#F001">001 - Dexter Power Z1C-32M(XD3125)</a></li>
+<li><a href="#F004">004 - Berbequim Bosch GSB 20-2 RET</a></li>
+<li><a href="#F005">005 - Agrafador eléctrico PET 25 A1</a></li>
+<li><a href="#F006">006 - Serra tico-tico PRACTYL 400W</a></li>
+<li><a href="#F007">007 - Pistola cola quente</a></li>
+<li><a href="#F008">008 - Ryobi Heat Gun 2000W EHG-2002C</a></li>
+<li><a href="#F009">009 - Rebarbadora PTS 480 A1</a></li>
+<li><a href="#F010">010 - KX1600 Heat Gun Black&amp;Decker</a></li>
+<li><a href="#F013">013 - Nupower Evolution NPE135</a></li>
+<li><a href="#F014">014 - Plaina Bosch PHO 25-82 H</a></li>
+<li><a href="#F016">016 - Lixadora de rolo de apoio PSDS 240 B2</a></li>
+<li><a href="#F022">022 - Máquina de plastificar United Office</a></li>
+<li><a href="#F023">023 - Máquina de plastificar United Office</a></li>
+<li><a href="#F024">024 - Aparelho para afiar brocas PBSG 95 B1</a></li>
+<li><a href="#F025">025 - MECAFER - Compressor - 1.5 hp - 24 L - 8 bar</a></li>
+<li><a href="#F033">033 - PowerFix - Conjunto de machos de abrir roscas e cossinetes</a></li>
+<li><a href="#F036">036 - Carro plataforma</a></li>
+<li><a href="#F038">038 - Kit 37 in 1 de Sensores</a></li>
+</ul>
+
+<h2 id="F001"><a href="">001 - Dexter Power Z1C-32M(XD3125)</a></h2>
+
+<p><img src="F001.jpg" alt="F001" /></p>
+
+<h2 id="F002"><a href="">002 - ?</a></h2>
+
+<p><img src="F002.jpg" alt="F002" /></p>
+
+<h2 id="F003"><a href="">003 - ?</a></h2>
+
+<p><img src="F003.jpg" alt="F003" /></p>
+
+<h2 id="F004">004 - Berbequim Bosch GSB 20-2 RET</h2>
+
+<p><img src="F004.jpg" alt="F004" /></p>
+
+<p>Características</p>
+
+<ul>
+<li>De velocidades múltiplas</li>
+<li>Regulação contínua das rotações</li>
+<li>Rotação reversível direita/esquerda</li>
+<li>Sistema de electrónica</li>
+<li>Auto-Lock</li>
+<li>Softgrip</li>
+<li>Embraiagem de segurança contra sobrecarga</li>
+<li><a href="F004_professional_gsb_202.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F005"><a href="http://www.lidl-service.com/cps/rde/SID-20FB704A-D41077A2/lsp/hs.xsl/product.html?id=6308104&amp;rdeLocaleAttr=pt&amp;title=AGRAFADOR%20EL%C3%89CTRICO%20PET%2025%20A1">005 - Agrafador eléctrico PET 25 A1</a></h2>
+
+<p><img src="F005.jpg" alt="F005" /></p>
+
+<p>Características</p>
+
+<ul>
+<li>Ponta fina – ideal para peças particularmente estreitas</li>
+<li>Para fixar, reparar ou revestir de forma fácil e rápida</li>
+<li>Utilização cómoda com uma mão – ideal mesmo em locais de difícil acesso ou para trabalhos acima do nível da cabeça</li>
+<li>Adequado para materiais como películas, tecidos, couro, gesso cartonado ou madeira</li>
+<li>Potente – até 30 batidas/min. com pré-selecção contínua da força de impulsão</li>
+<li>Prático – cabo suave para um apoio confortável e antiderrapante</li>
+<li>Seguro – sem activação acidental devido ao circuito de 3 níveis com interruptor de alimentação, interruptor de contacto na ponta e interruptor no cabo da pistola</li>
+<li>Sistema de carregamento prático com carregador para agrafos (15-25 mm) e pregos (15, 20, 25, 32 mm)</li>
+<li>Inclui acessórios:
+
+<ul>
+<li>500 agrafos (200 de 15 mm / 300 de 25 mm)</li>
+<li>500 pregos (200 de 25 mm / 300 de 32 mm)</li>
+<li>1 chave sextavada</li>
+</ul></li>
+<li>Compatível com acessórios comuns (p.ex. conjunto de agrafos e pregos Parkside)</li>
+<li>Comprimento do cabo: 4 m</li>
+<li><a href="F005_61798_ES_IT_PT.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F006"><a href="http://www.leroymerlin.pt/Site/Produtos/Ferramentas/Ferramentas-eletricas/Serras-Tico-Tico/17578666.aspx">006 - Serra tico-tico PRACTYL 400W</a></h2>
+
+<p><img src="F006.jpg" alt="F006" /></p>
+
+<p>Características</p>
+
+<ul>
+<li>Potência: 400 W</li>
+<li>Função pendular: Não</li>
+<li>Velocidades: 3000 rpm</li>
+<li>Peso: 1.45 kg</li>
+</ul>
+
+<h2 id="F007"><a href="">007 - Pistola cola quente</a></h2>
+
+<p><img src="F007.jpg" alt="F007" /></p>
+
+<h2 id="F008"><a href="">008 - Ryobi Heat Gun 2000W EHG-2002C</a></h2>
+
+<p><img src="F008.jpg" alt="F008" /></p>
+
+<ul>
+<li><a href="F008_ehg2002.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F009"><a href="http://www.lidl-service.com/cps/rde/SID-BC5EFC0E-58A685FA/lsp/hs.xsl/product.html?id=43301115&amp;rdeLocaleAttr=pt&amp;title=REBARBADORA%20PTS%20480%20A1">009 - Rebarbadora PTS 480 A1</a></h2>
+
+<p><img src="F009.jpg" alt="F009" /></p>
+
+<p>Características:</p>
+
+<ul>
+<li>Para cortes particularmente limpos e precisos</li>
+<li>Indicada para madeira, plástico, cerâmica, alumínio, cobre ou materiais de construção ligeira, tais como placas de gesso</li>
+<li>Profundidade de corte continuamente ajustável de 0–25 mm com alavanca de aperto rápido e escala precisa</li>
+<li>Motor de 480 W de vibração reduzida</li>
+<li>Cabeça em alumínio resistente e zona de preensão de borracha</li>
+<li>Elevada segurança devido à cobertura de protecção pendular com bloqueio de imersão desbloqueável</li>
+<li>Substituição fácil do disco devido ao bloqueio do fuso SPINDLE LOCK</li>
+<li>Ligação para aspirador externo – inclui tubo especial de 2 m com adaptador</li>
+<li>LED para controlar a alimentação</li>
+<li>Em mala resistente com fechos metálicos</li>
+<li>Comprimento do cabo: 4 m</li>
+<li>Indicada para discos comuns com Ø 85 mm</li>
+<li><a href="F009_79416_ES_IT_PT_EN_DE.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F010"><a href="">010 - KX1600 Heat Gun Black&amp;Decker</a></h2>
+
+<p><img src="F010.jpg" alt="F010" /></p>
+
+<ul>
+<li><a href="F010_cd700_uk.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F011"><a href="">011 - ?</a></h2>
+
+<p><img src="F011.jpg" alt="F011" /></p>
+
+<h2 id="F012"><a href="">012 - ?</a></h2>
+
+<p><img src="F012.jpg" alt="F012" /></p>
+
+<h2 id="F013"><a href="">013 - Nupower Evolution NPE135</a></h2>
+
+<p><img src="F013.jpg" alt="F013" /></p>
+
+<h2 id="F014"><a href="">014 - Plaina Bosch PHO 25-82 H</a></h2>
+
+<p><img src="F014.jpg" alt="F014" /></p>
+
+<ul>
+<li><a href="F014_pho_25-82_0603296003_handhobel.pdf">Quick Manual</a></li>
+<li><a href="F014_Bosch-PHO20-82_manual.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F015"><a href="">015 - ?</a></h2>
+
+<p><img src="F015.jpg" alt="F015" /></p>
+
+<h2 id="F016"><a href="http://www.lidl-service.com/cps/rde/SID-BC5EFC0E-58A685FA/lsp/hs.xsl/product.html?id=89375479&amp;rdeLocaleAttr=pt&amp;title=LIXADORA%20DE%20ROLO%20DE%20APOIO%20PSBS%20240%20B2">016 - Lixadora de rolo de apoio PSDS 240 B2</a></h2>
+
+<p><img src="F016.jpg" alt="F016" /></p>
+
+<p>Características:</p>
+
+<ul>
+<li>Equipamento de lixagem de apoio para metal, madeira e plástico</li>
+<li>Ideal para rebarbar, desenferrujar e lixar</li>
+<li>Suportes ajustáveis para a peça de trabalho</li>
+<li>Coberturas de proteção de metal para máxima segurança</li>
+<li>Proteção contra fagulhas ajustável e transparente</li>
+<li>Funcionamento silencioso e sem vibrações</li>
+<li>Interruptor para ligar/desligar protegido contra o pó</li>
+<li>Pé com fixação antivibração</li>
+<li><a href="F016_60097_ES_PT.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F017"><a href="">017 - ?</a></h2>
+
+<p><img src="F017.jpg" alt="F017" /></p>
+
+<h2 id="F018"><a href="">018 - ?</a></h2>
+
+<p><img src="F018.jpg" alt="F018" /></p>
+
+<h2 id="F019"><a href="">019 - ?</a></h2>
+
+<p><img src="F019.jpg" alt="F019" /></p>
+
+<h2 id="F020"><a href="">020 - ?</a></h2>
+
+<p><img src="F020.jpg" alt="F020" /></p>
+
+<h2 id="F021"><a href="">021 - ?</a></h2>
+
+<p><img src="F021.jpg" alt="F021" /></p>
+
+<h2 id="F022"><a href="http://www.lidl-service.com/cps/rde/SID-A4565276-545002EF/lsp/hs.xsl/product.html?id=12177318&amp;rdeLocaleAttr=pt&amp;title=M%C3%A1quina%20de%20plastificar">022 - Máquina de plastificar United Office</a></h2>
+
+<p><img src="F022.jpg" alt="F022" /></p>
+
+<p>Características</p>
+
+<ul>
+<li>Máquina de plastificar a quente e a frio, fácil de utilizar</li>
+<li>Para fotografias, certificados, diplomas e muito mais.</li>
+<li>Guia ajustável e avanço de folha automático</li>
+<li>Com luzes de funcionamento e de operacionalidade</li>
+<li>Manuseamento fácil</li>
+<li>Colocar o documento na bolsa de plástico</li>
+<li>Inserir bolsa de plástico com o lado fechado para a frente</li>
+<li>Retirar o documento plastificado</li>
+<li>Com função ABS para paragem do processo de plastificação, por ex., em caso de enviesamento do plástico</li>
+<li>Tamanho de plastificação máximo: A4</li>
+<li>Tempo de aquecimento reduzido: aprox. 3 minutos</li>
+<li>Interruptor rotativo para ajuste da espessura da película</li>
+<li>Espessura da plastificação a quente: 80 até 125 mícron; a frio: até um máx. de 200 mícron</li>
+<li>Inclui 30 folhas de plastificação a quente: 10 x folhas de plástico A4, 10 x folhas de plástico A5, 10 x bolsas para cartões-de-visita</li>
+<li>Com mecanismo prático de corte para papel e plástico: corta no máx. 3 folhas ou 1 documento laminado (80 g/m²)</li>
+<li>Folhas de plastificação adequadas, por ex., para United Office ULGZ 80 A1</li>
+<li>Colocar o documento na bolsa de plástico</li>
+<li>Inserir bolsa de plástico com o lado fechado para a frente</li>
+<li>Retirar o documento plastificado</li>
+<li><a href="F022_67173_ES_PT.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F023"><a href="">023 - Máquina de plastificar United Office</a></h2>
+
+<p><img src="F023.jpg" alt="F023" /></p>
+
+<h2 id="F024"><a href="http://www.lidl-service.com/cps/rde/SID-BC5EFC0E-58A685FA/lsp/hs.xsl/product.html?id=83920545&amp;rdeLocaleAttr=pt&amp;title=APARELHO%20PARA%20AFIAR%20BROCAS%20PBSG%2095%20B1">024 - Aparelho para afiar brocas PBSG 95 B1</a></h2>
+
+<p><img src="F024.jpg" alt="F024" /></p>
+
+<p>Características</p>
+
+<ul>
+<li>Afia brocas HSS de forma fácil e segura</li>
+<li>Para 16 tamanhos entre os 3,0–10,0 mm</li>
+<li>Pedra de afiar ajustável para resultados ideais</li>
+<li>Estrutura robusta com apoios antiderrapantes</li>
+<li>Em mala de transporte e arrumação prática</li>
+<li><a href="F024_96794_ES_IT_PT.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F025"><a href="http://nutool.pl/gb/kompresory/203-kompresor-bezolejowy-24l-15km-mecafer.html">025 - MECAFER - Compressor - 1.5 hp - 24 L - 8 bar</a></h2>
+
+<p><img src="F025.jpg" alt="F025" /></p>
+
+<p>Características</p>
+
+<ul>
+<li>capacity: 180l/min (6.35 CFM)</li>
+<li>pressure: 8 bar (116 psi)</li>
+<li>motor: 1.5 hp</li>
+<li>operating voltage: 230VAC / 50Hz</li>
+<li>tank: 24l</li>
+<li>dimensions: 570 x 255 x 445mm</li>
+<li>weight: 20kg</li>
+<li><a href="F025_Manual.pdf">Manual</a></li>
+<li><a href="F025_FichaProduto.pdf">Ficha Produto</a></li>
+</ul>
+
+<h2 id="F026"><a href="">026 - ?</a></h2>
+
+<p><img src="F026.jpg" alt="F026" /></p>
+
+<h2 id="F027"><a href="">027 - ?</a></h2>
+
+<p><img src="F027.jpg" alt="F027" /></p>
+
+<h2 id="F028"><a href="">028 - ?</a></h2>
+
+<p><img src="F028.jpg" alt="F028" /></p>
+
+<h2 id="F029"><a href="">029 - ?</a></h2>
+
+<p><img src="F029.jpg" alt="F029" /></p>
+
+<h2 id="F030"><a href="">030 - Aspirador Bosch</a></h2>
+
+<p><img src="F030.jpg" alt="F030" /></p>
+
+<ul>
+<li><a href="F030_Manual.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F031"><a href="">031 - ?</a></h2>
+
+<p><img src="F031.jpg" alt="F031" /></p>
+
+<h2 id="F032"><a href="">032 - ?</a></h2>
+
+<p><img src="https://altlab.org/d/s/tools/hardware/F032.jpg" alt="F032" /></p>
+
+<h2 id="F033"><a href="">033 - PowerFix - Conjunto de machos de abrir roscas e cossinetes</a></h2>
+
+<p><img src="https://altlab.org/d/s/tools/hardware/F033.jpg" alt="F033" /></p>
+
+<p>Características</p>
+
+<ul>
+<li>Conjunto de machos de abrir roscas e cossinetes</li>
+<li>Execução, reparação e resserragem de roscas métricas ISO, com acabamento preciso</li>
+<li>Para roscas interiores e exteriores</li>
+<li>Numa caixa de metal robusta</li>
+<li><a href="F033_114378_ES_IT_PT.pdf">Manual</a></li>
+</ul>
+
+<h2 id="F034"><a href="">034 - ?</a></h2>
+
+<p><img src="https://altlab.org/d/s/tools/hardware/F034.jpg" alt="F034" /></p>
+
+<h2 id="F035"><a href="">035 - ?</a></h2>
+
+<p><img src="F035.jpg" alt="F035" /></p>
+
+<h2 id="F036"><a href="">036 - Carro plataforma</a></h2>
+
+<p><img src="F036.jpg" alt="F036" /></p>
+
+<p>Características</p>
+
+<ul>
+<li>Capacidade máxima carga:150Kg</li>
+<li>Medidas: 76,5X47,2X82cm</li>
+<li>Peso: 9 kg</li>
+</ul>
+
+<h2 id="F037"><a href="">037 - Multímetro Digital</a></h2>
+
+<p><img src="F037.jpg" alt="F037" /></p>
+
+<h2 id="F038"><a href="https://altlab.org/d/s/tools/hardware/sensors/">038 - Kit 37 in 1 de Sensores</a></h2>
+
+<p><img src="F038.jpg" alt="F038" /></p>
+
+					</div>
+				</section>
+				</div> <!-- Container -->
+
+				<footer id="footer" class="panel-footer">
+					<div class="inner">
+						<a href="https://github.com/PhileCMS/Phile">Phile</a> was made by <a href="https://github.com/PhileCMS">The PhileCMS Community</a>.
+					</div>
+				</footer>
+			</div>
+		</div>
+</div>
+		<script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-20725619-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+		<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.altlab.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+	</body>
+</html>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ferdi - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/author/ferdi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 13 Jul 2011 10:51:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Blender intermediate class</title>
+		<link>https://altlab.org/2011/07/13/blender-intermediate-class/</link>
+		
+		<dc:creator><![CDATA[ferdi]]></dc:creator>
+		<pubDate>Wed, 13 Jul 2011 10:51:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[blender]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2113</guid>
+
+					<description><![CDATA[+ info e inscrições aqui]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/classes/#blender02"><img decoding="async" loading="lazy" class="size-full wp-image-2114 aligncenter" title="blender intermediate class" src="http://altlab.org/wp-content/uploads/2011/07/blender-intermediate.jpg" alt width="625" height="376"></a></p>
+<p><a href="http://altlab.org/classes/#blender02">+ info e inscrições aqui</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Arduino After Work 101 photo report</title>
+		<link>https://altlab.org/2011/07/10/arduino-after-work-101-photo-report/</link>
+		
+		<dc:creator><![CDATA[ferdi]]></dc:creator>
+		<pubDate>Sun, 10 Jul 2011 23:56:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[soldering]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2034</guid>
+
+					<description><![CDATA[&#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+
+<a href="https://altlab.org/wp-content/uploads/2011/07/01.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/01.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/02.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/02.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/03.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/03.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/04.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/04.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/05.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/05.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/06.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/06.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

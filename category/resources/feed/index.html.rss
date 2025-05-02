@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Resources - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/category/resources/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 30 Apr 2014 00:39:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Mais de 2000 Livros em Open Access — Livres para descarregar</title>
+		<link>https://altlab.org/2014/04/30/mais-de-2000-livros-em-opensource-livres-para-descarregar/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2014 00:39:17 +0000</pubDate>
+				<category><![CDATA[Resources]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4780</guid>
+
+					<description><![CDATA[&#160; Hoje terça feira dia de Altlab, envio-vos o link para o site da editora Intech São 2372 livros em diversas áreas cientificas, disponíveis gratuitamente para download. http://www.intechopen.com/books Obrigado, Cumprimentos, João Carvalho “Open Access is a way to publish scholarly information and make it available online to anyone in the world,at absolutely no cost to &#8230; <a href="https://altlab.org/2014/04/30/mais-de-2000-livros-em-opensource-livres-para-descarregar/" class="more-link">Continue reading<span class="screen-reader-text"> "Mais de 2000 Livros em Open Access — Livres para descarregar"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p style="text-align: center;"><img decoding="async" loading="lazy" class="aligncenter" alt src="http://api.ning.com/files/fD9AJ*g4L*kkPOgcSV92jv7eZxwaRkN-H8OVPFwOGyBvSiBWfAim2RWQp7IKKrJX0*Z6UaIZR5nIR6eJdgzd-kslQj6KJRWD/OAlogo.jpg" width="95%" height="Auto"></p>
+<p>Hoje terça feira dia de Altlab, envio-vos o link para o site da editora Intech</p>
+<p>São 2372 livros em diversas áreas cientificas, disponíveis gratuitamente para download.</p>
+<p><a style="padding-left: 5em;" href="http://www.intechopen.com/books" target="_blank">http://www.intechopen.com/books</a></p>
+<p>Obrigado,</p>
+<p>Cumprimentos,<br>
+João Carvalho</p>
+<blockquote><p>“Open Access is a way to publish scholarly information and make it available online to anyone in the world,at absolutely no cost to the reader.”</p></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

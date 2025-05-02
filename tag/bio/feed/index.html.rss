@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bio - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/bio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Thu, 17 Jun 2010 19:08:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>makerbot as microscope: what we learned</title>
+		<link>https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2010 19:08:14 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[bio]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=766</guid>
+
+					<description><![CDATA[Joel Belouet has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the MakerBot sitting on our table was the solution. At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear &#8230; <a href="https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/" class="more-link">Continue reading<span class="screen-reader-text"> "makerbot as microscope: what we learned"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><object width="400" height="320"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="320"></object></p>
+<p><a href="http://joel.belouet.free.fr/" target="_blank">Joel Belouet</a> has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the <a href="http://www.makerbot.com/" target="_blank">MakerBot</a> sitting on our table was the solution.</p>
+<p>At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear that it would be much better to have the sample remain still and the camera move instead. Inverting the positions meant attaching the slide to the bottom of the z axis platform in order to prevent the camera lens from bumping against it. This setup also allowed him to use the <a href="http://www.thingiverse.com/thing:975" target="_blank">z crank</a> as a focus mechanism.<span id="more-766"></span></p>
+<p><a href="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg" alt title="makerbot microscope" width="400" height="533" class="alignnone size-full wp-image-838"></a></p>
+<p>So we were happy with the physical setup which, in conjunction with <a href="http://replicat.org/" target="_blank">ReplicatorG’s</a> control panel, proved very useful for finding and tracking microorganisms within the sample.</p>
+<p>But we also wanted to try an automated scan.</p>
+<p>So the next step was to generate a path for the camera. We made a bunch of experiments with MakerBot’s <a href="http://wiki.makerbot.com/frostruder-mk2-usage" target="_blank">Frostruder Tool Sweet</a>, but eventually an stl + <a href="http://reprap.org/wiki/Skeinforge" target="_blank">skeinforge</a>, with a feedrate of 12 mm/m, turned out to be the best solution.</p>
+<p>Finally, the microscope camera (which is a cheap webcam with a macro lens that Joel flipped upside down) was connected to his <a href="http://processing.org/" target="_blank">Processing</a> script that records both video and stills from the incoming video feed.</p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object><br>
+<em>Video of fist automated scan (sample is moss from a well).</em></p>
+<p>Joel will continue to work on this as part of his art project, but this setup seems to be useful for a few other things:<br>
+— Record microscopic images of each and every area of a sample: just feed the makerbot a grid-like design, set the processing script to take a photo of each quadrant, go enjoy the <a href="http://www.flickr.com/photos/34906770@N07/4701251724/in/set-72157623408197899/" target="_blank">great outdoors</a>, and when you return to the lab you’ll have all the images waiting for you on your hard drive.<br>
+— Automatically capture images of live bacteria: we’ll try to do this by having the processing script track certain types of motion and capture stills when it’s detected.<br>
+— Some dancers here at the AZ residency also became very interested in using it as live video feed for performance.</p>
+<p>Well, that’s it for now. We’re going to get more coffee and think of a way to make an action movie starring nematodes and tardigrades <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

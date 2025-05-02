@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cardboard - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/cardboard/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 06 May 2009 17:07:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>PAPERduino’s design</title>
+		<link>https://altlab.org/2009/05/06/paperduinos-design/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 17:07:52 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[cardboard]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[eco]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[paperduino]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[recycle]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=274</guid>
+
+					<description><![CDATA[This is a fully functional version of the Arduino. We eliminated the PCB and use paper and cardboard as support and the result is.. the PAPERduino 😀 This is the the first version of the layout design, next we will try more designs, and other materials. You just need to print the top and the &#8230; <a href="https://altlab.org/2009/05/06/paperduinos-design/" class="more-link">Continue reading<span class="screen-reader-text"> "PAPERduino’s design"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>This is a fully functional version of the Arduino. We eliminated the PCB and use paper and cardboard as support and the result is.. the PAPERduino <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>This is the the first version of the layout design, next we will try more designs, and other materials. You just need to print the top and the bottom layouts, and glue them to any kind of support you want. We hope that you start making your own boards. If you do, please share your photos with us, we would love to see them <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>There is no USB direct connection, so to program the paperduino you will need some kind of FTDI cable or adapter. One of this products will be fine:<br>
+<a href="http://www.adafruit.com/index.php?main_page=product_info&amp;cPath=18&amp;products_id=70">FTDI cable from Adafruit Industries</a><br>
+<a href="http://www.sparkfun.com/commerce/product_info.php?products_id=9115">FTDI adapter from Sparkfun</a></p>
+<p><img decoding="async" src="http://farm4.static.flickr.com/3653/3507622765_a18cac9288.jpg?v=0" alt></p>
+<p><strong><a href="http://guilhermemartins.net/lab_files/paperduino.pdf">Download PDF</a></strong></p>
+<p>Components list:<br>
+1 x 7805 Voltage regulator<br>
+2 x LEDs (different colors)<br>
+2 x 560 Ohm resistors (between 220oHm and 1K)<br>
+1 x 10k Ohm resistor<br>
+2 x 100 uF capacitors<br>
+1x 16 MHz clock crystal<br>
+2 x 22 pF capacitors<br>
+1 x 0.01 uF capacitor<br>
+1 x button<br>
+1 x Atmel ATMega168<br>
+1 x socket 28 pin<br>
+Female and Male headers</p>
+<p><a href="http://www.flickr.com/photos/guibot/3507287339/sizes/o/in/set-72157617758151682/"><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3405/3507287339_ae34d2aff1.jpg?v=0" alt width="500" height="375"></a></p>
+<p><a href="http://www.flickr.com/photos/guibot/3507321983/sizes/o/"><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3554/3507321983_2858584052.jpg?v=0" alt width="500" height="264"></a></p>
+<p><strong>Instructions:</strong><br>
+Use a needle to puncture the holes for your components.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3551/3508361680_d5acc17b97.jpg?v=0" alt width="500" height="375"></p>
+<p>Don’t rush, place one component after another and do all the solder work carefully.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3394/3508371334_7e6e222596.jpg?v=0" alt width="500" height="375"></p>
+<p>Follow the connection lines.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3388/3507563103_9848e7456f.jpg?v=0" alt width="500" height="375"></p>
+<p>And this should be the final look of your paperduino connections.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3390/3508341324_dd69c50be5.jpg?v=0" alt width="500" height="375"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>openMaterials :: research project</title>
+		<link>https://altlab.org/2009/05/04/openmaterials-research-project/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Mon, 04 May 2009 12:17:08 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[cardboard]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[eco]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[recycle]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=241</guid>
+
+					<description><![CDATA[My dear friend Kisty Boyle and I recently launched openMaterials — a collaborative research project dedicated to open investigation and experimentation with DIY production methods and uses of materials. In the spirit of the open source software and hardware movements, we hope to promote materials to be researched and developed in a public, collaborative manner. &#8230; <a href="https://altlab.org/2009/05/04/openmaterials-research-project/" class="more-link">Continue reading<span class="screen-reader-text"> "openMaterials :: research project"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" width="570" height="100" class="alignnone size-full wp-image-244" title="openMaterials" src="http://altlab.org/wp-content/uploads/2009/05/logo_orange1.gif" alt="openMaterials"><br>
+My dear friend <a href="http://www.onnai.com/" target="_blank">Kisty Boyle</a> and I recently launched <a href="http://openmaterials.org" target="_blank">openMaterials</a> — a <a href="http://openmaterials.org/collaborators/" target="_blank">collaborative</a> research project dedicated to open investigation and experimentation with DIY production methods and uses of materials. In the spirit of the open source software and hardware movements, we hope to promote materials to be researched and developed in a public, collaborative manner. We see materials as an open resource, and wish to establish an open process for exploring and sharing knowledge, techniques and applications related to materials science.</p>
+<p>I’ll be conducting most of my hands-on research right here at AltLab. We’d love for you to be involved if you are working in these areas or interested in learning more about smart materials.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Paper and cardboard circuits</title>
+		<link>https://altlab.org/2009/04/23/paper-cardboard-circuits/</link>
+		
+		<dc:creator><![CDATA[Ricardo Webbens]]></dc:creator>
+		<pubDate>Thu, 23 Apr 2009 11:58:55 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[cardboard]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[eco]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[recycle]]></category>
+		<guid isPermaLink="false">http://audienciazero.org/altlab/?p=180</guid>
+
+					<description><![CDATA[A couple of years ago i found out on the “internets” that you don’t really need a protoboard or a circuit board to make your circuits come to life, the idea was to fold a piece of paper with the circuit design in it (component side and circuit diagram side) and then inserting a piece &#8230; <a href="https://altlab.org/2009/04/23/paper-cardboard-circuits/" class="more-link">Continue reading<span class="screen-reader-text"> "Paper and cardboard circuits"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" width="570" height="264" class="alignnone size-full wp-image-192" title="papercircuits_01" src="http://altlab.org/wp-content/uploads/2009/04/papercircuits_01.jpg" alt="papercircuits_01"><br>
+A couple of years ago i found out on the “internets” that you don’t really need a protoboard or a circuit board to make your circuits come to life, the idea was to fold a piece of paper with the circuit design in it (component side and circuit diagram side) and then inserting a piece of cardboard in the middle.</p>
+<p>The main idea was the eco, recycled “thingy” since circuit boards are not so eco friendly and take a bunch of time to get recycled by our mother earth, also the economic side (paper and cardboard are almost free), instead circuit boarding takes a long time and it’s hazardous for the environment.</p>
+<p><img decoding="async" loading="lazy" width="506" height="274" class="alignnone size-full wp-image-191" title="papercircuits_02" src="http://altlab.org/wp-content/uploads/2009/04/papercircuits_02.jpg" alt="papercircuits_02"><br>
+So here’s what i do :</p>
+<p>1- print the schematic you want (be sure to include on the sheet of paper both sides of the schematic (component side and schematic)</p>
+<p>2‑fold it (the idea is to fold where the component side meets the schematic)</p>
+<p>3‑cut a piece of cardboard and insert it in the middle of the sheet of paper</p>
+<p>4‑glue both sides on to the cardboard (now you must have a beautifull circuit board made of cardboard)</p>
+<p>5‑with a needle pierce (component side) all drilling holes into schematic side</p>
+<p>6‑insert the components (resistors, ic, capacitator etc..)</p>
+<p>7‑turn it back (schematic side) and start to solder (be sure to folow the traces on the paper), the best way to do this is to simply bend the leads of the components and solder them together, if you have a large area were the lead is not long enough just use a wire or something similar.</p>
+<p>8‑have fun</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

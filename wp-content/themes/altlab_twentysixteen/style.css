@@ -1,0 +1,92 @@
+/*
+ Theme Name:   altLab theme
+ Theme URI:    
+ Description:  altLab theme - twentysixteen child
+ Author:       altLab
+ Author URI:   http://altlab.org
+ Template:     twentysixteen
+ Version: 1.2
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: black, blue, gray, red, white, yellow, dark, light, one-column, two-columns, right-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+ Text Domain: twentysixteen
+*/
+
+
+
+
+
+/* X3msnake 160503 . Logo size Fix Font Fix */
+
+.site{
+ background-color:transparent;
+}
+
+#masthead, #content, #footer{
+ background-color:white;
+}
+
+/*
+#masthead{
+background-image: url("images/altLab-branding-background.png");
+background-color: #003C6E;
+
+.menu-toggle {
+    background-color: #FFF;
+}
+
+}
+*/
+
+#content{
+ margin-top: .5em;
+ padding-top: 1.5em;
+}
+
+.widget_search{
+    border-top: none;
+
+}
+
+body,
+button,
+input,
+select,
+textarea {
+	font-family: "verdana", Montserrat, "Helvetica Neue", sans-serif;
+}
+
+
+@media screen and (min-width: 44.375em) {
+	.custom-logo {
+		max-width: 150px;
+	}
+
+.site-header {
+    padding: 0.25em 7.6923%;
+}
+
+}
+
+
+@media screen and (min-width: 61.5625em) {
+
+	.custom-logo {
+		max-width: 180px;
+	}
+.site-header {
+    padding: 0.5em 4.5455%;
+}
+
+}
+
+
+/* X3msnake 160503 . Conform newsletter figures to the extend of the page */
+
+figure {
+text-align:center;
+}
+
+content img{
+width: 100%;
+}

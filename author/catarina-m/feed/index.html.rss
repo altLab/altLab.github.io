@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Catarina M. - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/author/catarina-m/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 15:03:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Laser Etching a PCB with a RepRap by Leonardo</title>
+		<link>https://altlab.org/2011/02/01/laser-etching-a-pcb-with-a-reprap-by-leonardo/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Tue, 01 Feb 2011 14:02:50 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1465</guid>
+
+					<description><![CDATA[Leonardo has been working on a laser-head RepRap for some time. His latest experiment was etching a PCB with it. Above is the video of the first tests, but go on over to his blog to check out all the details.]]></description>
+										<content:encoded><![CDATA[<p><object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/LHH6aPAp_JE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/LHH6aPAp_JE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></object></p>
+<p>Leonardo has been working on a <a href="http://reonarudo.info/blog/" target="_blank">laser-head RepRap</a> for some time. His latest experiment was etching a PCB with it. Above is the video of the first tests, but go on over to <a href="http://reonarudo.info/blog/?p=24" target="_blank">his blog</a> to check out all the details.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>food for your stomach</title>
+		<link>https://altlab.org/2010/08/07/food-for-your-stomach/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Sat, 07 Aug 2010 09:59:36 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[materials]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=925</guid>
+
+					<description><![CDATA[Feeding 15 sleep deprived hackers is not an easy task and during the AZ Residency only 3 people were brave enough to put their culinary talents to the test: Joel, Vitor and Mariana. Everyone agreed that their homemade meals were awesome and no bug reports were filed. Since we believe in sharing, here are Joel’s &#8230; <a href="https://altlab.org/2010/08/07/food-for-your-stomach/" class="more-link">Continue reading<span class="screen-reader-text"> "food for your stomach"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2010/08/food.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/08/food.jpg" alt title="open source food" width="500" height="210" class="alignnone size-full wp-image-934"></a><br>
+Feeding 15 sleep deprived hackers is not an easy task and during the AZ Residency only 3 people were brave enough to put their culinary talents to the test: Joel, Vitor and Mariana. Everyone agreed that their homemade meals were awesome and no bug reports were filed. Since we believe in sharing, here are Joel’s delicious open source recipes (in french <em>comme il faut</em>):</p>
+<p><strong>Salad Dressing [ VO ]</strong></p>
+<p>4 cuillère à soupe d’huile d’olive<br>
+3 cuillère à soupe de vinaigre balsamique<br>
+2 cuillère à café de miel<br>
+sel<br>
+poivre</p>
+<p>Goûter et ajuster : si trop sucré, ajouter du vinaigre / si trop amer, ajouter du miel.</p>
+<p><strong>Bask Chicken [ VO ]</strong></p>
+<p>Prévoir un bon morceau de poulet pour chacun des invités<br>
+Poivron<br>
+Tomate<br>
+Sauce tomate<br>
+Oignon<br>
+sel<br>
+poivre<br>
+Eau</p>
+<p><span id="more-925"></span><br>
+Faire cuire et dorer le poulet dans une poêle avec du sel et du poivre.<br>
+Faire revenir les oignons et le poivron dans une autre poele sans les bruler avec de l’huile d’olive.<br>
+Prendre une grande casserole.<br>
+Y mettre des tomates grossièrement coupées, les oignons et les poivrons pré-cuits avec de l’huile d’olive.<br>
+Faire mijoter une dizaine de minutes.<br>
+Rajouter le poulet.<br>
+Laisser mijoter en prenant soin de recouvrir le poulet de sauce. Remuer de temps en temps.<br>
+Servir avec du riz.</p>
+<p>Thanks Joel!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>altlab goes on vacation</title>
+		<link>https://altlab.org/2010/08/04/altlab-goes-on-vacation/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Wed, 04 Aug 2010 10:01:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=905</guid>
+
+					<description><![CDATA[Since it’s really hot and most of our members are headed towards the beach for some well deserved vacations, we won’t be holding our Tuesday night public sessions until the end of August. Have a great summer and see you in September! Caros amigos: o estabelecimento altlab encontra-se encerrado até ao final do mês de &#8230; <a href="https://altlab.org/2010/08/04/altlab-goes-on-vacation/" class="more-link">Continue reading<span class="screen-reader-text"> "altlab goes on vacation"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2010/08/Img014.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-907 size-full" title="summer day at meco" src="http://altlab.org/wp-content/uploads/2010/08/Img014.jpg" width="1280" height="1024" srcset="https://altlab.org/wp-content/uploads/2010/08/Img014.jpg 1280w, https://altlab.org/wp-content/uploads/2010/08/Img014-300x240.jpg 300w, https://altlab.org/wp-content/uploads/2010/08/Img014-768x614.jpg 768w, https://altlab.org/wp-content/uploads/2010/08/Img014-1024x819.jpg 1024w, https://altlab.org/wp-content/uploads/2010/08/Img014-1200x960.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"></a><br>
+Since it’s really hot and most of our members are headed towards the beach for some well deserved vacations, we won’t be holding our Tuesday night public sessions until the end of August. Have a great summer and see you in September!</p>
+<p>Caros amigos: o estabelecimento altlab encontra-se encerrado até ao final do mês de Agosto para descanso do pessoal. A gerência agradece a vossa preferência e espera ver-vos de novo em Setembro <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Labs Exhibition @ O Espaço do Tempo</title>
+		<link>https://altlab.org/2010/07/08/az-labs-exhibition-o-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 08 Jul 2010 17:04:57 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[residency]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=885</guid>
+
+					<description><![CDATA[LCD + AltLab + xDA 12 — 31 July 2010 Convento da Saudação &#124; Montemor-o-Novo &#124; Portugal Exhibition: Monday to Friday — 6pm / 11pm &#124; Saturday and Sunday — 4pm /11pm Opening: 12th of July, 18h00 Artists : Catarina Mota &#124; Filipe Cruz &#124; Francesco Cerutti &#124; Guilherme Martins &#124; João Maia e Silva &#8230; <a href="https://altlab.org/2010/07/08/az-labs-exhibition-o-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Labs Exhibition @ O Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2010/07/exhibit.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/07/exhibit.jpg" alt title="AZ Labs @ O Espaço do Tempo" width="500" height="115" class="alignnone size-full wp-image-890"></a></p>
+<p><strong>LCD + AltLab + xDA<br>
+12 — 31 July 2010<br>
+Convento da Saudação | Montemor-o-Novo | Portugal</strong></p>
+<p>Exhibition: Monday to Friday — 6pm / 11pm | Saturday and Sunday — 4pm /11pm<br>
+Opening: 12th of July, 18h00</p>
+<p>Artists : Catarina Mota | Filipe Cruz | Francesco Cerutti | Guilherme Martins | João Maia e Silva | Joël Belouet | Jorge Ribeiro | Pedro Ângelo | Margarida Faria | Maurício Martins | Mónica Mendes | Marco Moura | Mariana Ferreira  | Mécia Sá | Ricardo Webbens | Sérgio Ferreira | Tiago Serra | Vitor Lago Silva | Victor Martins</p>
+<p>This exhibition presents the results of a unique experiment. For 17 days, 30 members of the Audiencia Zero Labs from all over the country and also abroad lived and worked together on collective projects. New teams were formed, infinite ideas proposed, new tools and technologies experimented with, incredible adventures lived and new friends made. The projects at this exhibit are just the tip of the veil, the true impact of this experience is yet to come.</p>
+<p>More info @ <a href="http://www.oespacodotempo.pt/en/prog.php?idpan=pro_det&amp;recid=578">O Espaço do Tempo</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>makerbot as microscope: what we learned</title>
+		<link>https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2010 19:08:14 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[bio]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=766</guid>
+
+					<description><![CDATA[Joel Belouet has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the MakerBot sitting on our table was the solution. At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear &#8230; <a href="https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/" class="more-link">Continue reading<span class="screen-reader-text"> "makerbot as microscope: what we learned"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><object width="400" height="320"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="320"></object></p>
+<p><a href="http://joel.belouet.free.fr/" target="_blank">Joel Belouet</a> has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the <a href="http://www.makerbot.com/" target="_blank">MakerBot</a> sitting on our table was the solution.</p>
+<p>At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear that it would be much better to have the sample remain still and the camera move instead. Inverting the positions meant attaching the slide to the bottom of the z axis platform in order to prevent the camera lens from bumping against it. This setup also allowed him to use the <a href="http://www.thingiverse.com/thing:975" target="_blank">z crank</a> as a focus mechanism.<span id="more-766"></span></p>
+<p><a href="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg" alt title="makerbot microscope" width="400" height="533" class="alignnone size-full wp-image-838"></a></p>
+<p>So we were happy with the physical setup which, in conjunction with <a href="http://replicat.org/" target="_blank">ReplicatorG’s</a> control panel, proved very useful for finding and tracking microorganisms within the sample.</p>
+<p>But we also wanted to try an automated scan.</p>
+<p>So the next step was to generate a path for the camera. We made a bunch of experiments with MakerBot’s <a href="http://wiki.makerbot.com/frostruder-mk2-usage" target="_blank">Frostruder Tool Sweet</a>, but eventually an stl + <a href="http://reprap.org/wiki/Skeinforge" target="_blank">skeinforge</a>, with a feedrate of 12 mm/m, turned out to be the best solution.</p>
+<p>Finally, the microscope camera (which is a cheap webcam with a macro lens that Joel flipped upside down) was connected to his <a href="http://processing.org/" target="_blank">Processing</a> script that records both video and stills from the incoming video feed.</p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object><br>
+<em>Video of fist automated scan (sample is moss from a well).</em></p>
+<p>Joel will continue to work on this as part of his art project, but this setup seems to be useful for a few other things:<br>
+— Record microscopic images of each and every area of a sample: just feed the makerbot a grid-like design, set the processing script to take a photo of each quadrant, go enjoy the <a href="http://www.flickr.com/photos/34906770@N07/4701251724/in/set-72157623408197899/" target="_blank">great outdoors</a>, and when you return to the lab you’ll have all the images waiting for you on your hard drive.<br>
+— Automatically capture images of live bacteria: we’ll try to do this by having the processing script track certain types of motion and capture stills when it’s detected.<br>
+— Some dancers here at the AZ residency also became very interested in using it as live video feed for performance.</p>
+<p>Well, that’s it for now. We’re going to get more coffee and think of a way to make an action movie starring nematodes and tardigrades <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Residency — The Video</title>
+		<link>https://altlab.org/2010/03/26/az-residency-the-video/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Fri, 26 Mar 2010 18:48:55 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=725</guid>
+
+					<description><![CDATA[See also: AZ Residency @ O Espaço do Tempo AZ Residency Day 1 – We Have Arrived! AZ Residency Day 2 – Nothing Like The Fresh Smell of Vinegar Early In The Morning AZ Residency Day 3 – Ideas Are Like Rabbits On Spring AZ Residency Day 4 – Routine Strike AZ Residency Day 5 &#8230; <a href="https://altlab.org/2010/03/26/az-residency-the-video/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Residency — The Video"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="493" height="297" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://www.youtube.com/v/8Cv0LXk6P5M&amp;hl=en_US&amp;fs=1&amp;"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="493" height="297" src="http://www.youtube.com/v/8Cv0LXk6P5M&amp;hl=en_US&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p>See also:<br>
+<a href="http://altlab.org/2010/01/29/residencia-az-no-espaco-do-tempo/">AZ Residency @ O Espaço do Tempo</a><br>
+<a href="http://altlab.org/2010/03/01/az-residency-day-1-we-have-arrived/">AZ Residency Day 1 – We Have Arrived!</a><br>
+<a href="http://altlab.org/2010/03/02/az-residency-day-2-nothing-like-the-fresh-smell-of-vinegar-early-in-the-morning/">AZ Residency Day 2 – Nothing Like The Fresh Smell of Vinegar Early In The Morning</a><br>
+<a href="http://altlab.org/2010/03/03/az-residency-day-3-ideas-are-like-rabbits-on-spring/">AZ Residency Day 3 – Ideas Are Like Rabbits On Spring</a><br>
+<a href="http://altlab.org/2010/03/05/az-residency-day-4-routine-strike/">AZ Residency Day 4 – Routine Strike</a><br>
+<a href="http://altlab.org/2010/03/05/az-residency-day-5-mistos-de-porco-preto-reprise/">AZ Residency Day 5 – Mistos de Porco Preto Reprise</a><br>
+<a href="http://altlab.org/2010/03/06/az-residency-day-6-vitor-espadinha-si-teh-luv/">AZ Residency Day 6 – Vitor Espadinha Si Teh Luv</a><br>
+<a href="http://altlab.org/2010/03/07/az-residency-day-7-well-be-back/">AZ Residency Day 7 – We’ll Be Back</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>a glove that lights up when you shake hands</title>
+		<link>https://altlab.org/2010/03/03/a-glove-that-lights-up-when-you-shake-hands/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2010 19:55:10 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=667</guid>
+
+					<description><![CDATA[This mitten lights up when its wearer shakes hands with someone. It has two exposed soft contacts around the thumb and across the palm which, when bridged by bare skin, turn on the LED embedded on the flower. The mitten itself was created by fashion designer Isabel Tomás, and we then sewed a simple touch &#8230; <a href="https://altlab.org/2010/03/03/a-glove-that-lights-up-when-you-shake-hands/" class="more-link">Continue reading<span class="screen-reader-text"> "a glove that lights up when you shake hands"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/03/mitten_00.jpg" alt="light up glove" title="light up glove" width="500" height="375" class="alignnone size-full wp-image-671"></p>
+<p>This mitten lights up when its wearer shakes hands with someone. It has two exposed soft contacts around the thumb and across the palm which, when bridged by bare skin, turn on the LED embedded on the flower. The mitten itself was created by fashion designer <a href="http://amoresdetoquio.blogspot.com/">Isabel Tomás</a>, and we then sewed a simple touch switch circuit onto it using conductive fabric and thread. It also works with high fives and holding hands <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/03/double.jpg" alt="high five and holding hands" title="high five and holding hands" width="500" height="188" class="alignnone size-full wp-image-672"></p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=9851076&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=9851076&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object></p>
+<p>Isabel and I designed this as a soft circuits exercise for some upcoming materials workshops. You can find all the instructions and images we prepared for this purpose @ openMaterials:<br>
+http://openmaterials.org/2010/03/03/making-a-glove-that-lights-up-with-a-hand-shake/</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>First Soft Circuits Open Lab</title>
+		<link>https://altlab.org/2010/02/19/first-soft-circuits-open-lab/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Fri, 19 Feb 2010 12:55:01 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=600</guid>
+
+					<description><![CDATA[This Sunday we’re holding our first Soft Circuits Open Lab at the School of Fine Arts in Lisbon (FBAUL — Faculdade de Belas Artes de Lisboa). There is no predefined structure for the event. We will meet for the course of one day with the purposes of sharing knowledge, experimenting freely, advancing on-going projects, and &#8230; <a href="https://altlab.org/2010/02/19/first-soft-circuits-open-lab/" class="more-link">Continue reading<span class="screen-reader-text"> "First Soft Circuits Open Lab"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/02/softcircuitsAltlab.jpg" alt="soft circuits open lab" title="soft circuits open lab" width="500" height="375" class="alignnone size-full wp-image-655"></p>
+<p>This Sunday we’re holding our first Soft Circuits Open Lab at the School of Fine Arts in Lisbon <a href="http://www.fba.ul.pt/portal/page?_pageid=401,1&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">(FBAUL — Faculdade de Belas Artes de Lisboa)</a>. There is no predefined structure for the event. We will meet for the course of one day with the purposes of sharing knowledge, experimenting freely, advancing on-going projects, and just having fun working together. Some of the people attending will be specialists in electronics and others in textiles. Barcamp style impromptu presentations are very welcome.</p>
+<p>Altlab will provide some basic tools such as pliers, scissors, soldering irons, ironing board, etc. But participants must bring all the materials and additional equipment necessary for their own projects/experiments (including laptops). Here are some suggestions: any kind of fabric, needles and thread, yarn, t‑shirts, conductive and/or resistive fabric, conductive thread, conductive and/or resistive yarn, knitting and/or crochet needles, LEDs, coin cell batteries, battery holders, EL wire, strands of fiber optics, copper foil, copper adhesive track, aluminum foil, resistive foam, regular foam, arduinos (lilypad or any other kind). If you’ve never worked with any of these materials and don’t have them handy, come anyway, you can help someone else with their project and learn along the way.</p>
+<p>For more information on soft circuits techniques and materials, check out the <a href="http://openmaterials.org/wiki/index.php?title=Main_Page#Soft_Circuits_Resources" target="_blank">Soft Circuits Resources</a> section on the <a href="http://openmaterials.org" target="_blank">openMaterials</a> wiki.</p>
+<p>This open lab will take place on February 21st, from 10:30 to 18:30, at the School of Fine Arts in Lisbon, room 307, 1st floor (since our own space is still under construction). All are welcome, there is no fee nor registration, but please do let me know if you are planning on coming: catarinamota(at)audienciazero.org</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Residência AZ no Espaço do Tempo</title>
+		<link>https://altlab.org/2010/01/29/residencia-az-no-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2010 16:24:20 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[residency]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=581</guid>
+
+					<description><![CDATA[(scroll down for english) A Audiência Zero vai realizar uma residência artística multidisciplinar com os seus três laboratórios (AltLab, LCD, xDA) no O Espaço do Tempo (Montemor-o-Novo) no período entre 01 e 07 de Março e 14 e 23 de Junho. A apresentação dos trabalhos produzidos na residência será feita entre 12 e 25 de &#8230; <a href="https://altlab.org/2010/01/29/residencia-az-no-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "Residência AZ no Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><em>(scroll down for english)</em></p>
+<p>A Audiência Zero vai realizar uma residência artística multidisciplinar com os seus três laboratórios (AltLab, LCD, xDA) no <a href="http://www.oespacodotempo.pt/" target="_blank">O Espaço do Tempo</a> (Montemor-o-Novo) no período entre 01 e 07 de Março e 14 e 23 de Junho. A apresentação dos trabalhos produzidos na residência será feita entre 12 e 25 de Julho. A residência é antes de mais destinada aos actuais membros dos laboratórios, mas está prevista a participação de elementos externos no caso destes apresentarem propostas de trabalho consistentes e interessantes. Mais informações e inscrições no fim desta página…</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/01/flyer_residencia.jpg" alt="residência AZ no Espaço do Tempo" title="residência AZ no Espaço do Tempo" width="500" height="707" class="alignnone size-full wp-image-583"></p>
+<p>Os interessados na residência devem manifestar o seu interesse e inscreverem-se com a maior brevidade possível (fim da página) para garantir lugar. A organização entrará em contacto para dar seguimento à inscrição.</p>
+<p>Quando solicitados pela organização os participantes devem indicar se têm um projecto em mente para desenvolver ou actividade a propor. Quanto mais claros forem os projectos e as actividades, assim como os pápeis a desempenhar por cada um dos elementos das equipas constituídas ou a constituir, maior é a probalidade da actividade ou projecto de ser integrada na residência.</p>
+<p>As vagas na residência estão limitadas a 15, com direito a alojamento e uma refeição diária. No caso de existirem mais do que 15 participantes ter-se‑á que escolher os projectos mais interessantes respeitando os seguintes critérios de selecção: criatividade, tecnologias envolvidas, viabilidade e tempo.</p>
+<p>Após o periodo de inscrições, serão avaliados as aplicações pelos organizadores e definidos os artistas residentes. Iniciaremos a discussão dos projectos / actividades e definição da temática.</p>
+<p><strong>Exemplos Actividades:</strong><br>
+. Workshops<br>
+. Palestras<br>
+. Demonstrações</p>
+<p><strong>Exemplos de Áreas de Projecto:</strong><br>
+. Electrónica e Computação Física<br>
+. Instalações Interactivas<br>
+. Performance<br>
+. Robótica<br>
+. Visão por Computador<br>
+. Visualização de Dados</p>
+<p>—-</p>
+<p>Audiência Zero will hold a multidisciplinary artist residency with its three laboratories (altlab, LCD, xDA) in <a href="http://www.oespacodotempo.pt/" target="_blank">O Espaço do Tempo</a> (Montemor-o-Novo) in the period between 01 and 07 March and 14 and 23 June. The projects produced will be shown between 12 and 25 July. The residence is primarily intended for the current members of this laboratories, but participation of external elements is accepted where proposals are consistent and interesting. More information and registration at the end of this page …</p>
+<p>Those interested in residence should express their interest and enroll as soon as possible (end of page) to secure a place. The organization will contact you to follow up the application.</p>
+<p>When asked by the organization participants must indicate whether they have a project in mind to develop or an activity to propose. The clearer the projects and activities, as well as the roles played by each element of a team, the greater the likelihood of the activity or project to be integrated into the residence.</p>
+<p>Vacancies in the residence are limited to 15, with the right accommodation and a daily meal. If there are more than 15 participants, the organization we’ll have to choose the most interesting projects addressing the following selection criteria: creativity, technologies involved, feasibility and time.</p>
+<p>After the registration period, applications will be assessed by the organizers and established resident artists. We will begin the discussion of projects / activities and define the residency theme.</p>
+<p><strong>Sample Activities:</strong><br>
+. Workshops<br>
+. Lectures<br>
+. Demos</p>
+<p><strong>Project theme examples:</strong><br>
+. Electronics and Physical Computing<br>
+. Interactive Installations<br>
+. Performance<br>
+. Robotics<br>
+. Computer Vision<br>
+. Data Visualization</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/01/espacotempo01.jpg" alt="Espaço do Tempo" title="Espaço do Tempo" width="500" height="375" class="alignnone size-full wp-image-584"></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/01/espacotempo02.jpg" alt="Espaço do Tempo" title="Espaço do Tempo" width="500" height="375" class="alignnone size-full wp-image-585"></p>
+<p>Organização: Guilherme Martins, Ricardo Lobo e Tiago Serra.</p>
+<p><a href="http://www.altlab.org">http://www.altlab.org</a><br>
+<a href="http://www.labcd.org">http://www.labcd.org</a><br>
+<a href="http://www.xdatelier.org">http://www.xdatelier.org</a><br>
+<a href="http://www.oespacodotempo.pt">http://www.oespacodotempo.pt</a></p>
+<p><strong>Residência AZ no Espaço do Tempo<br>
+1ª Edição</strong></p>
+<p>Formador: Audiência Zero<br>
+Coordenador: Audiência Zero<br>
+Datas: 1 a 7 Março; 14 a 23 Junho; 12 a 25 Julho<br>
+Horário: Todo Dia<br>
+Local: O Espaço do Tempo (Montemor-o-Novo)<br>
+Preço: 0 euros<br>
+Estado: Abertas as Inscrições</p>
+<p><a href="http://www.audienciazero.org/cct/index.php?option=com_cct&amp;task=inforequest&amp;id=102" target="_blank">Pedido de Informações</a><br>
+<a href="http://www.audienciazero.org/cct/index.php?option=com_cct&amp;task=workshops&amp;id=102" target="_blank">Ficha de Inscrição</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Hackmeet — the video</title>
+		<link>https://altlab.org/2009/12/19/az-hackmeet-the-video/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2009 14:51:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=564</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/8SPzaS8zF2g&amp;hl=en_US&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/8SPzaS8zF2g&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></object></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

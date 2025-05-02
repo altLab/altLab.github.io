@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>soft circuits - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/soft-circuits/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Thu, 23 Jun 2011 15:03:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Arduino After Work Classes</title>
+		<link>https://altlab.org/2011/06/23/arduino-after-work-classes/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2011 15:03:53 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<category><![CDATA[synthesizer]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1994</guid>
+
+					<description><![CDATA[+ info e inscrições aqui]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/classes/#AAW"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1995" title="Arduino After Work" src="http://altlab.org/wp-content/uploads/2011/06/arduino-afterwork.jpg" alt width="640" height="480" srcset="https://altlab.org/wp-content/uploads/2011/06/arduino-afterwork.jpg 800w, https://altlab.org/wp-content/uploads/2011/06/arduino-afterwork-300x225.jpg 300w, https://altlab.org/wp-content/uploads/2011/06/arduino-afterwork-768x576.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></a></p>
+<p><span style="font-size: 21px; line-height: 23px;"><a title="Classes" href="http://altlab.org/classes/#AAW">+ info e inscrições aqui</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop Arduino Shields</title>
+		<link>https://altlab.org/2011/06/21/workshop-arduino-shields/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2011 14:27:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1973</guid>
+
+					<description><![CDATA[&#160; + info e inscrições aqui &#160;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><a title="Workshop Arduino Shields" href="http://altlab.org/events/#WAS"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1974" title="ArduinoShieldsWorkshop" src="http://altlab.org/wp-content/uploads/2011/06/ArduinoShields_web.jpg" alt width="552" height="842"></a></p>
+<h3><a title="Workshop Arduino Shields" href="http://altlab.org/events/#WAS">+ info e inscrições aqui</a></h3>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>a glove that lights up when you shake hands</title>
+		<link>https://altlab.org/2010/03/03/a-glove-that-lights-up-when-you-shake-hands/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2010 19:55:10 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=667</guid>
+
+					<description><![CDATA[This mitten lights up when its wearer shakes hands with someone. It has two exposed soft contacts around the thumb and across the palm which, when bridged by bare skin, turn on the LED embedded on the flower. The mitten itself was created by fashion designer Isabel Tomás, and we then sewed a simple touch &#8230; <a href="https://altlab.org/2010/03/03/a-glove-that-lights-up-when-you-shake-hands/" class="more-link">Continue reading<span class="screen-reader-text"> "a glove that lights up when you shake hands"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/03/mitten_00.jpg" alt="light up glove" title="light up glove" width="500" height="375" class="alignnone size-full wp-image-671"></p>
+<p>This mitten lights up when its wearer shakes hands with someone. It has two exposed soft contacts around the thumb and across the palm which, when bridged by bare skin, turn on the LED embedded on the flower. The mitten itself was created by fashion designer <a href="http://amoresdetoquio.blogspot.com/">Isabel Tomás</a>, and we then sewed a simple touch switch circuit onto it using conductive fabric and thread. It also works with high fives and holding hands <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/03/double.jpg" alt="high five and holding hands" title="high five and holding hands" width="500" height="188" class="alignnone size-full wp-image-672"></p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=9851076&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=9851076&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object></p>
+<p>Isabel and I designed this as a soft circuits exercise for some upcoming materials workshops. You can find all the instructions and images we prepared for this purpose @ openMaterials:<br>
+http://openmaterials.org/2010/03/03/making-a-glove-that-lights-up-with-a-hand-shake/</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>First Soft Circuits Open Lab</title>
+		<link>https://altlab.org/2010/02/19/first-soft-circuits-open-lab/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Fri, 19 Feb 2010 12:55:01 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=600</guid>
+
+					<description><![CDATA[This Sunday we’re holding our first Soft Circuits Open Lab at the School of Fine Arts in Lisbon (FBAUL — Faculdade de Belas Artes de Lisboa). There is no predefined structure for the event. We will meet for the course of one day with the purposes of sharing knowledge, experimenting freely, advancing on-going projects, and &#8230; <a href="https://altlab.org/2010/02/19/first-soft-circuits-open-lab/" class="more-link">Continue reading<span class="screen-reader-text"> "First Soft Circuits Open Lab"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/02/softcircuitsAltlab.jpg" alt="soft circuits open lab" title="soft circuits open lab" width="500" height="375" class="alignnone size-full wp-image-655"></p>
+<p>This Sunday we’re holding our first Soft Circuits Open Lab at the School of Fine Arts in Lisbon <a href="http://www.fba.ul.pt/portal/page?_pageid=401,1&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">(FBAUL — Faculdade de Belas Artes de Lisboa)</a>. There is no predefined structure for the event. We will meet for the course of one day with the purposes of sharing knowledge, experimenting freely, advancing on-going projects, and just having fun working together. Some of the people attending will be specialists in electronics and others in textiles. Barcamp style impromptu presentations are very welcome.</p>
+<p>Altlab will provide some basic tools such as pliers, scissors, soldering irons, ironing board, etc. But participants must bring all the materials and additional equipment necessary for their own projects/experiments (including laptops). Here are some suggestions: any kind of fabric, needles and thread, yarn, t‑shirts, conductive and/or resistive fabric, conductive thread, conductive and/or resistive yarn, knitting and/or crochet needles, LEDs, coin cell batteries, battery holders, EL wire, strands of fiber optics, copper foil, copper adhesive track, aluminum foil, resistive foam, regular foam, arduinos (lilypad or any other kind). If you’ve never worked with any of these materials and don’t have them handy, come anyway, you can help someone else with their project and learn along the way.</p>
+<p>For more information on soft circuits techniques and materials, check out the <a href="http://openmaterials.org/wiki/index.php?title=Main_Page#Soft_Circuits_Resources" target="_blank">Soft Circuits Resources</a> section on the <a href="http://openmaterials.org" target="_blank">openMaterials</a> wiki.</p>
+<p>This open lab will take place on February 21st, from 10:30 to 18:30, at the School of Fine Arts in Lisbon, room 307, 1st floor (since our own space is still under construction). All are welcome, there is no fee nor registration, but please do let me know if you are planning on coming: catarinamota(at)audienciazero.org</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

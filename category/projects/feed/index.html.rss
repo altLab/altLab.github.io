@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projects - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/category/projects/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Tue, 28 Jun 2016 04:10:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Maker Faire 2016 — A Garra Makey e a Bee</title>
+		<link>https://altlab.org/2016/06/28/maker-faire-2016-a-garra-makey-e-a-bee/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2016 00:53:58 +0000</pubDate>
+				<category><![CDATA[coolfactor]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Feiras]]></category>
+		<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5663</guid>
+
+					<description><![CDATA[Era uma vez uma garra e a sua irmã, que passavam os dias abandonadas na casa de banho do FabLab em Lisboa. Um dia os cavaleiro do reino do altLab resgataram uma das irmãs e aceitaram-na na sua família, arranjaram-na e aprenderam sobre ela, construíram-lhe novos interfaces e, com o apoio da Lindo Serviço, vestiram-na, &#8230; <a href="https://altlab.org/2016/06/28/maker-faire-2016-a-garra-makey-e-a-bee/" class="more-link">Continue reading<span class="screen-reader-text"> "Maker Faire 2016 — A Garra Makey e a Bee"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Era uma vez uma garra e a sua irmã, que passavam os dias abandonadas na casa de banho do FabLab em Lisboa.</p>
+<p>Um dia os cavaleiro do reino do altLab resgataram uma das irmãs e aceitaram-na na sua família, arranjaram-na e aprenderam sobre ela, construíram-lhe novos interfaces e, com o apoio da Lindo Serviço, vestiram-na, com os melhores trajes do reino, para a levar à Maker Faire 2016.</p>
+<p>A Princesa Garra Makey foi adorada por crianças dos 8 aos 80, que se deliciaram com os doces e presentes que ela tinha para dar</p>
+<p><iframe loading="lazy" width="840" height="630" src="https://www.youtube.com/embed/2iVSQh_1-Kc?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Tal foi o burburinho que os organizadores da Festa, decidiram reconhecer por duas vezes o mérito da Princesa com duas belas fitas azuis e douradas.</p>
+<p>Mas a Princesa não ia só, levava como convidados o Mestre Gustavo com o seu chocolate artesanal; O Cavaleiro João Alves com o altLapse: Os altLabbers João Silva e Fernando Carvalho com projecto “Ezequiel” — sonar para os invisuais que identifica os obstáculos por meio de vibração; Logo ali&nbsp;ao lado pela mão do Luis Dinis e com a ajuda do Fernando Carvalho, rugiam furiosamente os motores, numa pista que era alimentada pela energia de quem pedalava, pista essa, que também ela recebeu a sua merecida fita de mérito.</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-5676 aligncenter" src="http://altlab.org/wp-content/uploads/2016/06/hackyracers_byMakerfaire-300x300.jpg" alt="hackyracers_byMakerfaire" width="300" height="300" srcset="https://altlab.org/wp-content/uploads/2016/06/hackyracers_byMakerfaire-300x300.jpg 300w, https://altlab.org/wp-content/uploads/2016/06/hackyracers_byMakerfaire-150x150.jpg 150w, https://altlab.org/wp-content/uploads/2016/06/hackyracers_byMakerfaire-768x768.jpg 768w, https://altlab.org/wp-content/uploads/2016/06/hackyracers_byMakerfaire.jpg 1024w" sizes="(max-width: 300px) 85vw, 300px"></p>
+<p>De todo o reconhecimento que a equipa poderia ter tido, para além das fitas de mérito de projecto e da fita de mérito como Hackerspace, o melhor e inesperado estava guardado para o fim e veio de uma Abelha…</p>
+<p>Das&nbsp;mãos do Mestre Francisco Mendes, veio o maior reconhecimento que poderíamos receber como colectivo, uma perfeita <a href="https://beeverycreative.com/hellobeeprusa-3d-printer/">Prusa Bee</a>&nbsp;que orgulhosamente tomará o lugar da nossa adorada BQ.</p>
+<p>&nbsp;</p>
+<p>E assim acaba uma história que promete começar muitas outras…</p>
+<p>&nbsp;</p>
+<p><strong>AGRADECIMENTOS</strong></p>
+<p>Em nome de todo o altLab quero expressar em Primeiro lugar o nosso agradecimento ao Luís Coelho, que disponibilizou ao altLab e à sua equipa, sem reservas e de braços abertos o acesso ás instalações&nbsp;da <a href="http://www.lindoservico.pt/">Lindo Serviço</a> o que permitiu ao altLab vestir a Princesa do Povo. Luís Coelho, que segundo a equipa que trabalhou na Garra Makey merece a fita de mérito de Melhor Patrão do Mundo, <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> é também um dos poucos homens em portugal que se pode orgulhar de ser responsavel por&nbsp;<a href="http://ufoportugal.blogspot.pt/2016/02/ovni-cai-em-lisboa-parque-das-nacoes.html">fazer caír OVNIS</a> em frente ao Vasco da Gama e <a href="https://www.youtube.com/watch?v=549mIx8aGd4">encolher automóveis</a>.</p>
+<p>Quero agradecer à equipa do altLab que tornou o projecto Possível, em particular &nbsp;ao João Silva AKA Guarda João, que preserverantemente partilhou varias noitadas a queimar dedos e neurónios para ajudar a desconstruir a lógica de controle da Garra;</p>
+<p>Ao Pedro Angêlo por ter sido estruturante na preparação do código, a partir dos fracos ensaios pueris que lhe disponibilizei como vectores de construção e pela abertura do repositório da garra assim como o constante apoio e resposta aos desafios que lhe fomos colocando.</p>
+<p>Ao Afonso Muralha que desenvolveu o controle via nunchuck da wii &nbsp;e que à rebelia dos pais permaneceu dedicadamente connosco no dia anterior à feira a finalizar as decorações e testar os controles da garra (agradecimento especial aos pais por terem permitido <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Ao João Alves que em deterimento do seu projeto pessoal e do seu tempo de família se lançou ao desafio com um controlador via capacete das obras (Projecto que infelizmente foi mais teimoso que nós e não quis funcionar durante a feira) e que permaneceu com a equipa da Garra pela madrugada a fora a ultimar os perparativos.</p>
+<p>Ao Mestre Casquinha da Lindo Serviço, marceneiro por paixão e Maker de cerveja, iguarias e engenhocas, por nos ter emprestado a sua carrinha, sem a qual não teriamos conseguido transportar a Garra.</p>
+<p>Ao Mestre Guilherme da <a href="http://artica.cc/">Artica </a>por ter disponíbilizado o transporte para a nossa Garra no caminho de volta a casa.</p>
+<p>Ao Mestre Gustavo ter aceite o desafio de partilhar connosco o segredo do seu chocolate.</p>
+<p>A toda a equipa do altLab, da MakerFaire, do FabLabLisboa e todos os que de algum modo influenciam ou contribuem para o conhecimento livre…</p>
+<p>&nbsp;</p>
+<p>A todos um bem haja e até breve.</p>
+<p>&nbsp;</p>
+<p>Vinicius Silva —&nbsp;altLabHost</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>we’re back</title>
+		<link>https://altlab.org/2014/09/12/were-back/</link>
+		
+		<dc:creator><![CDATA[pangelo]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2014 11:44:36 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Sessions]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4957</guid>
+
+					<description><![CDATA[After a well deserved holliday, the altLab crew is back in the lab. We are still getting to know our new home, and it will still take a while for us to get completely comfortable, but some of us are already back to work on their projects. Here’s the play-by-play report of last Tuesday’s session. &#8230; <a href="https://altlab.org/2014/09/12/were-back/" class="more-link">Continue reading<span class="screen-reader-text"> "we’re back"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>After a well deserved holliday, the altLab crew is back in the lab. We are still getting to know our new home, and it will still take a while for us to get completely comfortable, but some of us are already back to work on their projects. Here’s the play-by-play report of last Tuesday’s session.</p>
+<p>Luis worked on his HackyRacers project, trying to get it ready to show at the Lisbon Maker Faire. He also put the finishing touches on a small electronics kit to teach kids about electronics.</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/hacky_racers.jpg" alt="hacky racers" width="500" height="375" class="aligncenter size-full wp-image-4958"></p>
+<p>Fernando set out to improve the power consumption of our lab’s RFID door lock to only turn on when someone is actually trying to use it. This week he dismantled the door knob and modded it to close a circuit when the lever is pulled, check it:</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/door_switch.jpg" alt="modified door knob" width="500" height="375" class="aligncenter size-full wp-image-4959"></p>
+<p>I went to the lab to etch some PCBs for a <a href="http://hugatree.artivis.net" title="Hugatree">wireless sensor kit that detects tree hugs</a> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Our usual toner transfer technique wasn’t working properly, as the glossy magazine paper wasn’t sticking to the copper plate when passed under the laminator several times, so I took a tip from Fernando and used some mad ironing skills:</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/pcb_ironing.jpg" alt="ironing a PCB" width="375" height="500" class="aligncenter size-full wp-image-4960"></p>
+<p>The results were great:</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2014/09/hugatree_pcbs.jpg" alt="etched PCBs" width="500" height="375" class="aligncenter size-full wp-image-4961"></p>
+<p>Next week will be hectic as we will be preparing for the Maker Faire and setting up our new shelves to sort all our materials and tools and make the new place a proper workshop.</p>
+<p>See you next Tuesday!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Open Mobile Project</title>
+		<link>https://altlab.org/2013/04/02/open-mobile-project-2/</link>
+		
+		<dc:creator><![CDATA[Rita Sá]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2013 19:14:41 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4154</guid>
+
+					<description><![CDATA[Open Mobile is a collaborative artwork that is being developed at AltLab and that is opened to all members. The mobile is constituted by pieces that are developed individually or collaboratively, and the final integrant structure is built &#160;in order to support all developed pieces and having in mind the characteristics of each individual piece. &#8230; <a href="https://altlab.org/2013/04/02/open-mobile-project-2/" class="more-link">Continue reading<span class="screen-reader-text"> "Open Mobile Project"</span></a>]]></description>
+										<content:encoded><![CDATA[<p dir="ltr"><a href="http://altlab.org/2013/04/01/open-mobile-project/imageforpost005/" rel="attachment wp-att-4142"><img decoding="async" loading="lazy" alt="ImageForPost005" src="http://altlab.org/wp-content/uploads/2013/04/ImageForPost005.jpg" width="600" height="450"></a></p>
+<p dir="ltr">Open Mobile is a collaborative artwork that is being developed at AltLab and that is opened to all members.</p>
+<p dir="ltr">The mobile is constituted by pieces that are developed individually or collaboratively, and the final integrant structure is built &nbsp;in order to support all developed pieces and having in mind the characteristics of each individual piece.</p>
+<p dir="ltr">The individual pieces — OMPs (Open Mobile Pieces) can range from 3D printed sculptures to electric and/or motorized works… stop by AltLab on any Tuesday (from 8.30pm on) and check it out.</p>
+<p dir="ltr">Development period: April — July 2013</p>
+<p dir="ltr">__________________________________________________________________________________________</p>
+<p dir="ltr">O Open Mobile é um projecto artístico colaborativo a ser desenvolvido no AltLab e o convite à participação é aberto a todos os membros.</p>
+<p dir="ltr">A ideia é construir uma estrutura kinética e/ou eléctrica (aka “mobile) em que cada pessoa (ou conjunto de pessoas) desenvolve uma peça integrante. O “esqueleto” da estrutura é posteriormente desenvolvido de forma a integrar as peças individuais e tendo em conta as suas características.</p>
+<p>A elaboração das peças individuais — OMPs (Open Mobile Pieces) podem ir desde impresssões 3D a trabalhos eléctricos e/ou motorizados… passem pelo AltLab numa terça-feira (a partir das 20h30) e espreitem.</p>
+<p>&nbsp;</p>
+<p>Período de desenvolvimento — Abril — Julho 2013</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pedra d’Água</title>
+		<link>https://altlab.org/2012/03/07/pedra-dagua/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Wed, 07 Mar 2012 18:18:05 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3198</guid>
+
+					<description><![CDATA[&#160; AUTHORS: Rui de Carvalho; Maurício Martins; Pedro Ângelo; Kyriakos Koursaris Concept Author by Rui de Carvalho; Engineering Development by Maurício Martins; Software Computing Orientation by Pedro Ângelo; Sound and Music by Kyriakos Koursaris; Collaboration: Ricardo Lobo; João Gonçalves; CONCEPT: This project’s designation intends to proceed to a new overview of the human condition. We &#8230; <a href="https://altlab.org/2012/03/07/pedra-dagua/" class="more-link">Continue reading<span class="screen-reader-text"> "Pedra d’Água"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-5563" src="http://altlab.org/wp-content/uploads/2016/05/Pedra-d-Agua-300x155.jpg" alt="Pedra-d-Agua" width="300" height="155" srcset="https://altlab.org/wp-content/uploads/2016/05/Pedra-d-Agua-300x155.jpg 300w, https://altlab.org/wp-content/uploads/2016/05/Pedra-d-Agua.jpg 496w" sizes="(max-width: 300px) 85vw, 300px"></p>
+<p>AUTHORS: Rui de Carvalho; Maurício Martins; Pedro Ângelo; Kyriakos Koursaris</p>
+<p>Concept Author by Rui de Carvalho;<br>
+Engineering Development by Maurício Martins;<br>
+Software Computing Orientation by Pedro Ângelo;<br>
+Sound and Music by Kyriakos Koursaris;</p>
+<p>Collaboration: Ricardo Lobo; João Gonçalves;<br>
+CONCEPT:</p>
+<p>This project’s designation intends to proceed to a new overview of the human condition.<br>
+We must think of a box that is directed to the inside, to the place where we find our meaning and where, therefore, we part in search of our significance.<br>
+I want to relive this awareness because it implies a demand and this demand will take us, no doubt, to some kind of finding.<br>
+We can describe “Pedra d’ Água” as a Technology and Digital Art Temple, that tries to raise the need of one for another and the ritual way we choose to celebrate the emptiness left in us when someone leaves.<br>
+I wonder if in a near future, this kind of technological chimera will be the only way to ensure the extension of our diseased and lost into the living world.<br>
+Also, I ask myself if the machine becomes equal to the human creator, like a post-maker without the burden of a body or if the creator becomes dominated by technology. We must stop and meditate over the possibility that this way will lead us to the overpowering of machine over human, taking us further into alienation.<br>
+Nowadays it’s been noted a high number of various manifestations by web users meant to be some kind of memory or tribute to the diseased loved ones.<br>
+Today, friends and family keep websites updated, as if they refuse to accept the imposed absence. They keep their routines, extending an emotional connection similar to the one that was experienced with the loved one.<br>
+“Pedra d´Agua” will be like a sanctuary that will register manifestations from web users: when someone writes or updates one of this “tribute” sites, Pedra d´Água will light up, releasing a sound. When we don´t find find updated information, Pedra d´Água” will cry.<br>
+I wish to create a artifact that claims our society as one of living but, also, as one of dead and that will allow the perpetuation of the individual and collective memory according to a new way: the web.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuclear Taco Sensor Helmet Gameshow</title>
+		<link>https://altlab.org/2011/11/17/nuclear-taco-sensor-helmet-gameshow/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Thu, 17 Nov 2011 11:28:54 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2696</guid>
+
+					<description><![CDATA[by&#160;Mauricio Martins,&#160;Tiago Rorke,&#160;Filipe Cruz,&#160;Tiago Farto&#160;and Ferdinand Meier Nuclear Taco Sensor Helmet Gameshow is the name of our project entry for the 48h hack project of&#160;Sapo Codebits 2011. The aim of the competition was to develop a project during 48 hours and present it in 90 seconds to a live audience. Out of over 80 proposed &#8230; <a href="https://altlab.org/2011/11/17/nuclear-taco-sensor-helmet-gameshow/" class="more-link">Continue reading<span class="screen-reader-text"> "Nuclear Taco Sensor Helmet Gameshow"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span class="Apple-style-span" style="font-size: 18px; font-weight: bold;"><br>
+by&nbsp;</span><a style="font-size: 18px; font-weight: bold;" href="http://twitter.com/ledsandchips">Mauricio Martins</a><span class="Apple-style-span" style="font-size: 18px; font-weight: bold;">,&nbsp;</span><a style="font-size: 18px; font-weight: bold;" href="http://twitter.com/tiagororke">Tiago Rorke</a><span class="Apple-style-span" style="font-size: 18px; font-weight: bold;">,&nbsp;</span><a style="font-size: 18px; font-weight: bold;" href="http://twitter.com/psenough">Filipe Cruz</a><span class="Apple-style-span" style="font-size: 18px; font-weight: bold;">,&nbsp;</span><a style="font-size: 18px; font-weight: bold;" href="http://twitter.com/xernobyl">Tiago Farto</a><span class="Apple-style-span" style="font-size: 18px; font-weight: bold;">&nbsp;and Ferdinand Meier</span></p>
+<p>Nuclear Taco Sensor Helmet Gameshow is the name of our project entry for the 48h hack project of&nbsp;<a href="http://codebits.eu/">Sapo Codebits 2011</a>. The aim of the competition was to develop a project during 48 hours and present it in 90 seconds to a live audience. Out of over 80 proposed projects, 65 were presented live.<br>
+We won the 1st place of the public voting.</p>
+<h3>Abstract</h3>
+<p>The 48h project consisted of building a helmet device with humidity, temperature and fluid intake sensors, used to record and measure the reaction of nuclear taco victims of Codebits 2011 Nuclear Taco Challenge. The sensors and servos are connected by <a title="arduino.cc" href="http://arduino.cc">Arduino</a>. 6 timelapse videos were recorded documenting the user experience. The 1:30 project presentation was in the style of a Japanese gameshow using OpenFrameworks. The host displayed using face substituion technology in realtime.</p>
+<h3>Motivation</h3>
+<p>Our motivation to develop this project was the following:</p>
+<ul>
+<li>Do something fun with sensors and <a title="arduino.cc" href="http://arduino.cc">Arduino</a>, that would show people how easy it is to use these things.</li>
+<li>Showcase applications of recent Face Tracking and Face Substitution technology.</li>
+<li>Do a presentation format that would not leave anyone indifferent to our project.</li>
+<li>Bring attention to the creative community we have in the Audiência Zero hacker spaces in Portugal (<a href="http://lcd.guimaraes2012.pt/">LCD in Porto / Guimarães</a>,&nbsp;<a href="http://xdatelier.org/">xDA in Coimbra</a>,&nbsp;<a href="http://altlab.org/">altLab in Lisbon</a>), in hopes of getting new members.</li>
+<li>Take home some new hardware.</li>
+</ul>
+<h2>Video of Presentation</h2>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="http://player.vimeo.com/video/32030833?title=0&amp;byline=0&amp;portrait=0&amp;color=80ceff" width="650" height="386" frameborder="0"></iframe><br>
+<a href="http://vimeo.com/32030833">Nuclear Tacos Sensor Helmet Gameshow @Codebits 2011</a>&nbsp;from&nbsp;<a href="http://vimeo.com/altlab">altlab Lisbon’s Hackerspace</a>&nbsp;on&nbsp;<a href="http://vimeo.com/">Vimeo</a>.</p>
+<h1>Before Codebits</h1>
+<h3>Concept</h3>
+<p>At Sapo Codebits 2010 the event organizers held a nuclear taco challenge during one of the nights of the event. Many brave attendees spent their last day of the event in severe discomfort, cursing their idealized bravery. No members of our team were brave enough to take on the nuclear taco challenge but the memories of everyone else suffering lingered on with us. Then one day a lightbulb was turned on inside&nbsp;<a href="http://twitter.com/ledsandchips">Mauricio Martins</a>’s head when he saw a tv comercial for MEO featuring Ricardo Araujo and an “all American” beer helmet.</p>
+<p>The idea Mauricio had awaken inside his head was to use his <a title="arduino.cc" href="http://arduino.cc">Arduino</a> and sensors expertise to pimp that beer helmet into a nuclear taco sensor device of some sort. He began looking for the pieces required.</p>
+<p>By the way, if you want to learn how to use Arduinos for random projects, there are&nbsp;<a href="http://altlab.org/events/#WASUN">some workshops at altLab</a>&nbsp;on a regular basis.</p>
+<h3>Hardware</h3>
+<p>The helmet itself was quite hard to find for sale in Portugal. After many searches on the internet, we ended up buying it at&nbsp;<a href="http://epia.com.pt/">epia.com</a>&nbsp;for 10 euros.</p>
+<p>The Arduino, LEDs, temperature and humidity sensor were easily acquired anywhere online. The flow measurement sensor was alot harder to find, we ended up buying it second hand from ebay.</p>
+<p>The webcam for the head mounted view used was a Microsoft LifeCam VX-2000 bought by 20 euros.</p>
+<p>Overall the hardware cost was around 60 euros.</p>
+<h3>Brainstorm</h3>
+<p>While Mauricio was searching for the helmet he recruited two new members for our team. To assist with the hardware the Luso — New Zealandinsh&nbsp;<a href="http://twitter.com/tiagororke">Tiago Rorke</a>, a semi-regular altLab attender. And to handle the presentation format, the Portuguese demoscener emigrated in Helsinki, Finland&nbsp;<a href="http://tpolm.org/~ps">Filipe Cruz</a>, who had already collaborated with Mauricio on a Codebits project in 2010 (the Blind Pong project).</p>
+<p>A couple of weeks before the event, Mauricio and Tiago Rorke got together to write a first abstract description of the project, do some sketches of the idealized helmet and sent the text to Filipe. Few days later the three of them had a skype call to define the presentation format and hear Filipe explain his concept idea of having a japanese gameshow style of presenting the project to the public.</p>
+<p><a href="http://altlab.org/wp-content/uploads/2011/11/nucleartacohelmet.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-2742 size-large" title="nucleartacohelmet" src="http://altlab.org/wp-content/uploads/2011/11/nucleartacohelmet.jpg" width="640" height="419"></a></p>
+<p>&nbsp;</p>
+<p>A couple days before the event the three members of the team finally managed to get together physically to discuss the project in person. Taking the oportunity to test some components (the sensors, the FaceTracking library by&nbsp;<a href="https://github.com/arturoc/FaceSubstitution">Arturo Castro</a>,&nbsp;<a href="https://github.com/kylemcdonald/ofxFaceTracker">Kyle McDonald</a>&nbsp;and&nbsp;<a href="http://web.mac.com/jsaragih/FaceTracker/FaceTracker.html">Jason Saragih</a>) and more importantly: to decide on a final name for the project.&nbsp;<strong>Nuclear Taco Sensor Helmet Gameshow</strong>&nbsp;was the decision.</p>
+<h1>During Codebits</h1>
+<h3>Thursday</h3>
+<p>Mauricio and Tiago Rorke spent the day working on the helmet, mostly building and testing the sensors with the Arduino and deciding on how they would be placed on the helmet. Ferdinand Meier, a resident member of altLab was recruited to help printing small pieces for the helmet with the&nbsp;<a href="http://www.makerbot.com/">Makerbot</a>.</p>
+<p>Filipe arrived late and started working imediatly on the framework for the presentation using<a href="http://openframeworks.cc/">OpenFrameworks</a>, mostly testing background effects in a Japanese swish swash style and trying to close the presentation storyboard. Ferdinand who was already a new member of the project at this point offered his&nbsp;<a href="http://www.blender.org/">Blender</a>&nbsp;skills to create a model of the helmet in 3D to be used in the presentation.</p>
+
+<a href="https://altlab.org/wp-content/uploads/2011/11/2011-11-11-01.17.13.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/11/2011-11-11-01.17.13.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/11/2011-11-11-01.18.04.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/11/2011-11-11-01.18.04.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/11/2011-11-11-01.18.51.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/11/2011-11-11-01.18.51.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/11/2011-11-11-04.14.25.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/11/2011-11-11-04.14.25.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+
+<p>While the hardware guys were struggling with the sensors, Filipe was testing ofx3DModelLoader with Ferdinand’s 3D model exports of the helmet. Several 2D renders of Japanese virtual idol Hatsune Miku modelling our helmet were also taken. The open source 3D model of Miku was taken from&nbsp;<a href="http://www.blendernation.com/2008/12/17/hatsune-miku-rigged-blender-character-available/">blendernation</a>. We had to rush this process since Ferd had to leave the Codebits event that night to attend a conference in Porto.</p>
+<p>We did not attend the Elevator Pitch talk.</p>
+<p><a href="http://twitter.com/xernobyl">Tiago Farto</a>&nbsp;was recruited to help with the graphic effects of the presentation. The background effects you see are all running on pixelshaders realtime under openframeworks. It was not trivial to get the shaders setUniform to handle textures properly under openFrameworks. We spent quite a few hours debugging and wild guessing their framework since neither Filipe nor Tiago had experience running shaders on openFrameworks.</p>
+<p>During the night we were one of the few teams still left hard at work at the partyplace at 3 am. Mauricio and Tiago Rorke finishing the helmet — testing the liquid flow sensor, building the servos, gluing the led structures, painting the helmet.</p>
+<p>&nbsp;</p>
+<h3>Friday</h3>
+<p>We didn’t manage to sleep much on the first night of the event, some of us were falling asleep on our computers while still trying to get some work done. We started having to turn down folks who were coming to ask us to print random things on the makerbot. We sadly had to do this because we were so busy finishing the project for the competition. The helmet needed to be finished and ready for the codebits nuclear taco challenge which was happening at 19:00.</p>
+<p>Mauricio and Tiago finished the helmet, attached the head camera and went to the Taco Challenge area to record some footage. Tiago worked on the title screen flames effect while Filipe re-structured the framework and tested the video playback right before having to head out to give&nbsp;<a href="http://videos.sapo.pt/eItVo2r11zD9tvUuFwJk">his speaker talk “Crash course on Phonegap + Sencha Touch”</a>.</p>
+<p>Mauricio and both Tiagos went to the taco lounge and managed to record footage from 6 volunteers wearing our helmet while eating their nuclear tacos. Big thanks to Pedro Umbelino, Daniel Freitas, Pedro Silva, Tomé Duarte, Joana Ferreira and Artur Goulão for their assistance! We ended up only using 4 of the 6 videos.</p>
+<p><a href="http://altlab.org/?attachment_id=2764"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-2764" title="Sensor Helmet" src="http://altlab.org/wp-content/uploads/2011/11/AltLabTaco-3.jpg" alt width="640" height="425"></a></p>
+<p>Photo by <a href="https://plus.google.com/u/0/101322694033866977766/posts" target="_blank">Nuno Dantas</a></p>
+<p>Meanwhile, back at the altLab table Filipe had ended his speaker talk and was back to work on the presentation code with some interruptions to try and find out where the confessionary room where we were supposed to present our project 1 hour ago was located. He failed. Notified Mauricio and decided to attend the speakers dinner instead.</p>
+<p>Upon return, Filipe managed to find where the confessionary room was located while the rest of the project folks attended the Scorpions concert. We finally managed to get skype interviewed by chewbacca and darth vader. It went rather well and we were hopeful that our project would get selected for the group A of projects presenting live on stage.</p>
+<p>The rest of the night was spent editing video and finding the perfect Japanese face to use on the FaceTracking part of the presentation. Shido Nakamura was the final selection. Filipe had some nightmares about forgetting what to say live on stage and screwing up the Japanese accent. Tiago Rorke ended up working another all nighter doing some video editing and drawing a 2d taco for the presentation.</p>
+<p>By the way, the music we used for the final part is&nbsp;<a href="http://www.newgrounds.com/audio/listen/245921">ParagonX9 — Chaoz Airflow</a>, available under a Creative Commons by-nc-sa license. And the short clip of Japanese crowd cheering was snipped from a random youtube video of a random Japanese gameshow which we can’t find anymore.</p>
+<h3>Saturday</h3>
+<p>We all woke up later then planned and feeling somewhat sick and tired of working on the project. But one final effort was still needed, the presentation had to be perfect!</p>
+<p>We did a few iterations of the final challenge video, adding sound effects and testing the length. The storyboard still suffered a few small changes to create bigger crescendo impact. Last minute overlay graphics of the sensors were designed by Tiago Farto and quickly inserted.</p>
+<p>Test on the stage proved the facetracking could work without additional lighting. Everything seemed more or less ready. Just one more render of the final video with some more small important changes required.</p>
+<p>Presentation had some glitches but went rather well. The crowd managed to get into it and that was reflected heavily on the voting. Great positive reactions both in person and through the twitter feed. We were very pleased and looking forward to the prize giving. Tiago Farto had to leave early and Ferd never managed to come back to Codebits since Thursday, so we were left only 3 of us, Mauricio Martins, Filipe Cruz and Tiago Rorke to collect the prizes!</p>
+<p>We won the 1st place public award and offered the sensor helmet device to the Codebits organizers informing them that all the people involved with organizing the Nuclear Taco Challenge had to take pictures of themselfs wearing the helmet and upload them to the internet.</p>
+<h1>Conclusions</h1>
+<p>Domo Arigato to everyone for your feedback and support. We are very happy you liked our project. Please come and join&nbsp;<a href="http://altlab.org/">altLab</a>&nbsp;or another&nbsp;<a href="http://audienciazero.org/">Audiencia Zero</a>&nbsp;hacklab closer to you. We need more people sharing knowledge and doing things with technology.</p>
+<h1>Source Code</h1>
+<p>Source code&nbsp;<a href="https://github.com/psenough/Nuclear-Taco-Sensor-Helmet-Gameshow">github repo</a>.</p>
+<h1>Support</h1>
+<p>If you liked our project, please flattr it to support our hacker space labs.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Laser Etching a PCB with a RepRap by Leonardo</title>
+		<link>https://altlab.org/2011/02/01/laser-etching-a-pcb-with-a-reprap-by-leonardo/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Tue, 01 Feb 2011 14:02:50 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1465</guid>
+
+					<description><![CDATA[Leonardo has been working on a laser-head RepRap for some time. His latest experiment was etching a PCB with it. Above is the video of the first tests, but go on over to his blog to check out all the details.]]></description>
+										<content:encoded><![CDATA[<p><object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/LHH6aPAp_JE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/LHH6aPAp_JE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></object></p>
+<p>Leonardo has been working on a <a href="http://reonarudo.info/blog/" target="_blank">laser-head RepRap</a> for some time. His latest experiment was etching a PCB with it. Above is the video of the first tests, but go on over to <a href="http://reonarudo.info/blog/?p=24" target="_blank">his blog</a> to check out all the details.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>food for your stomach</title>
+		<link>https://altlab.org/2010/08/07/food-for-your-stomach/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Sat, 07 Aug 2010 09:59:36 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[materials]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=925</guid>
+
+					<description><![CDATA[Feeding 15 sleep deprived hackers is not an easy task and during the AZ Residency only 3 people were brave enough to put their culinary talents to the test: Joel, Vitor and Mariana. Everyone agreed that their homemade meals were awesome and no bug reports were filed. Since we believe in sharing, here are Joel’s &#8230; <a href="https://altlab.org/2010/08/07/food-for-your-stomach/" class="more-link">Continue reading<span class="screen-reader-text"> "food for your stomach"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2010/08/food.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/08/food.jpg" alt title="open source food" width="500" height="210" class="alignnone size-full wp-image-934"></a><br>
+Feeding 15 sleep deprived hackers is not an easy task and during the AZ Residency only 3 people were brave enough to put their culinary talents to the test: Joel, Vitor and Mariana. Everyone agreed that their homemade meals were awesome and no bug reports were filed. Since we believe in sharing, here are Joel’s delicious open source recipes (in french <em>comme il faut</em>):</p>
+<p><strong>Salad Dressing [ VO ]</strong></p>
+<p>4 cuillère à soupe d’huile d’olive<br>
+3 cuillère à soupe de vinaigre balsamique<br>
+2 cuillère à café de miel<br>
+sel<br>
+poivre</p>
+<p>Goûter et ajuster : si trop sucré, ajouter du vinaigre / si trop amer, ajouter du miel.</p>
+<p><strong>Bask Chicken [ VO ]</strong></p>
+<p>Prévoir un bon morceau de poulet pour chacun des invités<br>
+Poivron<br>
+Tomate<br>
+Sauce tomate<br>
+Oignon<br>
+sel<br>
+poivre<br>
+Eau</p>
+<p><span id="more-925"></span><br>
+Faire cuire et dorer le poulet dans une poêle avec du sel et du poivre.<br>
+Faire revenir les oignons et le poivron dans une autre poele sans les bruler avec de l’huile d’olive.<br>
+Prendre une grande casserole.<br>
+Y mettre des tomates grossièrement coupées, les oignons et les poivrons pré-cuits avec de l’huile d’olive.<br>
+Faire mijoter une dizaine de minutes.<br>
+Rajouter le poulet.<br>
+Laisser mijoter en prenant soin de recouvrir le poulet de sauce. Remuer de temps en temps.<br>
+Servir avec du riz.</p>
+<p>Thanks Joel!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>makerbot as microscope: what we learned</title>
+		<link>https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2010 19:08:14 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[bio]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=766</guid>
+
+					<description><![CDATA[Joel Belouet has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the MakerBot sitting on our table was the solution. At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear &#8230; <a href="https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/" class="more-link">Continue reading<span class="screen-reader-text"> "makerbot as microscope: what we learned"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><object width="400" height="320"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="320"></object></p>
+<p><a href="http://joel.belouet.free.fr/" target="_blank">Joel Belouet</a> has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the <a href="http://www.makerbot.com/" target="_blank">MakerBot</a> sitting on our table was the solution.</p>
+<p>At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear that it would be much better to have the sample remain still and the camera move instead. Inverting the positions meant attaching the slide to the bottom of the z axis platform in order to prevent the camera lens from bumping against it. This setup also allowed him to use the <a href="http://www.thingiverse.com/thing:975" target="_blank">z crank</a> as a focus mechanism.<span id="more-766"></span></p>
+<p><a href="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg" alt title="makerbot microscope" width="400" height="533" class="alignnone size-full wp-image-838"></a></p>
+<p>So we were happy with the physical setup which, in conjunction with <a href="http://replicat.org/" target="_blank">ReplicatorG’s</a> control panel, proved very useful for finding and tracking microorganisms within the sample.</p>
+<p>But we also wanted to try an automated scan.</p>
+<p>So the next step was to generate a path for the camera. We made a bunch of experiments with MakerBot’s <a href="http://wiki.makerbot.com/frostruder-mk2-usage" target="_blank">Frostruder Tool Sweet</a>, but eventually an stl + <a href="http://reprap.org/wiki/Skeinforge" target="_blank">skeinforge</a>, with a feedrate of 12 mm/m, turned out to be the best solution.</p>
+<p>Finally, the microscope camera (which is a cheap webcam with a macro lens that Joel flipped upside down) was connected to his <a href="http://processing.org/" target="_blank">Processing</a> script that records both video and stills from the incoming video feed.</p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object><br>
+<em>Video of fist automated scan (sample is moss from a well).</em></p>
+<p>Joel will continue to work on this as part of his art project, but this setup seems to be useful for a few other things:<br>
+— Record microscopic images of each and every area of a sample: just feed the makerbot a grid-like design, set the processing script to take a photo of each quadrant, go enjoy the <a href="http://www.flickr.com/photos/34906770@N07/4701251724/in/set-72157623408197899/" target="_blank">great outdoors</a>, and when you return to the lab you’ll have all the images waiting for you on your hard drive.<br>
+— Automatically capture images of live bacteria: we’ll try to do this by having the processing script track certain types of motion and capture stills when it’s detected.<br>
+— Some dancers here at the AZ residency also became very interested in using it as live video feed for performance.</p>
+<p>Well, that’s it for now. We’re going to get more coffee and think of a way to make an action movie starring nematodes and tardigrades <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Thom Yorke 3D Print by Tiago Serra</title>
+		<link>https://altlab.org/2009/11/07/thom-yorke-3d-print-by-tiago-serra/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2009 19:46:36 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=516</guid>
+
+					<description><![CDATA[During our recent 3D Printing Workshop, Tiago Serra from xDA used altlab’s MakerBot to print a model of Thom York’s head 🙂 Original point cloud data from Aaron Koblin’s House of Cards (GeoVideo’s 3D scanning system) Meshed with Point Cloud Skinner script for Blender Cleanup in MeshLab Made during the Makerbot workshop with Zach Hoeken &#8230; <a href="https://altlab.org/2009/11/07/thom-yorke-3d-print-by-tiago-serra/" class="more-link">Continue reading<span class="screen-reader-text"> "Thom Yorke 3D Print by Tiago Serra"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><object width="400" height="225" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=7489094&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1"><embed width="400" height="225" type="application/x-shockwave-flash" src="http://vimeo.com/moogaloop.swf?clip_id=7489094&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" allowfullscreen="true" allowscriptaccess="always"></object></p>
+<p>During our recent <a href="http://audienciazero.org/cct/3dprinting/index.php?option=com_content&amp;view=article&amp;id=47">3D Printing Workshop</a>, Tiago Serra from <a href="http://www.audienciazero.org/xda/">xDA</a> used altlab’s MakerBot to print a model of Thom York’s head <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Original point cloud data from <a href="http://code.google.com/creative/radiohead/">Aaron Koblin’s House of Cards</a> (GeoVideo’s 3D scanning system)</p>
+<p>Meshed with <a href="http://blenderartists.org/forum/showthread.php?t=144504">Point Cloud Skinner script for Blender</a></p>
+<p>Cleanup in <a href="http://meshlab.sourceforge.net/">MeshLab</a></p>
+<p>Made during the <a href="http://audienciazero.org/cct/3dprinting/index.php?option=com_content&amp;view=article&amp;id=47">Makerbot workshop with Zach Hoeken</a> at Lisbon Tech University</p>
+<p>Download the file at <a href="http://www.thingiverse.com/thing:1218">Thingiverse</a></p>
+<p>Awesome CreativeCommons post :<br>
+<a href="http://creativecommons.org/weblog/entry/18970">creativecommons.org/weblog/entry/18970</a></p>
+<p>Makerbot Industries<br>
+<a href="http://makerbot.com/">makerbot.com</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Drum Pads</title>
+		<link>https://altlab.org/2009/08/04/drum-pads/</link>
+		
+		<dc:creator><![CDATA[Ricardo Webbens]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2009 17:57:54 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[drum pads]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[recycle]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=489</guid>
+
+					<description><![CDATA[Hey. Four drum pads ready to go. All made of old material found in the Alt/Lab installations, and a very special big thankxxx for Mónica who brought the casings (we are going back to that in a moment) for the drum pads. So the idea was to make drum pads that we could hook up &#8230; <a href="https://altlab.org/2009/08/04/drum-pads/" class="more-link">Continue reading<span class="screen-reader-text"> "Drum Pads"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" width="320" height="240" class="alignleft size-full wp-image-490" src="http://altlab.org/wp-content/uploads/2009/08/drumpads1.jpg" alt="drumpads1"><img decoding="async" loading="lazy" class="alignleft size-full wp-image-491" src="http://altlab.org/wp-content/uploads/2009/08/drumpads2.jpg" alt="drumpads2" width="320" height="240"></p>
+<p>Hey.</p>
+<p>Four drum pads ready to go.</p>
+<p>All made of old material found in the Alt/Lab installations, and a very special big thankxxx for Mónica who brought the casings (we are going back to that in a moment) for the drum pads.</p>
+<p>So the idea was to make drum pads that we could hook up to a sound card(or whatever) and them make sweet music, this is a very nice combination between piezoelectric components and a few layers of some absorbent sound&nbsp; material like rubber or cork foil (that’s what we use because there was nothing more) and a piece of aluminum foil for a greater drum area .</p>
+<p>We use an old can (20l) of paint, four piezoelectric found in electronic junk like old modems and old telephones, wire for connecting the piezos, cork foil for insulation the drum pad area and Mónica supply the casings (square rubber cd´s stands), and glue for putting everything nice and tight .</p>
+<p>First we cut a piece of the can (circular about 10cm radius)and we glued the piezo into it, then we drilled one hole into the rubber casing for the wires to came out, them we cut two square cork foil parts (the first in the bottom of the casing and the other for the top) a bit of glue and that’s it drum pads ready to rock.</p>
+<p>Now we got some audio coming out of the pads but thats just boring because its always the same and we want to go further like transforming audio into midi messages, and we found the right tool for it, its called&nbsp; “<a href="http://koen.smartelectronix.com/KTDrumTrigger/" target="_blank">KTDrumTrigger</a>” and he transforms the audio signal into midi notes, we can use this midi notes inside a sequencer program to control any kind of instrument (either VSTI or some other stuff), in our case we use the drum pads to control “<a href="http://www.native-instruments.com/#/en/products/producer/battery-3/" target="_blank">Battery</a>” and thats it instant fun.</p>
+<p>There are some other links and some other ideas for drum pads. This “<a href="http://www.spikenzielabs.com/SpikenzieLabs/DrumKitKit.html">one</a>“uses ardunio as a source for the imput signal.</p>
+<p><img decoding="async" loading="lazy" width="320" height="240" class="alignleft size-full wp-image-494" src="http://altlab.org/wp-content/uploads/2009/08/drumpads3.jpg" alt="drumpads3"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

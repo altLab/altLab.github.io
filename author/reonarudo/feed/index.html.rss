@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Reonarudo - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/author/reonarudo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 02 Mar 2011 15:20:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>altLab’s new hacking facility</title>
+		<link>https://altlab.org/2011/03/02/altlabs-new-hacking-facility/</link>
+		
+		<dc:creator><![CDATA[Reonarudo]]></dc:creator>
+		<pubDate>Wed, 02 Mar 2011 15:20:37 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1681</guid>
+
+					<description><![CDATA[This&#160;Tuesday&#160;Altlabs opened it’s new amazing hacking space. Now within an old planes&#160;suppling factory that was reconverted into the Flying House Lisboa a place that gathers music and urban artists. This new place gives AltLab a great new infrastructure and location filled with possibilities. Since it’s a&#160;heavily&#160;industrialized area we can only wonder what new resources and &#8230; <a href="https://altlab.org/2011/03/02/altlabs-new-hacking-facility/" class="more-link">Continue reading<span class="screen-reader-text"> "altLab’s new hacking facility"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>This&nbsp;Tuesday&nbsp;Altlabs opened it’s new amazing hacking space. Now within an old planes&nbsp;suppling factory that was reconverted into the <a title="Flying House Lisboa" href="http://www.flyinghouselisboa.com/Site/Welcome.html" target="_blank">Flying House Lisboa</a> a place that gathers music and urban artists.</p>
+<p>This new place gives AltLab a great new infrastructure and location filled with possibilities. Since it’s a&nbsp;heavily&nbsp;industrialized area we can only wonder what new resources and contacts we will gather to&nbsp;continue&nbsp;improving AltLab as a Hackersapce.</p>
+<p><a title="2011-02-26 18.05.53 by altLab, on Flickr" href="http://www.flickr.com/photos/39486517@N05/5479759110/"><img decoding="async" loading="lazy" src="http://farm6.static.flickr.com/5252/5479759110_55e1fcfc55_z.jpg" alt="2011-02-26 18.05.53" width="640" height="480"></a></p>
+<p>The Flying House Lisboa includes a lounge area with a café and small home&nbsp;restaurant on the second floor open to everyone on the building &nbsp;and to AltLab’s members of course and a&nbsp;astonishing&nbsp;view over Lisbon’s airport.</p>
+<p><img decoding="async" loading="lazy" src="http://farm6.static.flickr.com/5259/5479762248_307d315e84_z.jpg" alt="2011-02-26 18.38.23" width="640" height="480"></p>
+<p>Right on our first weekly meeting there we kicked off with a soft circuits workshop by Catarina, no one would be better to debut our new space that one of our dear founding members.</p>
+<p><a title="2011-03-01 23.47.45 by altLab, on Flickr" href="http://www.flickr.com/photos/39486517@N05/5491066713/"><img decoding="async" loading="lazy" src="http://farm6.static.flickr.com/5093/5491066713_62492f99d9_z.jpg" alt="2011-03-01 23.47.45" width="640" height="480"></a></p>
+<p>We even got time to finish assembling the Makerbot’s new rotating platform and extruder that we hope to have them ready to print as soon as possible.</p>
+<p>As usual our door is wide open to everyone and we welcome all those lurking creative minds to bring great new ideas and projects to AltLab!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Call for developers</title>
+		<link>https://altlab.org/2010/08/15/call-for-developers/</link>
+		
+		<dc:creator><![CDATA[Reonarudo]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2010 21:22:38 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=960</guid>
+
+					<description><![CDATA[For those who have been present at alt lab meetings know by now that I’m currently developing a 3D Laser Printer. As far as electronics everything is almost good to go with some minor tweaks, but I’m facing a giant problem now. I &#160;don’t have time to develop software for this pet and I don’t &#8230; <a href="https://altlab.org/2010/08/15/call-for-developers/" class="more-link">Continue reading<span class="screen-reader-text"> "Call for developers"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>For those who have been present at alt lab meetings know by now that I’m currently developing a 3D Laser Printer.</p>
+<figure id="attachment_961" aria-describedby="caption-attachment-961" style="width: 300px" class="wp-caption alignnone"><a href="http://altlab.org/wp-content/uploads/2010/08/DSC_9753s.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-961" src="http://altlab.org/wp-content/uploads/2010/08/DSC_9753s-300x199.jpg" alt width="300" height="199" srcset="https://altlab.org/wp-content/uploads/2010/08/DSC_9753s-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2010/08/DSC_9753s.jpg 752w" sizes="(max-width: 300px) 85vw, 300px"></a><figcaption id="caption-attachment-961" class="wp-caption-text">Laser projection </figcaption></figure>
+<p>As far as electronics everything is almost good to go with some minor tweaks, but I’m facing a giant problem now. I &nbsp;don’t have <strong>time</strong> to develop software for this pet and I don’t want it to be delayed for much longer than it already has been, so I’m requesting for kind hearted developers to step up and help me in this task.</p>
+<p>Any help is welcome please contact me to lj dot marques@fct dot unl dot pt (replace “dot” for “.”).</p>
+<figure id="attachment_963" aria-describedby="caption-attachment-963" style="width: 300px" class="wp-caption alignnone"><a href="http://altlab.org/wp-content/uploads/2010/08/DSC_9748s.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-963" src="http://altlab.org/wp-content/uploads/2010/08/DSC_9748s-300x199.jpg" alt width="300" height="199" srcset="https://altlab.org/wp-content/uploads/2010/08/DSC_9748s-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2010/08/DSC_9748s.jpg 752w" sizes="(max-width: 300px) 85vw, 300px"></a><figcaption id="caption-attachment-963" class="wp-caption-text">Current device</figcaption></figure>
+<p>Please adress this Git Hub repository for your kind code donations:</p>
+<p><a href="http://github.com/Reonarudo/O3DLP">http://github.com/Reonarudo/O3DLP</a></p>
+<p><a href="https://docs.google.com/drawings/edit?id=1nIf4HTbpe02AhZ9xC2geAJLnT6mtFhW2vougDdWIMcA&amp;hl=en_GB">Explanation of device components.</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

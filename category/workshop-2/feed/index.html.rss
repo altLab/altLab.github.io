@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Workshop - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/category/workshop-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 15:36:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Workshop — Constrói o teu CSEduino — Resumo</title>
+		<link>https://altlab.org/2016/04/05/workshop-constroi-o-teu-cseduino-resumo/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2016 02:08:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[WSReport]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5467</guid>
+
+					<description><![CDATA[Sendo esta edição uma evolução da anterior usamos nesta Workshop uma PCB que simplificou o trabalho dos participantes. Tendo entre os participantes alguns jovens foi bastante interessante verificar como eles e todos os restantes participantes conseguiram dominar a arte de soldar finalizando todos a montagem do CSEduino. Foi num ambiente descontraído e de colaboração que &#8230; <a href="https://altlab.org/2016/04/05/workshop-constroi-o-teu-cseduino-resumo/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Constrói o teu CSEduino — Resumo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5474" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-5.jpg" alt="CSEduino_ArduinoDay_160402 (5)" width="1024" height="683"></p>
+<p>Sendo esta edição uma evolução da anterior usamos nesta Workshop uma PCB que simplificou o trabalho dos participantes.</p>
+<p>Tendo entre os participantes alguns jovens foi bastante interessante verificar como eles e todos os restantes participantes conseguiram dominar a arte de soldar finalizando todos a montagem do CSEduino.</p>
+<p>Foi num ambiente descontraído e de colaboração que decorreu a workshop onde foram apresentados diversos aspectos desde a introdução à electrónica até a construção de alguns circuitos em “Breadboard” passando pela montagem dos componentes para a construção do CSEduino.</p>
+<p>O resultado final não podia ser melhor e a opinião de todos é que gostaram da Workshop.</p>
+<p>Em paralelo decorreu a demo do kit 37 sensores, disponível ao público para experimentar, reparou-se um arduino nano danificado por alta corrente com junk de uma motherboard (o diodo tinha morrido) e apresentaram-se projectos altLab feitos com arduino como a pista de carros Hacky Racers, uma Laser CNC baseada no GRBL para a qual se produzir a estrutura e até um sistema de presistência de visão a funcionar num ATiny85.</p>
+<p>As instalações do FabLabLX proporcionaram-nos o espaço e meios para que pudéssemos dar a Workshop com qualidade, um grande bem haja pelo grande apoio que nos têm dado.</p>
+<p>Aqui ficam as imagens… <span id="more-5467"></span></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5473" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-4.jpg" alt="CSEduino_ArduinoDay_160402 (4)" width="683" height="1024"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5468" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_workshop_160402-1.jpg" alt="CSEduino_workshop_160402-1" width="1024" height="576"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5477" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-8.jpg" alt="CSEduino_ArduinoDay_160402 (8)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5469" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_workshop_160402-2.jpg" alt="CSEduino_workshop_160402-2" width="1024" height="576"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5472" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-3.jpg" alt="CSEduino_ArduinoDay_160402 (3)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5478" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-9.jpg" alt="CSEduino_ArduinoDay_160402 (9)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5471" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-2.jpg" alt="CSEduino_ArduinoDay_160402 (2)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5483" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_workshop_160402-3.jpg" alt="CSEduino_workshop_160402-3" width="768" height="1024"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5470" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-1.jpg" alt="CSEduino_ArduinoDay_160402 (1)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5491" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-demos-2.jpg" alt="CSEduino_ArduinoDay_160402-demos (2)" width="1024" height="768"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5476" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-7.jpg" alt="CSEduino_ArduinoDay_160402 (7)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5475" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-6.jpg" alt="CSEduino_ArduinoDay_160402 (6)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5490" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-demos-1.jpg" alt="CSEduino_ArduinoDay_160402-demos (1)" width="1024" height="768"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5492" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-demos-3.jpg" alt="CSEduino_ArduinoDay_160402-demos (3)" width="1024" height="768"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5493" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-demos-4.jpg" alt="CSEduino_ArduinoDay_160402-demos (4)" width="1024" height="768"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop — Constrói o teu CSEduino</title>
+		<link>https://altlab.org/2016/03/22/workshop-constroi-o-teu-cseduino-2/</link>
+		
+		<dc:creator><![CDATA[João Alves]]></dc:creator>
+		<pubDate>Tue, 22 Mar 2016 16:27:24 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[atmega328p]]></category>
+		<category><![CDATA[cseduino]]></category>
+		<category><![CDATA[diy]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5450</guid>
+
+					<description><![CDATA[&#160; No próximo dia 2 de Abril de 2016 vai realizar-se a Workshop — Constrói o teu CSEduino. O CSEduino é uma versão barata do Arduino construída apenas com componentes THT (Thru Hole Technology) que são facilmente soldáveis a uma PCB desenhada especificamente para este projeto. Será apresentada nesta Workshop a versão 4 desta placa. &#8230; <a href="https://altlab.org/2016/03/22/workshop-constroi-o-teu-cseduino-2/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Constrói o teu CSEduino"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>No próximo dia 2 de Abril de 2016 vai realizar-se a Workshop — Constrói o teu <em>CSEduino</em>.</p>
+<p>O <em>CSEduino</em> é uma versão barata do Arduino construída apenas com componentes <em>THT (Thru Hole Technology)</em> que são facilmente soldáveis a uma <em>PCB</em> desenhada especificamente para este projeto. Será apresentada nesta Workshop a versão 4 desta placa.</p>
+<p>Esta workshop foi desenhada para ser acessível a qualquer pessoa que deseje dar os primeiros passos no mundo da electrónica e ter logo a mão um <em>kit</em> que te permite iniciar a programação de microcontroladores e a interacção com componentes diversos.</p>
+<p>A Workshop realiza-se nas instalações do FabLab Lisboa — Rua Maria da Fonte – Mercado do Forno do Tijolo, 1170-221 Lisboa.</p>
+<p>O custo da Workshop é de 30€ e inclui todos os componentes para a construção do <em>CSEduino</em> assim como cerca de 30 componentes adicionais que serão teus no final da <em>workshop</em> e que te permitirão fazer desde logo&nbsp;as tuas experiências.</p>
+<p>A agenda da Workshop é a seguinte:</p>
+<ul>
+<li>Aprendendo a soldar;</li>
+<li>Montagem do <em>CSEduino;</em></li>
+<li>Quatro módulos que exploram os componentes que serão distribuídos no <em>kit</em>. Nestes quatro módulos iremos construir um <em>Ohmmeter</em>, um <em>Theremin</em>, um gerador de código Morse e mais algumas surpresas;</li>
+<li>Algumas dicas sobre onde comprar mais componentes e como;</li>
+</ul>
+<p>O horário da Workshop é das 10H até às 18H com intervalo para almoço.</p>
+<p>Nº Máximo de Participantes: 8</p>
+<p>É necessário trazer um computador portátil com Linux&nbsp;ou Windows&nbsp;com uma porta USB disponível.</p>
+<p>Todas as ferramentas para a montagem do <em>CSEduino</em> e dos módulos estarão disponíveis.<br>
+Qualquer questão adicional poderá ser colocada através de email para jpralves@gmail.com</p>
+<p>Cada participante levará consigo um kit que lhe permitirá construir na workshop o CSEduino e todos os módulos. Será igualmente fornecido no <em>kit</em> uma placa com <em>interface</em>&nbsp;<em>USB</em> que permite programar o <em>CSEduino</em>.</p>
+<p>As inscrições na workshop estão fechadas. As vagas estão todas ocupadas.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop — Sintetizador Atari Punk Console — @11.07.2015</title>
+		<link>https://altlab.org/2015/07/09/workshop-sintetizador-atari-punk-console-11-07-2015/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Thu, 09 Jul 2015 01:57:48 +0000</pubDate>
+				<category><![CDATA[coolfactor]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5299</guid>
+
+					<description><![CDATA[&#160; Para celebrar o &#62;Aniversário&#60; do nosso anfitrião FabLabLisboa, Preparamos para vocês este pequeno workshop que esperamos seja do vosso agrado, &#160; QUANDO: — Sábado dia 11 de Julho 2015 DURAÇÃO: — Das 15H às 19H ORIENTADORES: João Alves, Pedro Angelo, Afonso Muralha, Vinicius Silva, Bernardo Gaeiras, André Martins… ONDE: FabLab Lisboa Rua Maria da &#8230; <a href="https://altlab.org/2015/07/09/workshop-sintetizador-atari-punk-console-11-07-2015/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Sintetizador Atari Punk Console — @11.07.2015"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="aligncenter wp-image-5303 size-full" src="http://altlab.org/wp-content/uploads/2015/07/altlab_fablablisboa_sintetizador_NE555_ataripunk.jpg" alt="altlab_fablablisboa_sintetizador_NE555_ataripunk" width="640" height="640"></p>
+<p>&nbsp;</p>
+<p>Para celebrar o <a href="http://fablablisboa.pt/?p=6209" target="_blank">&gt;Aniversário&lt;</a> do nosso anfitrião FabLabLisboa,</p>
+<p>Preparamos para vocês este pequeno workshop que esperamos seja do vosso agrado,</p>
+<p>&nbsp;</p>
+<p>QUANDO:<br>
+— Sábado dia 11 de Julho 2015</p>
+<p>DURAÇÃO:<br>
+— Das 15H às 19H</p>
+<p>ORIENTADORES: João Alves, Pedro Angelo, Afonso Muralha, Vinicius Silva, Bernardo Gaeiras, André Martins…</p>
+<p>ONDE:</p>
+<p>FabLab Lisboa<br>
+Rua Maria da Fonte – Mercado do Forno do Tijolo<br>
+1170-221 Lisboa</p>
+<p>O QUE INCLUI:<br>
+— Tudo o necessário para a construção do kit Sintetizador Atari Punk</p>
+<p>PARTICIPANTES:<br>
+— 8 pessoas</p>
+<p>- Todas a ferramentas necessárias para montar o kit estarão à tua disposição<br>
+— Dúvidas podem ser esclarecidas por email para info@altlab.org</p>
+<p>&nbsp;</p>
+<p>já te podes inscrever <a href="http://goo.gl/forms/HCtDjYyRZV">&gt; aqui &lt;</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop — Constrói o teu CSEduino — Report 28.02 &#038; 01.03.2015</title>
+		<link>https://altlab.org/2015/03/01/workshop-constroi-o-teu-cseduino-report-28-02-01-03-2015/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2015 23:38:32 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[WSReport]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5181</guid>
+
+					<description><![CDATA[Um Workshop, um&#160;sucesso num ano que o&#160;altLab espera&#160;ser excelente para a partilha de conhecimento. Desde o momento em que, abertas as inscrições, ao fim da primeira semana já se encontravam esgotadas as vagas existentes, que se aguardava com expectativa a chegada deste fim de semana. Tivemos um grupo variado mas muito interessado e activo durante &#8230; <a href="https://altlab.org/2015/03/01/workshop-constroi-o-teu-cseduino-report-28-02-01-03-2015/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Constrói o teu CSEduino — Report 28.02 &#38; 01.03.2015"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="aligncenter wp-image-5195 size-full" src="http://altlab.org/wp-content/uploads/2015/03/IMGP7260-Custom.jpg" alt="IMGP7260 (Custom)" width="1087" height="720"><br>
+Um Workshop, um&nbsp;sucesso num ano que o&nbsp;altLab espera&nbsp;ser excelente para a partilha de conhecimento.</p>
+<p>Desde o momento em que, abertas as inscrições, ao fim da primeira semana já se encontravam esgotadas as vagas existentes, que se aguardava com expectativa a chegada deste fim de semana.<br>
+<img decoding="async" loading="lazy" class="aligncenter wp-image-5197 size-full" src="http://altlab.org/wp-content/uploads/2015/03/IMGP7239-Custom.jpg" alt="IMGP7239 (Custom)" width="1087" height="720"><br>
+Tivemos um grupo variado mas muito interessado e activo durante os dias do workshop.<br>
+Houve um acidente de percurso a apontar, que nos permitiu dar uso pela primeira vez ao kit altLab de primeiros socorros, manifestado num modesto corte provocado por um x‑acto mais arisco, corte esse que prontamente foi mitigado pelos nossos orientadores.<br>
+A amena partilha de conhecimentos estendeu-se aos dois almoços onde a maioria dos participantes se consolidou e onde se continuou a partilha de conhecimentos sobre o tema e outros que tais.<br>
+<img decoding="async" loading="lazy" class="aligncenter wp-image-5200 size-full" src="http://altlab.org/wp-content/uploads/2015/03/IMGP7271-Custom.jpg" alt="IMGP7271 (Custom)" width="1087" height="720"><br>
+Foi um prazer poder partilhar convosco o conhecimento sobre este tema tão interessante, a todos um grande obrigado, esperamos que tenham gostado</p>
+<p>Em suma será um workshop para repor nos meses mais próximos, inscrevam-se na nossa mailing list e mantenham-se a par das datas da reposição para garantirem o vosso lugar neste excelente workshop.</p>
+<p>Um agradecimento ao <a href="http://fablablisboa.pt/?page_id=4930">FabLab</a>Lisboa por nos disponibilizar o espaço e o projector que contribuíram para tornar este workshop um sucesso<br>
+Um agradecimento especial ao nosso Master e Orientador João Alves por todo o empenho e disciplina com que nos presenteou com o seu conhecimento.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop — Constrói o teu CSEduino</title>
+		<link>https://altlab.org/2015/02/03/workshop-constroi-o-teu-cseduino/</link>
+		
+		<dc:creator><![CDATA[João Alves]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2015 22:18:29 +0000</pubDate>
+				<category><![CDATA[Archive]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[atmega328p]]></category>
+		<category><![CDATA[diy]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5145</guid>
+
+					<description><![CDATA[&#160; Nos próximos dias 28 de Fevereiro e 1 de Março de 2015 vai realizar-se a Workshop — Constrói o teu CSEduino. O CSEduino é uma versão barata do Arduino construída apenas com componentes THT (Thru Hole Technology) que são facilmente soldáveis a uma Stripboard. Será apresentada nesta Workshop a versão 2 desta placa. Esta &#8230; <a href="https://altlab.org/2015/02/03/workshop-constroi-o-teu-cseduino/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Constrói o teu CSEduino"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-5133 size-medium" src="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-300x199.jpg" alt="TS@altLab-17.01.2015-CSEduinoKitDetail-Web" width="300" height="199" srcset="https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-768x509.jpg 768w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-1024x678.jpg 1024w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web.jpg 1200w" sizes="(max-width: 300px) 85vw, 300px"></a></p>
+<p>&nbsp;</p>
+<p>Nos próximos dias 28 de Fevereiro e 1 de Março de 2015 vai realizar-se a Workshop — Constrói o teu <em>CSEduino</em>.</p>
+<p>O <em>CSEduino</em> é uma versão barata do Arduino construída apenas com componentes <em>THT (Thru Hole Technology)</em> que são facilmente soldáveis a uma <em>Stripboard</em>. Será apresentada nesta Workshop a versão 2 desta placa.</p>
+<p>Esta workshop foi desenhada para ser acessível a qualquer pessoa que deseje dar os primeiros passos no mundo da electrónica e ter logo a mão um <em>kit</em> que te permite iniciar a programação de microcontroladores e a interacção com componentes diversos.</p>
+<p>A Workshop realiza-se nas instalações do FabLab Lisboa — Rua Maria da Fonte – Mercado do Forno do Tijolo, 1170-221 Lisboa.</p>
+<p>O custo da Workshop é de 60€ e inclui todos os componentes para a construção do <em>CSEduino</em> assim como cerca de 30 componentes adicionais que serão teus no final da <em>workshop</em> e que te permitirão fazer desde logo&nbsp;as tuas experiências.</p>
+<p>A agenda da Workshop é a seguinte:</p>
+<p><strong>Dia 1:</strong></p>
+<ul>
+<li>Introdução à electrónica;</li>
+<li>Montagem do <em>CSEduino</em> numa <em>breadboard;</em></li>
+<li>Quatro módulos simples de introdução ao <em>Arduino.</em></li>
+</ul>
+<p><strong>Dia 2:</strong></p>
+<ul>
+<li>Aprendendo a soldar;</li>
+<li>Montagem do <em>CSEduino;</em></li>
+<li>Quatro módulos mais complexos que exploram os componentes que serão distribuidos no <em>kit</em>. Nestes quatro módulos iremos construir um <em>Ohmmeter</em>, um <em>Theremin</em>, um gerador de código Morse e mais algumas surpresas;</li>
+<li>Algumas dicas sobre onde comprar mais componentes e como;</li>
+<li>Apresentação em detalhe de um projectomais complexo que usa o CSEduino.</li>
+</ul>
+<p>O horário da Workshop é das 10H até às 18H com intervalo para almoço.</p>
+<p>Nº Máximo de Participantes: 8</p>
+<p>É necessário trazer um computador portátil com Linux&nbsp;ou Windows&nbsp;com uma porta USB disponível.</p>
+<p>Todas as ferramentas para a montagem do <em>CSEduino</em> e dos módulos estarão disponíveis.<br>
+Qualquer questão adicional poderá ser colocada através de email para jpralves@gmail.com</p>
+<p>Cada participante levará consigo um kit que lhe permitirá construir na workshop o CSEduino e todos os módulos. Será igualmente fornecido no <em>kit</em> uma placa com <em>interface</em>&nbsp;<em>USB</em> que permite programar o <em>CSEduino</em>.</p>
+<p>&nbsp;</p>
+<p>As inscrições na workshop estão fechadas. As vagas estão todas cheias.</p>
+<p>Caso queira inscrever-se na lista de espera ou ser notificado quando for preparada uma nova data pode preencher <a href="http://goo.gl/3ijEbX" target="_blank">este formulário</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Report — TS @ Altlab —  17.01.2015</title>
+		<link>https://altlab.org/2015/01/19/report-ts-altlab-17-01-2015/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2015 02:02:06 +0000</pubDate>
+				<category><![CDATA[Sessions]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5114</guid>
+
+					<description><![CDATA[&#160; &#160; &#160; &#160; Neste&#160;Sábado que passou estivemos de casa cheia! &#160; O tópico central para o qual os membros e amigos do Lab foram convidados, foi a validação do workshop que irá decorrer já no ultimo fim de semana de Fevereiro. &#160; &#160; &#160; &#160; &#160; O tema deste próximo workshop é o CSEduino, &#8230; <a href="https://altlab.org/2015/01/19/report-ts-altlab-17-01-2015/" class="more-link">Continue reading<span class="screen-reader-text"> "Report — TS @ Altlab —  17.01.2015"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><a href="http://altlab.org/category/sessions/"><img decoding="async" loading="lazy" class="wp-image-5115 aligncenter" src="http://altlab.org/wp-content/uploads/2015/01/TinkerSessions-300x162.png" alt="TinkerSessions" width="185" height="100" srcset="https://altlab.org/wp-content/uploads/2015/01/TinkerSessions-300x162.png 300w, https://altlab.org/wp-content/uploads/2015/01/TinkerSessions.png 400w" sizes="(max-width: 185px) 85vw, 185px"></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Neste&nbsp;Sábado que passou estivemos de casa cheia!</p>
+<p>&nbsp;</p>
+<p>O tópico central para o qual os membros e amigos do Lab foram convidados, foi a validação do workshop que irá decorrer já no ultimo fim de semana de Fevereiro.</p>
+<p>&nbsp;</p>
+<p><img decoding="async" loading="lazy" class="aligncenter wp-image-5132 size-large" src="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web-1024x777.jpg" alt="TS@altLab-17.01.2015-CSEduinoGiftBox-Web" width="840" height="637" srcset="https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web-1024x777.jpg 1024w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web-300x228.jpg 300w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web-768x582.jpg 768w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoGiftBox-Web.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"></p>
+<p>&nbsp;</p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-5133" src="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-1024x678.jpg" alt="TS@altLab-17.01.2015-CSEduinoKitDetail-Web" width="640" height="423" srcset="https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-1024x678.jpg 1024w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-768x509.jpg 768w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></p>
+<p>&nbsp;</p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-5134" src="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web-1024x678.jpg" alt="TS@altLab-17.01.2015-CSEduinoShowOff-Web" width="640" height="423" srcset="https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web-1024x678.jpg 1024w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web-768x509.jpg 768w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoShowOff-Web.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>O tema deste próximo workshop é o <a href="http://jpralves.net/cseduino/" target="_blank">CSEduino, (Cheap Simple Easy Arduino)</a>&nbsp;— Um arduino por menos de 5.euros — Um projeto que visa democratizar o acesso ao hardware baseado na plataforma <a href="http://www.arduino.cc/" target="_blank">arduino</a> e partilhar as bases para usar o potencial desta plataforma que pode fazer tudo. Desde acender leds a controlar a temperatura ou os motores de uma CNC.</p>
+<p>&nbsp;</p>
+<p>Abre caminho para o workshop que se visa ter lugar em Março, onde se pegará nas plataformas de microcontroladores e se poderá aprender o que são motores, que tipo de motores existem e que hardware e know how necessitamos para saber onde eles estão e como move-los.</p>
+<p>&nbsp;</p>
+<p>CSEduino, é uma plataforma OpenSource, baseada no Arduino que foi pensada e pelo nosso Master João Alves, que será o orientador deste nosso primeiro Workshop.</p>
+<p>&nbsp;</p>
+<p>O Workshop vai ter lugares limitados (8) será de 2 dias e ocorrerá em 28.fev e 1.Março, pelo valor de 60.euros</p>
+<p>As inscrições para o Worskhop abrem dia 1 de Fevereiro.</p>
+<p>[Actualização]</p>
+<p><a title="Workshop — Constrói o teu CSEduino" href="http://altlab.org/2015/02/03/workshop-constroi-o-teu-cseduino/">Link o post com o detalhe da workshop</a></p>
+<p>&nbsp;</p>
+<p>Enquanto esperam por fevereiro, aproveitam inscrevam-se na <a href="http://audienciazero.org/mailman/listinfo/altlab_audienciazero.org" target="_blank">mailing list</a>&nbsp;do altLab para receberem updates em relação a este e outros workshops.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Durante esta sessão de Tinker, fomos ainda brindados pela visita de amigos makers da <a href="http://junitec.ist.utl.pt/" target="_blank">Junitec</a>&nbsp;e uma visita inesperada de um colega maker de um hackerspace holandês</p>
+<p>&nbsp;</p>
+<p>Em suma, um Sabado bem passado na companhia de amigos <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

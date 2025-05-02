@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>research - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Tue, 01 Feb 2011 14:02:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Laser Etching a PCB with a RepRap by Leonardo</title>
+		<link>https://altlab.org/2011/02/01/laser-etching-a-pcb-with-a-reprap-by-leonardo/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Tue, 01 Feb 2011 14:02:50 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1465</guid>
+
+					<description><![CDATA[Leonardo has been working on a laser-head RepRap for some time. His latest experiment was etching a PCB with it. Above is the video of the first tests, but go on over to his blog to check out all the details.]]></description>
+										<content:encoded><![CDATA[<p><object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/LHH6aPAp_JE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/LHH6aPAp_JE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></object></p>
+<p>Leonardo has been working on a <a href="http://reonarudo.info/blog/" target="_blank">laser-head RepRap</a> for some time. His latest experiment was etching a PCB with it. Above is the video of the first tests, but go on over to <a href="http://reonarudo.info/blog/?p=24" target="_blank">his blog</a> to check out all the details.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Residência AZ no Espaço do Tempo</title>
+		<link>https://altlab.org/2010/01/29/residencia-az-no-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2010 16:24:20 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[residency]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=581</guid>
+
+					<description><![CDATA[(scroll down for english) A Audiência Zero vai realizar uma residência artística multidisciplinar com os seus três laboratórios (AltLab, LCD, xDA) no O Espaço do Tempo (Montemor-o-Novo) no período entre 01 e 07 de Março e 14 e 23 de Junho. A apresentação dos trabalhos produzidos na residência será feita entre 12 e 25 de &#8230; <a href="https://altlab.org/2010/01/29/residencia-az-no-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "Residência AZ no Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><em>(scroll down for english)</em></p>
+<p>A Audiência Zero vai realizar uma residência artística multidisciplinar com os seus três laboratórios (AltLab, LCD, xDA) no <a href="http://www.oespacodotempo.pt/" target="_blank">O Espaço do Tempo</a> (Montemor-o-Novo) no período entre 01 e 07 de Março e 14 e 23 de Junho. A apresentação dos trabalhos produzidos na residência será feita entre 12 e 25 de Julho. A residência é antes de mais destinada aos actuais membros dos laboratórios, mas está prevista a participação de elementos externos no caso destes apresentarem propostas de trabalho consistentes e interessantes. Mais informações e inscrições no fim desta página…</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/01/flyer_residencia.jpg" alt="residência AZ no Espaço do Tempo" title="residência AZ no Espaço do Tempo" width="500" height="707" class="alignnone size-full wp-image-583"></p>
+<p>Os interessados na residência devem manifestar o seu interesse e inscreverem-se com a maior brevidade possível (fim da página) para garantir lugar. A organização entrará em contacto para dar seguimento à inscrição.</p>
+<p>Quando solicitados pela organização os participantes devem indicar se têm um projecto em mente para desenvolver ou actividade a propor. Quanto mais claros forem os projectos e as actividades, assim como os pápeis a desempenhar por cada um dos elementos das equipas constituídas ou a constituir, maior é a probalidade da actividade ou projecto de ser integrada na residência.</p>
+<p>As vagas na residência estão limitadas a 15, com direito a alojamento e uma refeição diária. No caso de existirem mais do que 15 participantes ter-se‑á que escolher os projectos mais interessantes respeitando os seguintes critérios de selecção: criatividade, tecnologias envolvidas, viabilidade e tempo.</p>
+<p>Após o periodo de inscrições, serão avaliados as aplicações pelos organizadores e definidos os artistas residentes. Iniciaremos a discussão dos projectos / actividades e definição da temática.</p>
+<p><strong>Exemplos Actividades:</strong><br>
+. Workshops<br>
+. Palestras<br>
+. Demonstrações</p>
+<p><strong>Exemplos de Áreas de Projecto:</strong><br>
+. Electrónica e Computação Física<br>
+. Instalações Interactivas<br>
+. Performance<br>
+. Robótica<br>
+. Visão por Computador<br>
+. Visualização de Dados</p>
+<p>—-</p>
+<p>Audiência Zero will hold a multidisciplinary artist residency with its three laboratories (altlab, LCD, xDA) in <a href="http://www.oespacodotempo.pt/" target="_blank">O Espaço do Tempo</a> (Montemor-o-Novo) in the period between 01 and 07 March and 14 and 23 June. The projects produced will be shown between 12 and 25 July. The residence is primarily intended for the current members of this laboratories, but participation of external elements is accepted where proposals are consistent and interesting. More information and registration at the end of this page …</p>
+<p>Those interested in residence should express their interest and enroll as soon as possible (end of page) to secure a place. The organization will contact you to follow up the application.</p>
+<p>When asked by the organization participants must indicate whether they have a project in mind to develop or an activity to propose. The clearer the projects and activities, as well as the roles played by each element of a team, the greater the likelihood of the activity or project to be integrated into the residence.</p>
+<p>Vacancies in the residence are limited to 15, with the right accommodation and a daily meal. If there are more than 15 participants, the organization we’ll have to choose the most interesting projects addressing the following selection criteria: creativity, technologies involved, feasibility and time.</p>
+<p>After the registration period, applications will be assessed by the organizers and established resident artists. We will begin the discussion of projects / activities and define the residency theme.</p>
+<p><strong>Sample Activities:</strong><br>
+. Workshops<br>
+. Lectures<br>
+. Demos</p>
+<p><strong>Project theme examples:</strong><br>
+. Electronics and Physical Computing<br>
+. Interactive Installations<br>
+. Performance<br>
+. Robotics<br>
+. Computer Vision<br>
+. Data Visualization</p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/01/espacotempo01.jpg" alt="Espaço do Tempo" title="Espaço do Tempo" width="500" height="375" class="alignnone size-full wp-image-584"></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/01/espacotempo02.jpg" alt="Espaço do Tempo" title="Espaço do Tempo" width="500" height="375" class="alignnone size-full wp-image-585"></p>
+<p>Organização: Guilherme Martins, Ricardo Lobo e Tiago Serra.</p>
+<p><a href="http://www.altlab.org">http://www.altlab.org</a><br>
+<a href="http://www.labcd.org">http://www.labcd.org</a><br>
+<a href="http://www.xdatelier.org">http://www.xdatelier.org</a><br>
+<a href="http://www.oespacodotempo.pt">http://www.oespacodotempo.pt</a></p>
+<p><strong>Residência AZ no Espaço do Tempo<br>
+1ª Edição</strong></p>
+<p>Formador: Audiência Zero<br>
+Coordenador: Audiência Zero<br>
+Datas: 1 a 7 Março; 14 a 23 Junho; 12 a 25 Julho<br>
+Horário: Todo Dia<br>
+Local: O Espaço do Tempo (Montemor-o-Novo)<br>
+Preço: 0 euros<br>
+Estado: Abertas as Inscrições</p>
+<p><a href="http://www.audienciazero.org/cct/index.php?option=com_cct&amp;task=inforequest&amp;id=102" target="_blank">Pedido de Informações</a><br>
+<a href="http://www.audienciazero.org/cct/index.php?option=com_cct&amp;task=workshops&amp;id=102" target="_blank">Ficha de Inscrição</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

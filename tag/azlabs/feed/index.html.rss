@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>azlabs - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/azlabs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Thu, 12 Dec 2013 22:27:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>5º Encontro Anual de Laboratórios Audiência Zero — Programa de Actividades</title>
+		<link>https://altlab.org/2013/12/12/encontro-az-program/</link>
+		
+		<dc:creator><![CDATA[pangelo]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2013 22:27:23 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[audiencia zero]]></category>
+		<category><![CDATA[azlabs]]></category>
+		<category><![CDATA[encontro]]></category>
+		<category><![CDATA[events]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4662</guid>
+
+					<description><![CDATA[Começa já neste sábado o 5º Encontro Anual de Laboratórios Audiência Zero. O Encontro vai decorrer no Espaço Protótipo (sala 4.31) da Faculdade de Belas Artes da Universidade de Lisboa. A participação no evento é gratuita e carece apenas de uma inscrição informal por email para o endereço info@altlab.org O programa proposto para o evento &#8230; <a href="https://altlab.org/2013/12/12/encontro-az-program/" class="more-link">Continue reading<span class="screen-reader-text"> "5º Encontro Anual de Laboratórios Audiência Zero — Programa de Actividades"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Começa já neste sábado o 5º Encontro Anual de Laboratórios Audiência Zero. O Encontro vai decorrer no Espaço Protótipo (sala 4.31) da Faculdade de Belas Artes da Universidade de Lisboa.</p>
+<p>A participação no evento é gratuita e carece apenas de uma inscrição informal por email para o endereço info@altlab.org</p>
+<p>O programa proposto para o evento é o seguinte (sujeito a eventuais alterações de ultima hora):</p>
+<h3>Sábado, 14 de Dezembro</h3>
+<h4>10:00 — 13:00</h4>
+<ul>
+<li>abertura de portas</li>
+<li>talks
+<ul>
+<li>“Laboratórios Audiência Zero”, Ricardo Lobo, Rui Marcelino, Tiago Serra (adiada para as 15:00)</li>
+<li>“2001”, Nuno Antunes (adiado para as 14:30)</li>
+<li>“LabIO”, Mick Mengucci, Francisco Medeiros</li>
+</ul>
+</li>
+<li>demonstração
+<ul>
+<li><a href="http://youtu.be/1Z_7KaBszho">“SonarX — image sonification”</a>, Mick Mengucci, Francisco Medeiros / LabIO</li>
+</ul>
+</li>
+</ul>
+<h4>14:00 — 18:00</h4>
+<ul>
+<li>mesas de trabalho
+<ul>
+<li>“Audio Hacking”, Artica</li>
+<li>“Experiências de alta tensão”, Adriano Couto, Fernando Carvalho, Gonçalo Carvalhal, João Nuno Carvalho</li>
+<li>“Braços Robóticos”, Nuno Antunes</li>
+<li>“Raspberry Pi”, Pedro Ângelo</li>
+<li>“Open Mobile”, Rita Sá</li>
+</ul>
+</li>
+<li>demonstração de projectos
+<ul>
+<li>“Desenvolvimento com Kinect e Leap em Unity”, João Saraiva</li>
+<li>“Mocha Kit”, Rita Sá</li>
+</ul>
+</li>
+</ul>
+<h4>18:00</h4>
+<ul>
+<li>mesa redonda “Criatividade em Rede”
+<ul>
+<li>André Rocha (DAR)</li>
+<li>Bernardo Gaeiras (FabLab Lisboa)</li>
+<li>Carlos Alcobia + Pedro Neves (Espaço Protótipo)</li>
+<li>Diogo Alves (MafraLab)</li>
+<li>Ferdinand Meier (FabLab EDP)</li>
+<li>João Pedro Costa (NEDE)</li>
+<li>Paulo Martins (SpinLab)</li>
+<li>Ricardo Lobo (LCD)</li>
+<li>Rui Marcelino (altLab)</li>
+<li>Tiago Serra (xDA)</li>
+</ul>
+</li>
+</ul>
+<h3 dir="ltr">Domingo, 15 de Dezembro</h3>
+<h4 dir="ltr">10:00 — 13:00</h4>
+<ul>
+<li>abertura de portas</li>
+<li>lightning talks</li>
+</ul>
+<h4>14:00 — 18:00</h4>
+<ul>
+<li>mesas de trabalho (continuação)</li>
+</ul>
+<h4>18:00</h4>
+<ul>
+<li>apresentações das mesas de trabalho</li>
+<li>encerramento</li>
+</ul>
+<p>Gostariamos de deixar nosso sincero agradecimento a todos aqueles que nos ajudaram a elaborar este programa propondo actividades e acedendo ao nosso convite a participar, e um agradecimento especial ao Espaço Protótipo da Faculdade de Belas Artes da Universidade de Lisboa pelo apoio logístico na realização do evento.</p>
+<p>Até já <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>5º Encontro Anual de Laboratórios Audiência Zero — Chamada à Proposta de Actividades</title>
+		<link>https://altlab.org/2013/12/04/encontro-az-call/</link>
+		
+		<dc:creator><![CDATA[pangelo]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2013 02:23:12 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[actividades]]></category>
+		<category><![CDATA[azlabs]]></category>
+		<category><![CDATA[call]]></category>
+		<category><![CDATA[encontro]]></category>
+		<category><![CDATA[event]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4657</guid>
+
+					<description><![CDATA[Desde 2009 que os laboratórios da rede AZ Labs: altLab (Lisboa), LCD (Porto) e xDA (Coimbra), organizam o seu encontro anual em meados de Dezembro. Nestes encontros reunem-se os membros dos vários laboratórios da Audiência Zero para mostrar o seu trabalho e partilhar experiências de uma forma aberta e informal: &#160; (Video do primeiro Encontro &#8230; <a href="https://altlab.org/2013/12/04/encontro-az-call/" class="more-link">Continue reading<span class="screen-reader-text"> "5º Encontro Anual de Laboratórios Audiência Zero — Chamada à Proposta de Actividades"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Desde 2009 que os laboratórios da <a href="http://audienciazero.org">rede AZ Labs</a>: <a href="http://altlab.org">altLab</a> (Lisboa), <a href="http://labcd.org">LCD</a> (Porto) e <a href="http://xdatelier.org">xDA</a> (Coimbra), organizam o seu encontro anual em meados de Dezembro. Nestes encontros reunem-se os membros dos vários laboratórios da Audiência Zero para mostrar o seu trabalho e partilhar experiências de uma forma aberta e informal:</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/8SPzaS8zF2g" height="360" width="480" allowfullscreen frameborder="0"></iframe></p>
+<p>(Video do primeiro Encontro de Laboratórios AZ realizado em 2009)</p>
+<p>&nbsp;</p>
+<p>Com a proliferação recente de espaços que ligam a criatividade à tecnologia como hackerspaces, maker spaces, fablabs e media labs, nota-se um interesse generalizado da sociedade com o o empowerment tecnológico e criativo do individuo e com a criação de comunidades autónomas de partilha livre de conhecimento. Torna-se assim para nós muito importante partilhar com a sociedade civil o trabalho e a experiência de campo adquirida ao longo dos anos pelos Laboratórios Audiência Zero e a abertura da Rede através da criação de novos laços com pessoas, espaços e colectivos que partilham dos valores da associação.</p>
+<p>Este ano o Encontro de Laboratórios Audiência Zero irá decorrer em Lisboa, entre os dias 13 e 15 de Dezembro de 2013, nas instalações do Espaço Protótipo da Faculdade de Belas-Artes da Universidade de Lisboa.</p>
+<p>Convidamos assim todos os membros e amigos da nossa comunidade a participarem neste evento através da proposta de actividades a realizar durante o encontro. As actividades propostas podem ser de qualquer tipo, desde que de alguma forma se adequem aos temas da apropriação criativa da tecnologia e da partilha livre de conhecimentos, como por exemplo:</p>
+<ul>
+<li>Talks sobre um tema à vossa escolha com uma duração até 30 minutos.</li>
+<li>Workshops com uma duração máximo de duas horas que visam quebrar o gelo e introduzir o público às tecnologias do dia-a-dia dos laboratórios. Exemplos: impressão 3D, Arduino, circuitos electrónicos, fabricação de PCB, sintese de audio, etc.</li>
+<li>Mesas de trabalho temáticas onde os participantes se reunem e trabalhem em projectos durante todo o evento. As mesas de trabalho podem ser organizadas à volta de projectos concretos já em desenvolvimento ou de ideias abertas à discussão e participação de todos.</li>
+<li>Demonstrações de projectos desenvolvidos pelos participantes.</li>
+<li>Performances, concertos, sessões de DJ e VJ.</li>
+</ul>
+<p>Os interessados deverão enviar até ao próximo dia 9 de Dezembro uma breve descrição da actividade que pretendem realizar, junto com uma lista dos recursos necessários para o email <a href="mailto:info@altlab.org">info@altlab.org</a></p>
+<p>Em breve publicaremos também o programa provisório do evento.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[AZSA_01] LCD Mostra-se</title>
+		<link>https://altlab.org/2012/09/03/azsa_01-lcd-mostra-se/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2012 08:47:31 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[azlabs]]></category>
+		<category><![CDATA[music]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3779</guid>
+
+					<description><![CDATA[&#160; Posted on xDA&#160;Blog&#160;September 3, 2012&#160;by Filipe Cruz Summer was getting boring so i decided to make a new album and start a new netlabel. The album is called&#160;“LCD Mostra-se”&#160;and is a collection of field recordings from the self-titled event that occured in Guimarães on the 21 and 22 of July, organized by our&#160;LCDbrothers. &#160; &#8230; <a href="https://altlab.org/2012/09/03/azsa_01-lcd-mostra-se/" class="more-link">Continue reading<span class="screen-reader-text"> "[AZSA_01] LCD Mostra-se"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Posted on <a href="http://audienciazero.net/xda/2012/09/03/azsa_01-lcd-mostra-se/" target="_blank"><span id="GRmark_66f597b64d314770de68c2fea274ff27c8634552_xDA:0" class="GRcorrect">xDA</span>&nbsp;Blog</a>&nbsp;<time datetime="2012-09-03T07:42:11+00:00" pubdate>September 3, 2012</time>&nbsp;by Filipe Cruz</p>
+<div>
+<p>Summer was getting boring so <span id="GRmark_57d11e3af5a0f1b869579d226c83c8f1d932da00_i:0" class="GRcorrect">i</span> decided to make a new album and start a new <span id="GRmark_57d11e3af5a0f1b869579d226c83c8f1d932da00_netlabel:1" class="GRcorrect">netlabel</span>.<br>
+The album is called&nbsp;<a href="http://soundarchives.audienciazero.net/">“LCD Mostra-se”</a>&nbsp;and is a collection of field recordings from the self-titled event that <span id="GRmark_52fe21216785a1f785afa472ee85e1427488f76b_occured:0" class="GRcorrect">occured</span> in Guimarães on the 21 and 22 of July, organized by our&nbsp;<a href="http://lcd.guimaraes2012.pt/">LCD</a>brothers.</p>
+<p><a href="http://soundarchives.audienciazero.net/">&nbsp;<img decoding="async" src="http://soundarchives.audienciazero.net/azsa_01_front.jpg" alt width="300px"></a></p>
+<p>It’s available free for download as the first release of&nbsp;<a href="http://soundarchives.audienciazero.net/">Audiência Zero Sound Archives</a>, the newly formed <span class="GRspelling">netlabel</span> dedicated to release <span class="GRspelling">audioworks</span> related to our Audiência Zero labs network (LCD, <span class="GRspelling">xDA</span> and <span class="GRspelling">altLab).</span></p>
+<div></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>guibot - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/author/guibot/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 06 May 2009 17:07:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>PAPERduino’s design</title>
+		<link>https://altlab.org/2009/05/06/paperduinos-design/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 17:07:52 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[cardboard]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[eco]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[paperduino]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[recycle]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=274</guid>
+
+					<description><![CDATA[This is a fully functional version of the Arduino. We eliminated the PCB and use paper and cardboard as support and the result is.. the PAPERduino 😀 This is the the first version of the layout design, next we will try more designs, and other materials. You just need to print the top and the &#8230; <a href="https://altlab.org/2009/05/06/paperduinos-design/" class="more-link">Continue reading<span class="screen-reader-text"> "PAPERduino’s design"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>This is a fully functional version of the Arduino. We eliminated the PCB and use paper and cardboard as support and the result is.. the PAPERduino <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>This is the the first version of the layout design, next we will try more designs, and other materials. You just need to print the top and the bottom layouts, and glue them to any kind of support you want. We hope that you start making your own boards. If you do, please share your photos with us, we would love to see them <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>There is no USB direct connection, so to program the paperduino you will need some kind of FTDI cable or adapter. One of this products will be fine:<br>
+<a href="http://www.adafruit.com/index.php?main_page=product_info&amp;cPath=18&amp;products_id=70">FTDI cable from Adafruit Industries</a><br>
+<a href="http://www.sparkfun.com/commerce/product_info.php?products_id=9115">FTDI adapter from Sparkfun</a></p>
+<p><img decoding="async" src="http://farm4.static.flickr.com/3653/3507622765_a18cac9288.jpg?v=0" alt></p>
+<p><strong><a href="http://guilhermemartins.net/lab_files/paperduino.pdf">Download PDF</a></strong></p>
+<p>Components list:<br>
+1 x 7805 Voltage regulator<br>
+2 x LEDs (different colors)<br>
+2 x 560 Ohm resistors (between 220oHm and 1K)<br>
+1 x 10k Ohm resistor<br>
+2 x 100 uF capacitors<br>
+1x 16 MHz clock crystal<br>
+2 x 22 pF capacitors<br>
+1 x 0.01 uF capacitor<br>
+1 x button<br>
+1 x Atmel ATMega168<br>
+1 x socket 28 pin<br>
+Female and Male headers</p>
+<p><a href="http://www.flickr.com/photos/guibot/3507287339/sizes/o/in/set-72157617758151682/"><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3405/3507287339_ae34d2aff1.jpg?v=0" alt width="500" height="375"></a></p>
+<p><a href="http://www.flickr.com/photos/guibot/3507321983/sizes/o/"><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3554/3507321983_2858584052.jpg?v=0" alt width="500" height="264"></a></p>
+<p><strong>Instructions:</strong><br>
+Use a needle to puncture the holes for your components.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3551/3508361680_d5acc17b97.jpg?v=0" alt width="500" height="375"></p>
+<p>Don’t rush, place one component after another and do all the solder work carefully.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3394/3508371334_7e6e222596.jpg?v=0" alt width="500" height="375"></p>
+<p>Follow the connection lines.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3388/3507563103_9848e7456f.jpg?v=0" alt width="500" height="375"></p>
+<p>And this should be the final look of your paperduino connections.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3390/3508341324_dd69c50be5.jpg?v=0" alt width="500" height="375"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>more photos of yesterday evening</title>
+		<link>https://altlab.org/2009/05/06/more-photos-of-yesterday-evening/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 12:30:23 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[card]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[paperduino]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=270</guid>
+
+					<description><![CDATA[We had a great time building this electronic/paper pieces, and more are to come pretty soon .)]]></description>
+										<content:encoded><![CDATA[<p>We had a great time building this electronic/paper pieces, and more are to come pretty soon  .)</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3257/3506354740_2cf74c1094.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3380/3505544439_0f1d7d39a2.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3300/3505544767_535f84de92.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3323/3506354168_f535bb61dc.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3372/3506648489_e385975107.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3587/3506647891_cde012f42b.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3583/3506647975_5503d50b38.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3202/3507456186_d5a0565262.jpg?v=0" alt width="500" height="375"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AltLab opening with paper arduinos</title>
+		<link>https://altlab.org/2009/05/05/altlab-opening-with-paper-arduinos/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 02:12:22 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<category><![CDATA[opening]]></category>
+		<category><![CDATA[paperduino]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=266</guid>
+
+					<description><![CDATA[We are happy to introduce the paperduino &#160;😀 This Tuesday AltLab had its first public session and we did a mini workshop on “paperduinos”, a new generation of cardboard arduinos. We had lots of fun and have many more ideas we’d like to try: different layouts, colored papers, and other materials. More info soon.]]></description>
+										<content:encoded><![CDATA[<p>We are happy to introduce the paperduino &nbsp;<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3550/3506355142_f4150ba5b6.jpg?v=0" alt width="500" height="375"></p>
+<p>This Tuesday AltLab had its first public session and we did a mini workshop on “paperduinos”, a new generation of cardboard arduinos. We had lots of fun and have many more ideas we’d like to try: different layouts, colored papers, and other materials. More info soon.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3659/3505545053_a0c3e7d0c7.jpg?v=0" alt width="500" height="335"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3413/3506354854_dae7570a74.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3316/3505545447_1fe235ebf7.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3626/3506354500_c4aff22dc2.jpg?v=0" alt width="500" height="335"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3361/3505545923_7ef5e3ece4.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3384/3505545783_4bf025a685.jpg?v=0" alt width="500" height="375"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Control your motors with L293D and Arduino</title>
+		<link>https://altlab.org/2009/04/29/control-your-motors-with-l293d-and-arduino/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 09:30:47 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[chip]]></category>
+		<category><![CDATA[instructable]]></category>
+		<category><![CDATA[l293d]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=222</guid>
+
+					<description><![CDATA[I realized there was some lack of information regarding the use of this chip with Arduino, so I made this Instructable. Hope you find it usefull 😉]]></description>
+										<content:encoded><![CDATA[<p>I realized there was some lack of information regarding the use of this chip with Arduino, so I made this Instructable. Hope you find it usefull  <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/"><img decoding="async" class="alignnone" src="http://www.instructables.com/image/F8TQPXMFTY4CX3G/Basic-implementation.jpg" alt></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

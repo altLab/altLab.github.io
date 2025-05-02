@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>card - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/card/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 06 May 2009 12:30:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>more photos of yesterday evening</title>
+		<link>https://altlab.org/2009/05/06/more-photos-of-yesterday-evening/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 12:30:23 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[card]]></category>
+		<category><![CDATA[paper]]></category>
+		<category><![CDATA[paperduino]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=270</guid>
+
+					<description><![CDATA[We had a great time building this electronic/paper pieces, and more are to come pretty soon .)]]></description>
+										<content:encoded><![CDATA[<p>We had a great time building this electronic/paper pieces, and more are to come pretty soon  .)</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3257/3506354740_2cf74c1094.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3380/3505544439_0f1d7d39a2.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3300/3505544767_535f84de92.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3323/3506354168_f535bb61dc.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3372/3506648489_e385975107.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3587/3506647891_cde012f42b.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3583/3506647975_5503d50b38.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3202/3507456186_d5a0565262.jpg?v=0" alt width="500" height="375"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pauloricca - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/author/pauloricca/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 24 Mar 2010 20:38:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Happy Ada Lovelace Day!</title>
+		<link>https://altlab.org/2010/03/24/happy-ada-lovelace-day/</link>
+		
+		<dc:creator><![CDATA[pauloricca]]></dc:creator>
+		<pubDate>Wed, 24 Mar 2010 20:38:54 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=711</guid>
+
+					<description><![CDATA[Ada Lovelace developed the first piece of software in history, for Charles Babbage’s early mechanical general-purpose computer, the analytical engine; she’s, therefore, the world’s first software programmer! Today is Ada Lovelace Day and we are celebrating women in technological fields. Here at Altlab we have a strong feminine influence since two of our founders are &#8230; <a href="https://altlab.org/2010/03/24/happy-ada-lovelace-day/" class="more-link">Continue reading<span class="screen-reader-text"> "Happy Ada Lovelace Day!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Ada Lovelace developed the first piece of software in history, for Charles Babbage’s early mechanical general-purpose computer, the analytical engine; she’s, therefore, the world’s first software programmer! Today is Ada Lovelace Day and we are celebrating women in technological fields.</p>
+<p>Here at Altlab we have a strong feminine influence since two of our founders are awesomely extraordinary techy women!</p>
+<p><a href="http://altlab.org/wp-content/uploads/2010/03/meninas1.jpg"><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-712" src="http://altlab.org/wp-content/uploads/2010/03/meninas1.jpg" alt width="570" height="282"></a></p>
+<p><strong>Catarina Mota</strong></p>
+<p>Catarina is a bit our de facto leader, gluing us all together with her incredible tenderness and forced volunteering skills. Her main interests and topics of research are computer vision, intelligent materials, hackerspaces and personal fabrication. Catarina got her Master degree in New York University’s Interactive Telecommunications Program where she specialized in physical computing and interactive installations. Besides AltLab, she’s one of the founders and main writters of&nbsp;<a href="http://openmaterials.org/">http://openmaterials.org/</a>. She’s also an active member of Thingiverse and her “things” and procedural 3d modelling are praised by just about everyone, check it out&nbsp;<a href="http://www.thingiverse.com/catarina">http://www.thingiverse.com/catarina</a>!</p>
+<p><strong>Mónica Mendes</strong></p>
+<p>Mónica (the blonde acrobatic monkey suit)&nbsp;is our charming radical surfer founder! When she’s not hacking her own Range Rover she’s busy working with real-time video installations on a project called&nbsp;RTiVISS&nbsp;<a href="http://www.rtiviss.com/">http://www.rtiviss.com/</a> which is the basis of her PhD. She is also an interface designer and a multimedia educator.</p>
+<p><img decoding="async" loading="lazy" class="size-full wp-image-713 alignright" src="http://altlab.org/wp-content/uploads/2010/03/meninas2.jpg" alt width="375" height="234"></p>
+<p style="text-align: right">
+</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Make your own game-pad!</title>
+		<link>https://altlab.org/2009/05/27/make-your-own-game-pad/</link>
+		
+		<dc:creator><![CDATA[pauloricca]]></dc:creator>
+		<pubDate>Wed, 27 May 2009 08:54:43 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=340</guid>
+
+					<description><![CDATA[…Don’t let others tell you how many buttons you can press at once, these are times of freedom 🙂 This is a homemade game-pad with just one accelerometer (a breakout board from Sparkfun) and one push-button. Using a simple, custom protocol and a C# listener we could play Acceleroids, an Asteroids lost sibling on Steroids, &#8230; <a href="https://altlab.org/2009/05/27/make-your-own-game-pad/" class="more-link">Continue reading<span class="screen-reader-text"> "Make your own game-pad!"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>…Don’t let others tell you how many buttons you can press at once, these are times of freedom <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>This is a homemade game-pad with just one accelerometer (a breakout board from Sparkfun) and one push-button.</p>
+<p style="text-align: center;"><img decoding="async" loading="lazy" width="500" height="332" class="size-full wp-image-341 aligncenter" src="http://altlab.org/wp-content/uploads/2009/05/controller.jpg" alt="custom game-pad with accelerometer and push-button connected to arduino"></p>
+<p>Using a simple, custom protocol and a C# listener we could play Acceleroids, an Asteroids lost sibling on Steroids, which&nbsp;uses the accelerometer to control the ship and the button to shoot.</p>
+<p style="text-align: center;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://www.youtube.com/v/2IBL5eKiZVE&amp;hl=en&amp;fs=1"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/2IBL5eKiZVE&amp;hl=en&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p>next steps will be to turn this into a generic game-pad by simulating keyboard key presses for any sensor you throw at the Arduino, allowing you to create truly funky pads to control your favourite game.&nbsp;Stay tuned! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Edit: We were alerted by friendly comments that this project resembles another project/tutorial that can be found here: http://lusorobotica.com/index.php/topic,902.0.html</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

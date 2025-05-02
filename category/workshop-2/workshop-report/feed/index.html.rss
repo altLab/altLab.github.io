@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WSReport - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/category/workshop-2/workshop-report/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 15:36:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Workshop — Constrói o teu CSEduino — Resumo</title>
+		<link>https://altlab.org/2016/04/05/workshop-constroi-o-teu-cseduino-resumo/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2016 02:08:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[WSReport]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5467</guid>
+
+					<description><![CDATA[Sendo esta edição uma evolução da anterior usamos nesta Workshop uma PCB que simplificou o trabalho dos participantes. Tendo entre os participantes alguns jovens foi bastante interessante verificar como eles e todos os restantes participantes conseguiram dominar a arte de soldar finalizando todos a montagem do CSEduino. Foi num ambiente descontraído e de colaboração que &#8230; <a href="https://altlab.org/2016/04/05/workshop-constroi-o-teu-cseduino-resumo/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Constrói o teu CSEduino — Resumo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5474" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-5.jpg" alt="CSEduino_ArduinoDay_160402 (5)" width="1024" height="683"></p>
+<p>Sendo esta edição uma evolução da anterior usamos nesta Workshop uma PCB que simplificou o trabalho dos participantes.</p>
+<p>Tendo entre os participantes alguns jovens foi bastante interessante verificar como eles e todos os restantes participantes conseguiram dominar a arte de soldar finalizando todos a montagem do CSEduino.</p>
+<p>Foi num ambiente descontraído e de colaboração que decorreu a workshop onde foram apresentados diversos aspectos desde a introdução à electrónica até a construção de alguns circuitos em “Breadboard” passando pela montagem dos componentes para a construção do CSEduino.</p>
+<p>O resultado final não podia ser melhor e a opinião de todos é que gostaram da Workshop.</p>
+<p>Em paralelo decorreu a demo do kit 37 sensores, disponível ao público para experimentar, reparou-se um arduino nano danificado por alta corrente com junk de uma motherboard (o diodo tinha morrido) e apresentaram-se projectos altLab feitos com arduino como a pista de carros Hacky Racers, uma Laser CNC baseada no GRBL para a qual se produzir a estrutura e até um sistema de presistência de visão a funcionar num ATiny85.</p>
+<p>As instalações do FabLabLX proporcionaram-nos o espaço e meios para que pudéssemos dar a Workshop com qualidade, um grande bem haja pelo grande apoio que nos têm dado.</p>
+<p>Aqui ficam as imagens… <span id="more-5467"></span></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5473" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-4.jpg" alt="CSEduino_ArduinoDay_160402 (4)" width="683" height="1024"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5468" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_workshop_160402-1.jpg" alt="CSEduino_workshop_160402-1" width="1024" height="576"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5477" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-8.jpg" alt="CSEduino_ArduinoDay_160402 (8)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5469" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_workshop_160402-2.jpg" alt="CSEduino_workshop_160402-2" width="1024" height="576"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5472" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-3.jpg" alt="CSEduino_ArduinoDay_160402 (3)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5478" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-9.jpg" alt="CSEduino_ArduinoDay_160402 (9)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5471" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-2.jpg" alt="CSEduino_ArduinoDay_160402 (2)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5483" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_workshop_160402-3.jpg" alt="CSEduino_workshop_160402-3" width="768" height="1024"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5470" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-1.jpg" alt="CSEduino_ArduinoDay_160402 (1)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5491" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-demos-2.jpg" alt="CSEduino_ArduinoDay_160402-demos (2)" width="1024" height="768"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5476" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-7.jpg" alt="CSEduino_ArduinoDay_160402 (7)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5475" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-6.jpg" alt="CSEduino_ArduinoDay_160402 (6)" width="1024" height="683"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5490" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-demos-1.jpg" alt="CSEduino_ArduinoDay_160402-demos (1)" width="1024" height="768"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5492" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-demos-3.jpg" alt="CSEduino_ArduinoDay_160402-demos (3)" width="1024" height="768"></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-5493" src="http://altlab.org/wp-content/uploads/2016/04/CSEduino_ArduinoDay_160402-demos-4.jpg" alt="CSEduino_ArduinoDay_160402-demos (4)" width="1024" height="768"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop — Constrói o teu CSEduino — Report 28.02 &#038; 01.03.2015</title>
+		<link>https://altlab.org/2015/03/01/workshop-constroi-o-teu-cseduino-report-28-02-01-03-2015/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2015 23:38:32 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[WSReport]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5181</guid>
+
+					<description><![CDATA[Um Workshop, um&#160;sucesso num ano que o&#160;altLab espera&#160;ser excelente para a partilha de conhecimento. Desde o momento em que, abertas as inscrições, ao fim da primeira semana já se encontravam esgotadas as vagas existentes, que se aguardava com expectativa a chegada deste fim de semana. Tivemos um grupo variado mas muito interessado e activo durante &#8230; <a href="https://altlab.org/2015/03/01/workshop-constroi-o-teu-cseduino-report-28-02-01-03-2015/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Constrói o teu CSEduino — Report 28.02 &#38; 01.03.2015"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="aligncenter wp-image-5195 size-full" src="http://altlab.org/wp-content/uploads/2015/03/IMGP7260-Custom.jpg" alt="IMGP7260 (Custom)" width="1087" height="720"><br>
+Um Workshop, um&nbsp;sucesso num ano que o&nbsp;altLab espera&nbsp;ser excelente para a partilha de conhecimento.</p>
+<p>Desde o momento em que, abertas as inscrições, ao fim da primeira semana já se encontravam esgotadas as vagas existentes, que se aguardava com expectativa a chegada deste fim de semana.<br>
+<img decoding="async" loading="lazy" class="aligncenter wp-image-5197 size-full" src="http://altlab.org/wp-content/uploads/2015/03/IMGP7239-Custom.jpg" alt="IMGP7239 (Custom)" width="1087" height="720"><br>
+Tivemos um grupo variado mas muito interessado e activo durante os dias do workshop.<br>
+Houve um acidente de percurso a apontar, que nos permitiu dar uso pela primeira vez ao kit altLab de primeiros socorros, manifestado num modesto corte provocado por um x‑acto mais arisco, corte esse que prontamente foi mitigado pelos nossos orientadores.<br>
+A amena partilha de conhecimentos estendeu-se aos dois almoços onde a maioria dos participantes se consolidou e onde se continuou a partilha de conhecimentos sobre o tema e outros que tais.<br>
+<img decoding="async" loading="lazy" class="aligncenter wp-image-5200 size-full" src="http://altlab.org/wp-content/uploads/2015/03/IMGP7271-Custom.jpg" alt="IMGP7271 (Custom)" width="1087" height="720"><br>
+Foi um prazer poder partilhar convosco o conhecimento sobre este tema tão interessante, a todos um grande obrigado, esperamos que tenham gostado</p>
+<p>Em suma será um workshop para repor nos meses mais próximos, inscrevam-se na nossa mailing list e mantenham-se a par das datas da reposição para garantirem o vosso lugar neste excelente workshop.</p>
+<p>Um agradecimento ao <a href="http://fablablisboa.pt/?page_id=4930">FabLab</a>Lisboa por nos disponibilizar o espaço e o projector que contribuíram para tornar este workshop um sucesso<br>
+Um agradecimento especial ao nosso Master e Orientador João Alves por todo o empenho e disciplina com que nos presenteou com o seu conhecimento.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

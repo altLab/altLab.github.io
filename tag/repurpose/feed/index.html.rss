@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>repurpose - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/repurpose/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Thu, 17 Jun 2010 19:08:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>makerbot as microscope: what we learned</title>
+		<link>https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2010 19:08:14 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[bio]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=766</guid>
+
+					<description><![CDATA[Joel Belouet has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the MakerBot sitting on our table was the solution. At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear &#8230; <a href="https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/" class="more-link">Continue reading<span class="screen-reader-text"> "makerbot as microscope: what we learned"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><object width="400" height="320"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="320"></object></p>
+<p><a href="http://joel.belouet.free.fr/" target="_blank">Joel Belouet</a> has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the <a href="http://www.makerbot.com/" target="_blank">MakerBot</a> sitting on our table was the solution.</p>
+<p>At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear that it would be much better to have the sample remain still and the camera move instead. Inverting the positions meant attaching the slide to the bottom of the z axis platform in order to prevent the camera lens from bumping against it. This setup also allowed him to use the <a href="http://www.thingiverse.com/thing:975" target="_blank">z crank</a> as a focus mechanism.<span id="more-766"></span></p>
+<p><a href="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg" alt title="makerbot microscope" width="400" height="533" class="alignnone size-full wp-image-838"></a></p>
+<p>So we were happy with the physical setup which, in conjunction with <a href="http://replicat.org/" target="_blank">ReplicatorG’s</a> control panel, proved very useful for finding and tracking microorganisms within the sample.</p>
+<p>But we also wanted to try an automated scan.</p>
+<p>So the next step was to generate a path for the camera. We made a bunch of experiments with MakerBot’s <a href="http://wiki.makerbot.com/frostruder-mk2-usage" target="_blank">Frostruder Tool Sweet</a>, but eventually an stl + <a href="http://reprap.org/wiki/Skeinforge" target="_blank">skeinforge</a>, with a feedrate of 12 mm/m, turned out to be the best solution.</p>
+<p>Finally, the microscope camera (which is a cheap webcam with a macro lens that Joel flipped upside down) was connected to his <a href="http://processing.org/" target="_blank">Processing</a> script that records both video and stills from the incoming video feed.</p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object><br>
+<em>Video of fist automated scan (sample is moss from a well).</em></p>
+<p>Joel will continue to work on this as part of his art project, but this setup seems to be useful for a few other things:<br>
+— Record microscopic images of each and every area of a sample: just feed the makerbot a grid-like design, set the processing script to take a photo of each quadrant, go enjoy the <a href="http://www.flickr.com/photos/34906770@N07/4701251724/in/set-72157623408197899/" target="_blank">great outdoors</a>, and when you return to the lab you’ll have all the images waiting for you on your hard drive.<br>
+— Automatically capture images of live bacteria: we’ll try to do this by having the processing script track certain types of motion and capture stills when it’s detected.<br>
+— Some dancers here at the AZ residency also became very interested in using it as live video feed for performance.</p>
+<p>Well, that’s it for now. We’re going to get more coffee and think of a way to make an action movie starring nematodes and tardigrades <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>First Soft Circuits Open Lab</title>
+		<link>https://altlab.org/2010/02/19/first-soft-circuits-open-lab/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Fri, 19 Feb 2010 12:55:01 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=600</guid>
+
+					<description><![CDATA[This Sunday we’re holding our first Soft Circuits Open Lab at the School of Fine Arts in Lisbon (FBAUL — Faculdade de Belas Artes de Lisboa). There is no predefined structure for the event. We will meet for the course of one day with the purposes of sharing knowledge, experimenting freely, advancing on-going projects, and &#8230; <a href="https://altlab.org/2010/02/19/first-soft-circuits-open-lab/" class="more-link">Continue reading<span class="screen-reader-text"> "First Soft Circuits Open Lab"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/02/softcircuitsAltlab.jpg" alt="soft circuits open lab" title="soft circuits open lab" width="500" height="375" class="alignnone size-full wp-image-655"></p>
+<p>This Sunday we’re holding our first Soft Circuits Open Lab at the School of Fine Arts in Lisbon <a href="http://www.fba.ul.pt/portal/page?_pageid=401,1&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">(FBAUL — Faculdade de Belas Artes de Lisboa)</a>. There is no predefined structure for the event. We will meet for the course of one day with the purposes of sharing knowledge, experimenting freely, advancing on-going projects, and just having fun working together. Some of the people attending will be specialists in electronics and others in textiles. Barcamp style impromptu presentations are very welcome.</p>
+<p>Altlab will provide some basic tools such as pliers, scissors, soldering irons, ironing board, etc. But participants must bring all the materials and additional equipment necessary for their own projects/experiments (including laptops). Here are some suggestions: any kind of fabric, needles and thread, yarn, t‑shirts, conductive and/or resistive fabric, conductive thread, conductive and/or resistive yarn, knitting and/or crochet needles, LEDs, coin cell batteries, battery holders, EL wire, strands of fiber optics, copper foil, copper adhesive track, aluminum foil, resistive foam, regular foam, arduinos (lilypad or any other kind). If you’ve never worked with any of these materials and don’t have them handy, come anyway, you can help someone else with their project and learn along the way.</p>
+<p>For more information on soft circuits techniques and materials, check out the <a href="http://openmaterials.org/wiki/index.php?title=Main_Page#Soft_Circuits_Resources" target="_blank">Soft Circuits Resources</a> section on the <a href="http://openmaterials.org" target="_blank">openMaterials</a> wiki.</p>
+<p>This open lab will take place on February 21st, from 10:30 to 18:30, at the School of Fine Arts in Lisbon, room 307, 1st floor (since our own space is still under construction). All are welcome, there is no fee nor registration, but please do let me know if you are planning on coming: catarinamota(at)audienciazero.org</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dissecting old hardware</title>
+		<link>https://altlab.org/2009/06/23/dissecting-old-hardware/</link>
+		
+		<dc:creator><![CDATA[Tiago Henriques]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2009 19:32:12 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=465</guid>
+
+					<description><![CDATA[The last two sessions at Altlab have been a tremendous fun! We had been collecting lots of old hardware (pc’s, modems, motheboards, cd-roms, printers, etc) &#160;to give it a new purpose! Finally we decided to start to take profit from it. Basically in old hardware trash, there are lot’s of interesting things that still work &#8230; <a href="https://altlab.org/2009/06/23/dissecting-old-hardware/" class="more-link">Continue reading<span class="screen-reader-text"> "Dissecting old hardware"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The last two sessions at Altlab have been a tremendous fun!</p>
+<p>We had been collecting lots of old hardware (pc’s, modems, motheboards, cd-roms, printers, etc) &nbsp;to give it a new purpose! Finally we decided to start to take profit from it.</p>
+<p>Basically in old hardware trash, there are lot’s of interesting things that still work very well&nbsp;(like motors, &nbsp;leds, screens)&nbsp;and can be re-utilized in other projects.</p>
+<p>Here we have some pictures of this activity :</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3376/3654993552_3c110b744e.jpg?v=0" alt width="500" height="334"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm3.static.flickr.com/2386/3654989652_55a757e8e1.jpg?v=0" alt width="500" height="375"></p>
+<p>One of the results, a box full of motors :</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3312/3654989296_68f94235be.jpg?v=0" alt width="500" height="375"></p>
+<p>So if you have in your place some old electronic equipment stored that you are no planing to use it anymore, you can bring it to AltLab and we’ll take care of it! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>More pictures in our <a title="Dissecting Hardware Flickr Set" href="http://www.flickr.com/photos/39486517@N05/sets/72157620405139906/" target="_blank">Flickr Photo Stream</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

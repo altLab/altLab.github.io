@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hackaday - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/hackaday/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Thu, 19 Feb 2015 14:12:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>altLab meets Hackaday — 2015.02.19</title>
+		<link>https://altlab.org/2015/02/19/altlab-meets-hackaday-2015-02-19/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2015 14:12:28 +0000</pubDate>
+				<category><![CDATA[coolfactor]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Evenchick]]></category>
+		<category><![CDATA[Hackaday]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5176</guid>
+
+					<description><![CDATA[&#160; http://hackaday.com/author/ericevenchick/]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_5177" aria-describedby="caption-attachment-5177" style="width: 487px" class="wp-caption aligncenter"><img decoding="async" class="size-full wp-image-5177" src="http://altlab.org/wp-content/uploads/2015/02/altlab-meets-hackaday-x3msnake-eric-evenchick-17-02-2015.jpg" alt="altLab meets Hackaday" width="487" height="550"><figcaption id="caption-attachment-5177" class="wp-caption-text">altLab meets Hackaday</figcaption></figure>
+<p>&nbsp;</p>
+<p>http://hackaday.com/author/ericevenchick/</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

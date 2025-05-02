@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>materials - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/materials/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Sat, 07 Aug 2010 09:59:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>food for your stomach</title>
+		<link>https://altlab.org/2010/08/07/food-for-your-stomach/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Sat, 07 Aug 2010 09:59:36 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[materials]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=925</guid>
+
+					<description><![CDATA[Feeding 15 sleep deprived hackers is not an easy task and during the AZ Residency only 3 people were brave enough to put their culinary talents to the test: Joel, Vitor and Mariana. Everyone agreed that their homemade meals were awesome and no bug reports were filed. Since we believe in sharing, here are Joel’s &#8230; <a href="https://altlab.org/2010/08/07/food-for-your-stomach/" class="more-link">Continue reading<span class="screen-reader-text"> "food for your stomach"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2010/08/food.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/08/food.jpg" alt title="open source food" width="500" height="210" class="alignnone size-full wp-image-934"></a><br>
+Feeding 15 sleep deprived hackers is not an easy task and during the AZ Residency only 3 people were brave enough to put their culinary talents to the test: Joel, Vitor and Mariana. Everyone agreed that their homemade meals were awesome and no bug reports were filed. Since we believe in sharing, here are Joel’s delicious open source recipes (in french <em>comme il faut</em>):</p>
+<p><strong>Salad Dressing [ VO ]</strong></p>
+<p>4 cuillère à soupe d’huile d’olive<br>
+3 cuillère à soupe de vinaigre balsamique<br>
+2 cuillère à café de miel<br>
+sel<br>
+poivre</p>
+<p>Goûter et ajuster : si trop sucré, ajouter du vinaigre / si trop amer, ajouter du miel.</p>
+<p><strong>Bask Chicken [ VO ]</strong></p>
+<p>Prévoir un bon morceau de poulet pour chacun des invités<br>
+Poivron<br>
+Tomate<br>
+Sauce tomate<br>
+Oignon<br>
+sel<br>
+poivre<br>
+Eau</p>
+<p><span id="more-925"></span><br>
+Faire cuire et dorer le poulet dans une poêle avec du sel et du poivre.<br>
+Faire revenir les oignons et le poivron dans une autre poele sans les bruler avec de l’huile d’olive.<br>
+Prendre une grande casserole.<br>
+Y mettre des tomates grossièrement coupées, les oignons et les poivrons pré-cuits avec de l’huile d’olive.<br>
+Faire mijoter une dizaine de minutes.<br>
+Rajouter le poulet.<br>
+Laisser mijoter en prenant soin de recouvrir le poulet de sauce. Remuer de temps en temps.<br>
+Servir avec du riz.</p>
+<p>Thanks Joel!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZLabs @ O Espaço do Tempo</title>
+		<link>https://altlab.org/2010/07/13/azlabs-o-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Tue, 13 Jul 2010 20:52:36 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[residency]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=903</guid>
+
+					<description><![CDATA[After many days of work, stress and fun, we seem to have managed to pull through 10 projects to showcase at O Espaço do Tempo! The exhibition opened yesterday, 12th July at Convento da Saudação and will remain in exhibit until the end of the month. We also have a mini-site with bios of the &#8230; <a href="https://altlab.org/2010/07/13/azlabs-o-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "AZLabs @ O Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>After many days of work, stress and fun, we seem to have managed to pull through 10 projects to showcase at <a href="http://www.oespacodotempo.pt/pt/">O Espaço do Tempo</a>! The exhibition opened yesterday, 12th July at Convento da Saudação and will remain in exhibit until the end of the month.</p>
+<p>We also have a mini-site with bios of the authors and descriptions of the works, temporarily hosted <a href="http://www.tpolm.org/~ps/AZ_ET/">here</a>. Not only of the works present at the exhibition but also a few others developed during the residency that couldn’t be exhibited by one reason or another. Check them out!</p>
+<p>Big thanks are in order to everyone at <a href="http://www.oespacodotempo.pt/pt/">O Espaço do Tempo</a> for the opportunity we had, and all the in loco support to our needs, you rock. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZLabs @ O Espaço Do Tempo (0day ‑2)</title>
+		<link>https://altlab.org/2010/07/10/azlabs-o-espaco-do-tempo-0day-2/</link>
+		
+		<dc:creator><![CDATA[filipecruz]]></dc:creator>
+		<pubDate>Sun, 11 Jul 2010 03:13:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[residency]]></category>
+		<guid isPermaLink="false">http://altlab.org/2010/07/10/azlabs-o-espaco-do-tempo-0day-2/</guid>
+
+					<description><![CDATA[2 days to go until the exhibit opening of the Audiencia Zero Labs residency at O Espaço Do Tempo! A few folks seem to be missing in action. Mauricio is back with some news from Interactivos to lend us a hand on pending projects. Mónica and Pedro are still working on B‑wind!. Margarida working on &#8230; <a href="https://altlab.org/2010/07/10/azlabs-o-espaco-do-tempo-0day-2/" class="more-link">Continue reading<span class="screen-reader-text"> "AZLabs @ O Espaço Do Tempo (0day ‑2)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>2 days to go until the exhibit opening of the Audiencia Zero Labs residency at O Espaço Do Tempo!</p>
+<p>A few folks seem to be missing in action. Mauricio is back with some news from <a href="http://medialab-prado.es/interactivos">Interactivos</a> to lend us a hand on pending projects. Mónica and Pedro are still working on B‑wind!.  Margarida working on his robot Freddy. Victor Silva rehearsing his The Last Words of Dominico. Victor and Marco working on Discardable Beauty. Guilherme finishing his Róbotica Criativa works. And me finishing up Meta Gen Haiku. Catarina and Joel should also show up tomorow with their Micro Dérive.</p>
+<p style="text-align: center"><img decoding="async" class="aligncenter" src="http://farm5.static.flickr.com/4096/4781283789_18d1804e8b.jpg" alt></p>
+<p>Website with more info on the presented projects should go online soon. In the meantime if you should show up on Monday the 12th July in Montemor-O-Novo for the exhibit. We will have 7 projects installed under exhibition until the 31st July, and 2 liveacts presented on the exhibition day 12th July.</p>
+<p>In the meantime we’ll leave you with some important t‑shirt quote material we have recently acquired:<br>
+“48 horas são 6 dias de trabalho, em turnos de 8 horas”<br>
+“Eu só faço projection mapping quando estou bêbado”<br>
+“Não tens pincel para isso. Vai antes de rolo.”<br>
+“Queres falar ao telefone? Fala aí! *slap*”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Labs Exhibition @ O Espaço do Tempo</title>
+		<link>https://altlab.org/2010/07/08/az-labs-exhibition-o-espaco-do-tempo/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 08 Jul 2010 17:04:57 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[residency]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=885</guid>
+
+					<description><![CDATA[LCD + AltLab + xDA 12 — 31 July 2010 Convento da Saudação &#124; Montemor-o-Novo &#124; Portugal Exhibition: Monday to Friday — 6pm / 11pm &#124; Saturday and Sunday — 4pm /11pm Opening: 12th of July, 18h00 Artists : Catarina Mota &#124; Filipe Cruz &#124; Francesco Cerutti &#124; Guilherme Martins &#124; João Maia e Silva &#8230; <a href="https://altlab.org/2010/07/08/az-labs-exhibition-o-espaco-do-tempo/" class="more-link">Continue reading<span class="screen-reader-text"> "AZ Labs Exhibition @ O Espaço do Tempo"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2010/07/exhibit.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/07/exhibit.jpg" alt title="AZ Labs @ O Espaço do Tempo" width="500" height="115" class="alignnone size-full wp-image-890"></a></p>
+<p><strong>LCD + AltLab + xDA<br>
+12 — 31 July 2010<br>
+Convento da Saudação | Montemor-o-Novo | Portugal</strong></p>
+<p>Exhibition: Monday to Friday — 6pm / 11pm | Saturday and Sunday — 4pm /11pm<br>
+Opening: 12th of July, 18h00</p>
+<p>Artists : Catarina Mota | Filipe Cruz | Francesco Cerutti | Guilherme Martins | João Maia e Silva | Joël Belouet | Jorge Ribeiro | Pedro Ângelo | Margarida Faria | Maurício Martins | Mónica Mendes | Marco Moura | Mariana Ferreira  | Mécia Sá | Ricardo Webbens | Sérgio Ferreira | Tiago Serra | Vitor Lago Silva | Victor Martins</p>
+<p>This exhibition presents the results of a unique experiment. For 17 days, 30 members of the Audiencia Zero Labs from all over the country and also abroad lived and worked together on collective projects. New teams were formed, infinite ideas proposed, new tools and technologies experimented with, incredible adventures lived and new friends made. The projects at this exhibit are just the tip of the veil, the true impact of this experience is yet to come.</p>
+<p>More info @ <a href="http://www.oespacodotempo.pt/en/prog.php?idpan=pro_det&amp;recid=578">O Espaço do Tempo</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>a glove that lights up when you shake hands</title>
+		<link>https://altlab.org/2010/03/03/a-glove-that-lights-up-when-you-shake-hands/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2010 19:55:10 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=667</guid>
+
+					<description><![CDATA[This mitten lights up when its wearer shakes hands with someone. It has two exposed soft contacts around the thumb and across the palm which, when bridged by bare skin, turn on the LED embedded on the flower. The mitten itself was created by fashion designer Isabel Tomás, and we then sewed a simple touch &#8230; <a href="https://altlab.org/2010/03/03/a-glove-that-lights-up-when-you-shake-hands/" class="more-link">Continue reading<span class="screen-reader-text"> "a glove that lights up when you shake hands"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/03/mitten_00.jpg" alt="light up glove" title="light up glove" width="500" height="375" class="alignnone size-full wp-image-671"></p>
+<p>This mitten lights up when its wearer shakes hands with someone. It has two exposed soft contacts around the thumb and across the palm which, when bridged by bare skin, turn on the LED embedded on the flower. The mitten itself was created by fashion designer <a href="http://amoresdetoquio.blogspot.com/">Isabel Tomás</a>, and we then sewed a simple touch switch circuit onto it using conductive fabric and thread. It also works with high fives and holding hands <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/03/double.jpg" alt="high five and holding hands" title="high five and holding hands" width="500" height="188" class="alignnone size-full wp-image-672"></p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=9851076&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=9851076&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object></p>
+<p>Isabel and I designed this as a soft circuits exercise for some upcoming materials workshops. You can find all the instructions and images we prepared for this purpose @ openMaterials:<br>
+http://openmaterials.org/2010/03/03/making-a-glove-that-lights-up-with-a-hand-shake/</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>First Soft Circuits Open Lab</title>
+		<link>https://altlab.org/2010/02/19/first-soft-circuits-open-lab/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Fri, 19 Feb 2010 12:55:01 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=600</guid>
+
+					<description><![CDATA[This Sunday we’re holding our first Soft Circuits Open Lab at the School of Fine Arts in Lisbon (FBAUL — Faculdade de Belas Artes de Lisboa). There is no predefined structure for the event. We will meet for the course of one day with the purposes of sharing knowledge, experimenting freely, advancing on-going projects, and &#8230; <a href="https://altlab.org/2010/02/19/first-soft-circuits-open-lab/" class="more-link">Continue reading<span class="screen-reader-text"> "First Soft Circuits Open Lab"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/02/softcircuitsAltlab.jpg" alt="soft circuits open lab" title="soft circuits open lab" width="500" height="375" class="alignnone size-full wp-image-655"></p>
+<p>This Sunday we’re holding our first Soft Circuits Open Lab at the School of Fine Arts in Lisbon <a href="http://www.fba.ul.pt/portal/page?_pageid=401,1&amp;_dad=portal&amp;_schema=PORTAL" target="_blank">(FBAUL — Faculdade de Belas Artes de Lisboa)</a>. There is no predefined structure for the event. We will meet for the course of one day with the purposes of sharing knowledge, experimenting freely, advancing on-going projects, and just having fun working together. Some of the people attending will be specialists in electronics and others in textiles. Barcamp style impromptu presentations are very welcome.</p>
+<p>Altlab will provide some basic tools such as pliers, scissors, soldering irons, ironing board, etc. But participants must bring all the materials and additional equipment necessary for their own projects/experiments (including laptops). Here are some suggestions: any kind of fabric, needles and thread, yarn, t‑shirts, conductive and/or resistive fabric, conductive thread, conductive and/or resistive yarn, knitting and/or crochet needles, LEDs, coin cell batteries, battery holders, EL wire, strands of fiber optics, copper foil, copper adhesive track, aluminum foil, resistive foam, regular foam, arduinos (lilypad or any other kind). If you’ve never worked with any of these materials and don’t have them handy, come anyway, you can help someone else with their project and learn along the way.</p>
+<p>For more information on soft circuits techniques and materials, check out the <a href="http://openmaterials.org/wiki/index.php?title=Main_Page#Soft_Circuits_Resources" target="_blank">Soft Circuits Resources</a> section on the <a href="http://openmaterials.org" target="_blank">openMaterials</a> wiki.</p>
+<p>This open lab will take place on February 21st, from 10:30 to 18:30, at the School of Fine Arts in Lisbon, room 307, 1st floor (since our own space is still under construction). All are welcome, there is no fee nor registration, but please do let me know if you are planning on coming: catarinamota(at)audienciazero.org</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Drum Pads</title>
+		<link>https://altlab.org/2009/08/04/drum-pads/</link>
+		
+		<dc:creator><![CDATA[Ricardo Webbens]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2009 17:57:54 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[drum pads]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[recycle]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=489</guid>
+
+					<description><![CDATA[Hey. Four drum pads ready to go. All made of old material found in the Alt/Lab installations, and a very special big thankxxx for Mónica who brought the casings (we are going back to that in a moment) for the drum pads. So the idea was to make drum pads that we could hook up &#8230; <a href="https://altlab.org/2009/08/04/drum-pads/" class="more-link">Continue reading<span class="screen-reader-text"> "Drum Pads"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" width="320" height="240" class="alignleft size-full wp-image-490" src="http://altlab.org/wp-content/uploads/2009/08/drumpads1.jpg" alt="drumpads1"><img decoding="async" loading="lazy" class="alignleft size-full wp-image-491" src="http://altlab.org/wp-content/uploads/2009/08/drumpads2.jpg" alt="drumpads2" width="320" height="240"></p>
+<p>Hey.</p>
+<p>Four drum pads ready to go.</p>
+<p>All made of old material found in the Alt/Lab installations, and a very special big thankxxx for Mónica who brought the casings (we are going back to that in a moment) for the drum pads.</p>
+<p>So the idea was to make drum pads that we could hook up to a sound card(or whatever) and them make sweet music, this is a very nice combination between piezoelectric components and a few layers of some absorbent sound&nbsp; material like rubber or cork foil (that’s what we use because there was nothing more) and a piece of aluminum foil for a greater drum area .</p>
+<p>We use an old can (20l) of paint, four piezoelectric found in electronic junk like old modems and old telephones, wire for connecting the piezos, cork foil for insulation the drum pad area and Mónica supply the casings (square rubber cd´s stands), and glue for putting everything nice and tight .</p>
+<p>First we cut a piece of the can (circular about 10cm radius)and we glued the piezo into it, then we drilled one hole into the rubber casing for the wires to came out, them we cut two square cork foil parts (the first in the bottom of the casing and the other for the top) a bit of glue and that’s it drum pads ready to rock.</p>
+<p>Now we got some audio coming out of the pads but thats just boring because its always the same and we want to go further like transforming audio into midi messages, and we found the right tool for it, its called&nbsp; “<a href="http://koen.smartelectronix.com/KTDrumTrigger/" target="_blank">KTDrumTrigger</a>” and he transforms the audio signal into midi notes, we can use this midi notes inside a sequencer program to control any kind of instrument (either VSTI or some other stuff), in our case we use the drum pads to control “<a href="http://www.native-instruments.com/#/en/products/producer/battery-3/" target="_blank">Battery</a>” and thats it instant fun.</p>
+<p>There are some other links and some other ideas for drum pads. This “<a href="http://www.spikenzielabs.com/SpikenzieLabs/DrumKitKit.html">one</a>“uses ardunio as a source for the imput signal.</p>
+<p><img decoding="async" loading="lazy" width="320" height="240" class="alignleft size-full wp-image-494" src="http://altlab.org/wp-content/uploads/2009/08/drumpads3.jpg" alt="drumpads3"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

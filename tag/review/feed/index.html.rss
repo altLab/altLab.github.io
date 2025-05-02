@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Review - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/review/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Tue, 13 Nov 2012 19:24:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>The Arduino Starter Kit</title>
+		<link>https://altlab.org/2012/11/13/the-arduino-starter-kit/</link>
+		
+		<dc:creator><![CDATA[maccouch]]></dc:creator>
+		<pubDate>Tue, 13 Nov 2012 19:24:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3874</guid>
+
+					<description><![CDATA[Arduino creators have recently launched the new Arduino Starter Kit, a kit comprising all the components needed for a complete introduction to the world of electronics and the Arduino controller board, even if you don’t have any specific knowledge of it. Specially if you don’t have any knowledge of it. Since I have been playing &#8230; <a href="https://altlab.org/2012/11/13/the-arduino-starter-kit/" class="more-link">Continue reading<span class="screen-reader-text"> "The Arduino Starter Kit"</span></a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><a href="http://altlab.org/wp-content/uploads/2012/11/arduino_startkit.jpg"><img decoding="async" loading="lazy" class="aligncenter  wp-image-3869" style="margin-left: auto; margin-right: auto; border: 0px;" src="http://altlab.org/wp-content/uploads/2012/11/arduino_startkit.jpg" alt="Box for Arduino Starter kit" width="330" height="248" border="0"></a></p>
+<p>Arduino creators have recently launched the new <a href="http://arduino.cc/starterkit">Arduino Starter Kit</a>, a kit comprising all the components needed for a complete introduction to the world of electronics and the Arduino controller board, even if you don’t have any specific knowledge of it. Specially if you don’t have any knowledge of it.</p>
+<p>Since I have been playing around with an Arduino tutorial, trying to remember all that I had forgotten of my Engineering education and starting my own “reconnection” to electronic tinkering, I was considered the perfect <a href="http://altlab.org">AltLab</a> member to be given the opportunity to try it out and review it.</p>
+<h3>What’s in the kit?</h3>
+<p><a href="http://altlab.org/wp-content/uploads/2012/11/arduino_startkit_unboxed.jpg"><img decoding="async" loading="lazy" class="alignright wp-image-3870" style="padding: 5px; margin: 3px 5px; border: 0px;" src="http://altlab.org/wp-content/uploads/2012/11/arduino_startkit_unboxed.jpg" alt="A vision of the Arduino Starter kit" width="300" height="225" border="0"></a></p>
+<ul>
+<li>A book explaining electronics and the Arduino board, with several experiments to do;</li>
+<li>1 Arduino Uno (R3) board;</li>
+<li>A small breadboard;</li>
+<li>A balsa wooden platform designed to serve as a platform for your Arduino and breadboard; (great idea! thinking of building one for myself)</li>
+<li>A random set of the usual electronics parts (resistors, motors, LEDs, several sensors and one LCD screen);</li>
+</ul>
+<p>You can get the complete and exhaustive list of components on the kit <a href="http://arduino.cc/starterkit">webpage</a> if you want.</p>
+<h3>My Experience</h3>
+<p><a href="http://altlab.org/wp-content/uploads/2012/11/Arduino_startkit_boxes.png"><img decoding="async" loading="lazy" class="alignleft wp-image-3871" style="padding: 5px; margin: 2px 5px; border: 0px;" src="http://altlab.org/wp-content/uploads/2012/11/Arduino_startkit_boxes.png" alt="The inside of Arduino Starter kit and its boxes" width="200" height="267" border="0"></a></p>
+<p>The first thing that caught my attention was the impressive looks of the kit. Coming in a good quality printed cardboard compact box, it seems more of design product than a electronics introduction kit. This would also be my feeling throughout the rest of experience: compared to the my own starter kit, which I bought in a hack-fest, this seems like comparing a Land Rover to a Lada Niva. They both perform the required work , but one is considerably <em>nicer</em> than the other.</p>
+<p>Left picture shows how all of the kit different components come in individual old-gold colored boxes, nicely packed and organised.</p>
+<p>The book itself is more of a “artistic” book than what i would expect for a electronics introductory tutorial. Being used to the engineering “cut &amp; dry” manuals, this actually surprised me the most.</p>
+<p><a href="http://altlab.org/wp-content/uploads/2012/11/Arduino_startkit_book.png"><img decoding="async" loading="lazy" class="alignright wp-image-3872" style="padding: 5px; margin: 2px 5px; border: 0px;" src="http://altlab.org/wp-content/uploads/2012/11/Arduino_startkit_book.png" alt="The book for the Arduino Starter kit" width="200" height="267" border="0"></a></p>
+<p>I’ve glanced though the introductory chapters in the book and played a bit with the more advanced experiments on the book since I already had mastered the basics Arduino. I even asked a “lay” friend who was curious about the Arduino world to try it one afternoon. The simplest statement is that it dutifully fulfills its goal of introducing you to the Arduino. The book tries its best to clearly explain the basics of electricity and electronics in a way that actually makes sense for “mere mortals”. My “lay” friend quickly understood it and although she had some misunderstanding with the breadboard inner connections at first, after the brief hours that i let her alone with it, i found her happily doing circuits involving multiple LEDs and resistors and some weird pattern of blinking.</p>
+<p>Her and I though, had some troubles with the low-cut /fixed length jumper wires that were included in the kit. Although its goal is to make the breadboard connections easier and clearer, we found out that it actually makes it harder to a “newbie” to work with. By forcing some fixed lengths it either makes connections errors more probable or forces us to carefully follow the diagrams and colors right to the millimetre, not leaving space for improvisation and simple <em>fooling around</em>.</p>
+<p><a href="http://altlab.org/wp-content/uploads/2012/11/Arduino_startkit_board.jpg"><img decoding="async" loading="lazy" class="alignleft wp-image-3873" style="padding: 5px; margin: 2px 5px; border: 0px;" src="http://altlab.org/wp-content/uploads/2012/11/Arduino_startkit_board.jpg" alt="The balsa platform with the Arduino and the breadboard" width="200" height="150" border="0"></a></p>
+<p>Also, I must say that the <em>code</em> pages are not sufficiently signalized, since they are inserted after the circuit assembling and project pictures as if it was already done. Since the first book projects didn’t use any code at all, the first project that did provided me with a phone call from my friend asking me why she didn’t manage to get experiment working at all, even after carefully redoing everything twice and mentally following the “flow of electricity” throughout the wires as i showed her. There was no indication of code, and since she didn’t actually understood how it related with it, she didn’t turn the page to look for it. I did notice the same thing when i started using the book, but i already knew that the code had to be somewhere.</p>
+<p>On the whole, the projects itself are interesting and amusing, even without the colourful and slightly childish decorations included in the kit, and provide you with fundamentals to start building more advanced stuff. The light theremin sounds hideously though!</p>
+<h3>Final thoughts</h3>
+<p>If you are already familiar with electronics or you’re not afraid to start exploring it without a safety net, you can probably save a couple of euros buying the Arduino board and other random sets of parts or kits from your local/online electronics store and just following the random information freely available from the web.</p>
+<p>However, if you are a complete <em>newbie</em> to this brave new world, or just want a safe guided experience to introduce you, similar to the guided workshop you would get with a teacher, this is probably one of the best starter kits available. The projects are interesting, cover most of the building blocks that Arduino provides and it will leave you perfectly equipped to “higher flights” in this fascinating world of DIY electronics.</p>
+<p>What are you still doing here? Don’t waste your time, go <a href="http://www.rs-components.com/arduino">get it</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

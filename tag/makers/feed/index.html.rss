@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>makers - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/makers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Fri, 06 Feb 2015 14:23:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>altLab — Entre os empreendedores de Lisboa</title>
+		<link>https://altlab.org/2015/02/06/altlab-entre-os-empreendedores-de-lisboa/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2015 14:23:01 +0000</pubDate>
+				<category><![CDATA[altlabnosmedia]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[makers]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5161</guid>
+
+					<description><![CDATA[&#160; &#160; Ontem o altLab esteve representado na feira de empreendedorismo nos paços do concelho, tendo tido a oportunidade de apertar a mão o Presidente da Câmara de Lisboa. Agradecimentos aos nossos anfitriões FabLab Lisboa por este convite e oportunidade. &#160; Fica aqui a reportagem do evento; &#160; https://vimeo.com/118859716 &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-5163" src="http://altlab.org/wp-content/uploads/2015/02/altlab-na-feira-empreendedorismo-pacos-do-concelho-1024x680.jpg" alt="altlab-na-feira-empreendedorismo-pacos-do-concelho" width="640" height="425" srcset="https://altlab.org/wp-content/uploads/2015/02/altlab-na-feira-empreendedorismo-pacos-do-concelho-1024x680.jpg 1024w, https://altlab.org/wp-content/uploads/2015/02/altlab-na-feira-empreendedorismo-pacos-do-concelho-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2015/02/altlab-na-feira-empreendedorismo-pacos-do-concelho-768x510.jpg 768w, https://altlab.org/wp-content/uploads/2015/02/altlab-na-feira-empreendedorismo-pacos-do-concelho-1200x796.jpg 1200w, https://altlab.org/wp-content/uploads/2015/02/altlab-na-feira-empreendedorismo-pacos-do-concelho.jpg 2048w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Ontem o altLab esteve representado na feira de empreendedorismo nos paços do concelho, tendo tido a oportunidade de apertar a mão o Presidente da Câmara de Lisboa.</p>
+<p>Agradecimentos aos nossos anfitriões <a href="http://fablablisboa.pt/">FabLab Lisboa</a> por este convite e oportunidade.</p>
+<p>&nbsp;</p>
+<p>Fica aqui a reportagem do evento;</p>
+<p>&nbsp;</p>
+<p>https://vimeo.com/118859716</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

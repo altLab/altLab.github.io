@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tutorial - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/tutorial/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Wed, 03 Mar 2010 19:55:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>a glove that lights up when you shake hands</title>
+		<link>https://altlab.org/2010/03/03/a-glove-that-lights-up-when-you-shake-hands/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2010 19:55:10 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[materials]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=667</guid>
+
+					<description><![CDATA[This mitten lights up when its wearer shakes hands with someone. It has two exposed soft contacts around the thumb and across the palm which, when bridged by bare skin, turn on the LED embedded on the flower. The mitten itself was created by fashion designer Isabel Tomás, and we then sewed a simple touch &#8230; <a href="https://altlab.org/2010/03/03/a-glove-that-lights-up-when-you-shake-hands/" class="more-link">Continue reading<span class="screen-reader-text"> "a glove that lights up when you shake hands"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/03/mitten_00.jpg" alt="light up glove" title="light up glove" width="500" height="375" class="alignnone size-full wp-image-671"></p>
+<p>This mitten lights up when its wearer shakes hands with someone. It has two exposed soft contacts around the thumb and across the palm which, when bridged by bare skin, turn on the LED embedded on the flower. The mitten itself was created by fashion designer <a href="http://amoresdetoquio.blogspot.com/">Isabel Tomás</a>, and we then sewed a simple touch switch circuit onto it using conductive fabric and thread. It also works with high fives and holding hands <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/03/double.jpg" alt="high five and holding hands" title="high five and holding hands" width="500" height="188" class="alignnone size-full wp-image-672"></p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=9851076&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=9851076&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object></p>
+<p>Isabel and I designed this as a soft circuits exercise for some upcoming materials workshops. You can find all the instructions and images we prepared for this purpose @ openMaterials:<br>
+http://openmaterials.org/2010/03/03/making-a-glove-that-lights-up-with-a-hand-shake/</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Control your motors with L293D and Arduino</title>
+		<link>https://altlab.org/2009/04/29/control-your-motors-with-l293d-and-arduino/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 09:30:47 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[chip]]></category>
+		<category><![CDATA[instructable]]></category>
+		<category><![CDATA[l293d]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=222</guid>
+
+					<description><![CDATA[I realized there was some lack of information regarding the use of this chip with Arduino, so I made this Instructable. Hope you find it usefull 😉]]></description>
+										<content:encoded><![CDATA[<p>I realized there was some lack of information regarding the use of this chip with Arduino, so I made this Instructable. Hope you find it usefull  <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/"><img decoding="async" class="alignnone" src="http://www.instructables.com/image/F8TQPXMFTY4CX3G/Basic-implementation.jpg" alt></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

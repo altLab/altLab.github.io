@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hacklab - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/hacklab/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 24 Jan 2011 17:22:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Arduino Hack Day</title>
+		<link>https://altlab.org/2011/01/24/arduino-hack-day/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Mon, 24 Jan 2011 17:22:01 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[circuit bending]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1391</guid>
+
+					<description><![CDATA[I want to join !]]></description>
+										<content:encoded><![CDATA[<h2><a href="http://altlab.org/events/#AHD">I want to join !</a></h2>
+<p><a href="http://altlab.org/wp-content/uploads/2011/01/FLYER_Arduino-Hack-Day_web.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1392" title="FLYER_Arduino-Hack-Day_web" src="http://altlab.org/wp-content/uploads/2011/01/FLYER_Arduino-Hack-Day_web.jpg" alt width="600" height="851"></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AZ Hackmeet — the video</title>
+		<link>https://altlab.org/2009/12/19/az-hackmeet-the-video/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2009 14:51:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=564</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/8SPzaS8zF2g&amp;hl=en_US&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/8SPzaS8zF2g&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></object></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>My Summer @ NYC Resistor</title>
+		<link>https://altlab.org/2009/10/01/my-summer-nyc-resistor/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2009 11:33:42 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=502</guid>
+
+					<description><![CDATA[This summer I was a resident at NYC Resistor (NYCR), a hacker collective based in Brooklyn, NY. I’m now back home in Lisbon and would like to share a brief round-up of this wonderful experience. First of all I must mention how incredibly welcoming and fun all the members of the collective are. Not only &#8230; <a href="https://altlab.org/2009/10/01/my-summer-nyc-resistor/" class="more-link">Continue reading<span class="screen-reader-text"> "My Summer @ NYC Resistor"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" width="283" height="249" class="alignnone size-full wp-image-503" title="nycResistor" src="http://altlab.org/wp-content/uploads/2009/10/nycResistor.gif" alt="nycResistor"></p>
+<p>This summer I was a resident at <a href="http://www.nycresistor.com">NYC Resistor</a> (NYCR), a hacker collective based in Brooklyn, NY. I’m now back home in Lisbon and would like to share a brief round-up of this wonderful experience.</p>
+<p>First of all I must mention how incredibly welcoming and fun all the members of the collective are. Not only did they let me share their space for two whole months, providing me with a great learning opportunity, but also made me feel at home among them and showed me a great time.</p>
+<p>I was lucky to get there just as their <a href="http://www.nycresistor.com/2009/08/04/nyc-resistors-awesome-august-challege/">Awesome August</a> challenge was starting. The idea here being that NYCR members challenged each other to finish one great project until the end of that month. The projects were indeed awesome, from an <a href="http://www.nycresistor.com/2009/08/03/making-an-eight-foot-lite-brite-for-awesome-awegust/">Eight Foot Lite Brite</a>, an <a href="http://www.nycresistor.com/2009/08/18/hack-your-genome/">FPGA-based DNA sequence alignment accelerator</a>, a <a href="http://www.nycresistor.com/2009/08/19/awesomeaugust-project-fix-and-learn-the-monome/">Monome</a>, a <a href="http://www.nycresistor.com/2009/08/11/toy-piano-rescue-project/">Player Toy Piano</a>, and some very civilized <a href="http://www.nycresistor.com/2009/08/30/awesome-august-smashersdotbiz/">smashing</a>… to name only a few.</p>
+<p>Another of my favorite staples, and the one I think I’ll miss the most, was <a href="http://www.google.com/calendar/event?eid=dW92bWNoMjY5bGsyNXZydWZxMmZybmtmcXNfMjAwOTEwMDhUMjIwMDAwWiBwMm0yYXY5ZGhyaDRuMXViN2psc2M2OHM3b0Bn&amp;ctz=America/New_York">Craft Night</a>. Every Thursday evening NYCR opens its doors to those of us “who like to make stuff… so you don’t have to make stuff by yourself.” On these nights, NYCR members help visitors with their projects by sharing tips and knowledge, and everyone just has a great time working together around one big table.</p>
+<p>And then of course, there was the unforgettable <a href="http://www.nycresistor.com/2009/08/28/last-weekends-interactive-party-round-up/">Interactive Party</a>, during which some of Awesome August’s projects were shown, and that even included a giant robot cake, chalk drawing on the floor, a Wimshurst machine, and crayola model magic.</p>
+<p>NYCR is currently offering a series of really interesting <a href="http://www.nycresistor.com/2009/09/27/more-classes-than-anyone-can-handle/">classes</a>, which I’m very sad to miss.</p>
+<p>During my residency I worked on a few (really fun) experiments with paper/cardboard pulp and soft circuits, as well as other (frustrating) ones with carbon nanotubes. More on that later — I’m still unpacking <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Thank you NYC Resistor!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LCD spring show</title>
+		<link>https://altlab.org/2009/05/27/lcd-spring-show/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Wed, 27 May 2009 08:06:02 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<category><![CDATA[opening]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=325</guid>
+
+					<description><![CDATA[Our friends at LCD are having their semiannual show this thursday. If your in Porto do stop by. There will be many awesome pieces to see/play with, and lots of wonderful and creative people to meet.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.audienciazero.org/lcd/" target="_blank"><img decoding="async" loading="lazy" width="465" height="783" class="alignnone size-full wp-image-327" title="LCD spring show" src="http://altlab.org/wp-content/uploads/2009/05/lcdapresentacao09.jpg" alt="LCD spring show"></a><br>
+Our friends at <a href="http://www.audienciazero.org/lcd/" target="_blank">LCD</a> are having their semiannual show this thursday. If your in Porto do stop by. There will be many awesome pieces to see/play with, and lots of wonderful and creative people to meet.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Repurpose</title>
+		<link>https://altlab.org/2009/05/24/repurpose/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Sun, 24 May 2009 09:11:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=306</guid>
+
+					<description><![CDATA[A documentary film by Jack Oatmon. A look into the hardware hacking community in Montreal, including the Foulab collective. Why are more and more hobbyists experimenting with hacks and circuit bends? What relationship does this imply about consumer society and technological advancement? Is this a real-world analog of ‘user generated content’? (via jackoatmontreal @ YouTube) &#8230; <a href="https://altlab.org/2009/05/24/repurpose/" class="more-link">Continue reading<span class="screen-reader-text"> "Repurpose"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/MOTw_PkK_SU&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;feature=player_profilepage&amp;fs=1"><param name="allowFullScreen" value="true"><embed src="http://www.youtube.com/v/MOTw_PkK_SU&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;feature=player_profilepage&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></object></p>
+<blockquote><p>A documentary film by Jack Oatmon. A look into the hardware hacking community in Montreal, including the Foulab collective. Why are more and more hobbyists experimenting with hacks and circuit bends? What relationship does this imply about consumer society and technological advancement? Is this a real-world analog of ‘user generated content’? (via <a href="http://www.youtube.com/user/jackoatmontreal" target="_blank">jackoatmontreal @ YouTube</a>)</p></blockquote>
+<p>Thanks Nuno João for bringing this to our attention <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AltLab opening with paper arduinos</title>
+		<link>https://altlab.org/2009/05/05/altlab-opening-with-paper-arduinos/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 06 May 2009 02:12:22 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[hacklab]]></category>
+		<category><![CDATA[opening]]></category>
+		<category><![CDATA[paperduino]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=266</guid>
+
+					<description><![CDATA[We are happy to introduce the paperduino &#160;😀 This Tuesday AltLab had its first public session and we did a mini workshop on “paperduinos”, a new generation of cardboard arduinos. We had lots of fun and have many more ideas we’d like to try: different layouts, colored papers, and other materials. More info soon.]]></description>
+										<content:encoded><![CDATA[<p>We are happy to introduce the paperduino &nbsp;<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3550/3506355142_f4150ba5b6.jpg?v=0" alt width="500" height="375"></p>
+<p>This Tuesday AltLab had its first public session and we did a mini workshop on “paperduinos”, a new generation of cardboard arduinos. We had lots of fun and have many more ideas we’d like to try: different layouts, colored papers, and other materials. More info soon.</p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3659/3505545053_a0c3e7d0c7.jpg?v=0" alt width="500" height="335"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3413/3506354854_dae7570a74.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3316/3505545447_1fe235ebf7.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3626/3506354500_c4aff22dc2.jpg?v=0" alt width="500" height="335"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3361/3505545923_7ef5e3ece4.jpg?v=0" alt width="500" height="375"></p>
+<p><img decoding="async" loading="lazy" class="alignnone" src="http://farm4.static.flickr.com/3384/3505545783_4bf025a685.jpg?v=0" alt width="500" height="375"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

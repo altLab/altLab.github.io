@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<!-- <base href="https://altlab.org/d/" />  -->
+		<title>altLab Documenta</title>
+				<meta property="og:type" content="article" />
+		<meta property="og:title" content=" | altLab Documenta" />
+		<meta property="og:description" content="" />
+		<meta property="og:url" content="https://altlab.org/d/s/projectos/pid_controller/" />
+		<meta property="og:site_name" content="altLab Documenta" />
+
+		<!-- Bootstrap -->
+		<link href="../../../themes/altlab/css/bootstrap.min.css" rel="stylesheet">
+		<link href="../../../themes/altlab/override-test.css" rel="stylesheet">
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="../../../themes/altlab/js/jquery-1.12.4.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="../../../themes/altlab/js/bootstrap.min.js"></script>
+
+	</head>
+	<body>
+<div class="container">
+<div class="container-fluid">
+      <div class="page-header hidden-xs" id="brand-logo">
+        <h1><a href="../../../../index.html"><img src="../../../themes/altlab/altlab-logo-gradoverwhite.png" width="180" height="120" alt="Home" style="vertical-align:text-bottom" /></a> Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></h1>
+
+      </div>
+			<nav class="navbar navbar-inverse">
+
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+<div class="visible-xs">
+<a class="navbar-brand" href="../../../../index.html"><img src="../../../themes/altlab/altlab-logo-documenta.png" width="58" height="35" alt="Home" style="margin-top: -7px;"></a>
+						<a class="navbar-brand" href="../../../index.html">Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></a></div>
+					</div>
+					<div class="collapse navbar-collapse" id="myNavbar">
+						<ul class="nav navbar-nav">
+
+           	<li id="dropdown.1" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Membros <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../../../m/index.html">Index</a>
+</li>
+   
+           	<li id="dropdown.101" class="dropdown">
+		<a href="../../../m/jpralves/index.html">João Alves <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.102" class="dropdown">
+		<a href="../../../m/sislog/index.html">Fernando Carvalho <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.103" class="dropdown">
+		<a href="../../../m/pangelo/index.html">Pedro Ângelo <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.104" class="dropdown">
+		<a href="../../../m/dinix/index.html">Dinix <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../../../m/funke/funke.html">m/funke/funke</a>
+  
+   	</li>
+            	<li id="dropdown.106" class="dropdown">
+		<a href="../../../m/afonsom/index.html">Afonso Muralha <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.107" class="dropdown">
+		<a href="../../../m/x3msnake/index.html">X3msnake <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../../../m/ampmendes/index.html">António Mendes</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/guardajoao/index.html">GuardaJoao</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/jac/index.html">JAC</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/nini/index.html">Nuno Nini</a>
+  
+   	</li>
+ 
+</ul>
+    	</li>
+            	<li id="dropdown.2" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Documentação Partilhada <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../../index.html">Index</a>
+</li>
+   
+                         	<li id="dropdown.203" class="dropdown">
+		<a href="../../workshops/index.html">Workshops <span class="caret"></span></a>
+  
+      	</li>
+                   	<li>
+		<a href="../../documenta/index.html">Documenta DevMap</a>
+  
+   	</li>
+                   	<li>
+		<a href="../../processos/index.html">Processos do Lab (draft)</a>
+  
+   	</li>
+            	<li id="dropdown.208" class="dropdown">
+		<a href="../../recursos/index.html">Recursos <span class="caret"></span></a>
+  
+      	</li>
+ 
+</ul>
+    	</li>
+ 
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="container">
+				<section id="content">
+					<div class="inner">
+						<h1>Arduino Open PID Controller interface (PID)<sup>VS.150615</sup></h1>
+
+<p>The idea for this project is to build a open source easy to implement temperature controller for the AHOL initiative (altLab's Open Hardware Library).</p>
+
+<p>Building as an interface, means that the hardware must be abstracted as far as we can without compromising the quality of the task it has to perform. This means that the first step is to conjure the ideal use and with that, define the lattitude in order to check if it can be with what compromises for the chosen or proposed use.</p>
+
+<h3>Design Guides</h3>
+
+<ul>
+<li>Arduino Based</li>
+<li>Standalone (Interface Style*)</li>
+<li>Easy Learning (Hacker Skills Initiative)</li>
+<li>Ready to use</li>
+<li>Extendable</li>
+</ul>
+
+<h3>Prototype Concept Mockup</h3>
+
+<hr />
+
+<p><br>
+<img src="pid_protoprop_150615.jpg" alt="ConceptProtoProp" /></p>
+
+<p><br></p>
+
+<ul>
+<li>| 3,0 USD | 1x MAX6675</li>
+<li>| 1,0 USD | 1x thermocouple K</li>
+<li>| 1,5 USD | 1x 5V 1-Channel H/L Level Triger Optocoupler Relay Module</li>
+<li>| 5,0 USD | 1x CSEDUINO</li>
+<li>| 0,0 USD | Bibliotecas de PID e Autotune do Brett Beauregard</li>
+<li><p>| ??? USD | Prototype PCBS</p></li>
+<li><p>CURRENT BOM TOTAL | 10,5 USD |</p></li>
+</ul>
+
+<hr />
+
+<h3>Project Sessions</h3>
+
+<ul>
+<li>Bread &amp; BreakOut Board assembly - BY.NN @15.07.21</li>
+</ul>
+
+<p><br>
+<br></p>
+
+<h3>MAX6675 Tutorials and use info</h3>
+
+<hr />
+
+<blockquote>
+  <p>The MAX31855 is controlled through a <a href="https://www.arduino.cc/en/Reference/SPI">SPI interface</a> <br>
+  I based my Arduino code off of PID Library from Github.<br />
+  This library is very good with handling the PID equation, but I felt like it could use some more description and clarification in applying the equation to ordinary Arduino peripherals, which is why I’m writing this post.</p>
+</blockquote>
+
+<p><a href="https://jowood4.wordpress.com/2015/01/04/arduino-pid-temperature-controller/">in: Joe's Electronics Adventures</a></p>
+
+<hr />
+
+<blockquote>
+  <p>MAX6675 Module Pin Outs for this module are shown in the datasheets section below these pins function as follows:</p>
+  
+  <p>SO: The module’s serial output.   Your Arduino will read this output <br>
+  CS:  Chip Select.   Setting low, selects the Module and tells it to supply an output that is synchronize with a clock <br>
+  SCK : The Serial Clock… an input from your Arduino <br>
+  VCC: 5V supply <br>
+  GND:  Ground <br>
+  ( – or Minus): The K thermocouple minus input. <br>
+  ( + or Plus): The K Thermocouple plus input. <br></p>
+  
+  <p>IMPORTANT NOTE– Most K thermocouples come with a red lead and a yellow lead.  The red lead is normally your negative connection and the yellow lead is your positive.  That is industry standard.</p>
+</blockquote>
+
+<p><a href="http://henrysbench.capnfatz.com/henrys-bench/max6675-temp-module-arduino-manual-and-tutorial/">in: Henry's Bench</a></p>
+
+<hr />
+
+<h3>Arduino Libraries</h3>
+
+<ul>
+<li><a href="http://playground.arduino.cc/Code/PIDLibrary">PID Library</a></li>
+<li><a href="http://brettbeauregard.com/blog/2012/01/arduino-pid-autotune-library/">PID Autotune Library</a></li>
+</ul>
+
+<h3>Arduino Sketches and inspirationals</h3>
+
+<ul>
+<li><a href="http://letsmakerobots.com/node/30810">John_NY Arduino Oven Ctrl w/source</a></li>
+<li><a href="http://andybrown.me.uk/wk/2014/05/11/awreflow/">Andy's Halogen Reflower</a></li>
+<li><a href="http://reflowster.com/">Reflownster Kickstarter</a></li>
+</ul>
+
+<h3>Datasheets</h3>
+
+<ul>
+<li><a href="http://www.adafruit.com/datasheets/MAX6675.pdf">Max6675</a></li>
+<li><a href="https://www.ghielectronics.com/downloads/man/20084141716341001RelayX1.pdf">Relay board</a></li>
+</ul>
+
+<p><br>
+<br></p>
+
+<hr />
+
+<p>*Interface Style - When hacks done to the equipment to extend/ modify it's behaviour are independent from the original use, and when possible non destructive.</p>
+
+<!--
+Aqui ficam as fotos do Bicho PID do ebay por 10.aereos.
+
+Levo amanhã para fazermos uma cirurgia exploratória ao bicho ;)
+
+
+Algumas refs relacionadas importantes no tube
+
+Extruder Temperature Control - Prototype - https://www.youtube.com/watch?v=3N9GlyZPe7g
+Kiln Controller Wiring - https://www.youtube.com/watch?v=D4lVd5-VAyE
+PID Temperature Controller for Heating/Cooling of Beer Fermentation - https://www.youtube.com/watch?v=KtaLrs8ZVSo
+Pre-heater test run with IC removal - https://www.youtube.com/watch?v=R4CJ1svwTWY
+PID Controlled Cheap 'Homemade' Hotplate - http://www.sciencemadness.org/talk/viewthread.php?tid=23989#pid307326
+
+REX C100 PID RELAY initial setup - https://www.youtube.com/watch?v=ZpRbrPdKYPk
+REX C100 PID SSR controller teardown - https://www.youtube.com/watch?v=tgVp4-Jlr8Q
+REX C100 Hack Dead End - http://www.sciencemadness.org/talk/viewthread.php?tid=23028
+
+Arduino Dual Loop PID project for BGA REWORK STATION - https://www.youtube.com/watch?v=_YlqswsgasU
+PID Control Technical Notes - http://iseinc.com/what%20is%20pid.htm
+
+The Open Source PID Controller - http://www.ospid.com/blog/
+- ocultar texto citado -
+--->
+
+					</div>
+				</section>
+				</div> <!-- Container -->
+
+				<footer id="footer" class="panel-footer">
+					<div class="inner">
+						<a href="https://github.com/PhileCMS/Phile">Phile</a> was made by <a href="https://github.com/PhileCMS">The PhileCMS Community</a>.
+					</div>
+				</footer>
+			</div>
+		</div>
+</div>
+		<script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-20725619-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+		<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.altlab.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+	</body>
+</html>

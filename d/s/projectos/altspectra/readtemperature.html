@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<!-- <base href="https://altlab.org/d/" />  -->
+		<title>readtemprature | altLab Documenta</title>
+				<meta name="description" content="readtemperature.">
+				<meta property="og:type" content="article" />
+		<meta property="og:title" content="readtemprature | altLab Documenta" />
+		<meta property="og:description" content="readtemperature." />
+		<meta property="og:url" content="https://altlab.org/d/s/projectos/altspectra/readtemperature/" />
+		<meta property="og:site_name" content="altLab Documenta" />
+
+		<!-- Bootstrap -->
+		<link href="../../../themes/altlab/css/bootstrap.min.css" rel="stylesheet">
+		<link href="../../../themes/altlab/override-test.css" rel="stylesheet">
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="../../../themes/altlab/js/jquery-1.12.4.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="../../../themes/altlab/js/bootstrap.min.js"></script>
+
+	</head>
+	<body>
+<div class="container">
+<div class="container-fluid">
+      <div class="page-header hidden-xs" id="brand-logo">
+        <h1><a href="../../../../index.html"><img src="../../../themes/altlab/altlab-logo-gradoverwhite.png" width="180" height="120" alt="Home" style="vertical-align:text-bottom" /></a> Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></h1>
+
+      </div>
+			<nav class="navbar navbar-inverse">
+
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+<div class="visible-xs">
+<a class="navbar-brand" href="../../../../index.html"><img src="../../../themes/altlab/altlab-logo-documenta.png" width="58" height="35" alt="Home" style="margin-top: -7px;"></a>
+						<a class="navbar-brand" href="../../../index.html">Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></a></div>
+					</div>
+					<div class="collapse navbar-collapse" id="myNavbar">
+						<ul class="nav navbar-nav">
+
+           	<li id="dropdown.1" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Membros <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../../../m/index.html">Index</a>
+</li>
+   
+           	<li id="dropdown.101" class="dropdown">
+		<a href="../../../m/jpralves/index.html">João Alves <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.102" class="dropdown">
+		<a href="../../../m/sislog/index.html">Fernando Carvalho <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.103" class="dropdown">
+		<a href="../../../m/pangelo/index.html">Pedro Ângelo <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.104" class="dropdown">
+		<a href="../../../m/dinix/index.html">Dinix <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../../../m/funke/funke.html">m/funke/funke</a>
+  
+   	</li>
+            	<li id="dropdown.106" class="dropdown">
+		<a href="../../../m/afonsom/index.html">Afonso Muralha <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.107" class="dropdown">
+		<a href="../../../m/x3msnake/index.html">X3msnake <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../../../m/ampmendes/index.html">António Mendes</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/guardajoao/index.html">GuardaJoao</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/jac/index.html">JAC</a>
+  
+   	</li>
+            	<li>
+		<a href="../../../m/nini/index.html">Nuno Nini</a>
+  
+   	</li>
+ 
+</ul>
+    	</li>
+            	<li id="dropdown.2" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Documentação Partilhada <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../../index.html">Index</a>
+</li>
+   
+                         	<li id="dropdown.203" class="dropdown">
+		<a href="../../workshops/index.html">Workshops <span class="caret"></span></a>
+  
+      	</li>
+                   	<li>
+		<a href="../../documenta/index.html">Documenta DevMap</a>
+  
+   	</li>
+                   	<li>
+		<a href="../../processos/index.html">Processos do Lab (draft)</a>
+  
+   	</li>
+            	<li id="dropdown.208" class="dropdown">
+		<a href="../../recursos/index.html">Recursos <span class="caret"></span></a>
+  
+      	</li>
+ 
+</ul>
+    	</li>
+ 
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="container">
+				<section id="content">
+					<div class="inner">
+						<h1>Tutorial de como ler a temperatura de um sensor LM61</h1>
+
+<h2>Requisitos:</h2>
+
+<ul>
+<li>Arduino</li>
+<li>sensor lm61</li>
+</ul>
+
+<p>a montagem do sensor para medida com o ADC do Arduino deve ser feita colocando o Vout no pin A0 por exemplo.</p>
+
+<p>alimentar com 5V o sensor.</p>
+
+<h2>introdução ao ADC do Arduino.</h2>
+
+<p>Na sua forma mais simples com o uso das libraries do IDE do Arduino o grau de granularidade que possuimos é aquele que foi predefenido pelos desenvolvedores.</p>
+
+<p>No entanto devemos compreender que o ADC do Arduino pode ler um sinal analógico a diferentes velocidades até metade da velocidade do relogio extreno que usualmente num arduino é de 16 Mhz, e tão lento como 125 Khz. a velocidade a que se realiza a leitura pode influênciar a precisão da leitura, i.e. o número de bits que estamos a obter pode diminuir não nos dados que são devolvidos do ADC mas devido a perda de informação.</p>
+
+<h2>técnica importante para reduzir o ruído do ADC</h2>
+
+<p>Para reduzir o Ruído obtido pelo ADC devemos realizar diversas medições, e obter uma média dessas mesmas medições por forma a reduzir o erro ao mínimo.
+usualmente e se o ADC estiver com um relógio de leitura elevado por exemplo a 4 Mhz podemos efectuar 30 leituras, efectuando a média de seguida por forma a termos um valor mais perto de 10 Bits no ADC do Arduino.</p>
+
+<p>Outra técnica para aumentar a precisão do ADC podemos alterar a referência interna dos 5V para 1.1V, em muitos casos passaremos uma unidade de ADC ou ADU(analog Digital Unit) de 4.88mV para 1.07mV, como podemos comprovar das duas expressões que se apresentam de seguida.</p>
+
+<p>se AREF = 5 V, com 1023 ADU temos que 5 V / 1023 = 4.88mv</p>
+
+<p>se AREF = 1.1V, com 1023 ADU temos que 1.1 V / 1023 = 1.07mv</p>
+
+<p>em determinadas situações não é necessário aumentar esta definição se o ruido obtido for semelhante a 5mv no entanto se os valores de descriminação de um sensor forem na ordem do miliVolt é aconselhado alterar a referência interna do ADC para aumentar a precisão.</p>
+
+<p>tomemos como exemplo o lm61 que permite ter precisões de 0.1ºC para termos um ideia cada grau no LM61 correspondem 10 mv, com uma definição do ADC dada pela AREF de 5 volts apenas obtemos 1ºC de precisão, pois os incrementos são de 4.88mv o que no LM61 são 0,5ºC, no entanto com a presença de ruído apenas conseguiremos 1 ºC de referência.</p>
+
+<p>Reparemos que se utilizarmos uma medição de 1 mV obtemos 0.1ºC, adicionando o ruído de leitura teremos 0.2ºC, atenção que com a técnica de obtenção da média podemos de forma simples retirar o rúido para o valor mínimo, ficando muito perto dos valor de 0,1ºC.</p>
+
+<p>Outra técnica utilizada nas leituras para reduzir o ruído passa por entrelaçar o condutor do sinal no condutor do ground por forma a os campos se cancelarem.</p>
+
+<p>outra técnica ainda passa pela utilização de contactos soldados, pois os fenómenos de ruido gerado por maus contactos tende a desaparecer, o isolamento do contactos, por forma a remover qualquer crosstalk entre pinos de leitura, reduz também o ruído.</p>
+
+<p>NOTA:</p>
+
+<p>A experiência com estes sensores no arduino, aponta para a necessidade de calibrar cada um dos sensores para que as medições mostrem valores coerentes e com baixo erro, para isso introduz-se um termo que no código aparecerá como ADC_K que efectua a orreção no cálculo da temperatura real.</p>
+
+<p>Para determinar o ADC_K é necessário determinar qual a tensão que o ADC determinou, assim como valor medido pela saida vout do lm61 e efectuar a determinação da temperatura reportada por este, com os dois valores determinados, calcula-se o ADC_K através da expressão:</p>
+
+<p>ADC_K = temperatura_ADC / temperatura_Calculada_Voltimetro</p>
+
+<p>O calculo da temperatura do ADC efectua-se com a expressão:</p>
+
+<p>temperatura = (((output_ADC * ADU_K ) - 0.6 ) * 100)</p>
+
+<p>não corrigida.</p>
+
+<p>para incluir a correção: utiliza-se a expressão</p>
+
+<p>temperatura corrigida = (((output_ADC * ADU_K ) - 0.6 ) * 100) / ADC_K</p>
+
+<p>de seguida apresenta-se o Código utilizado para os testes de temperatura do AltoEspectro. assim como um pequeno readout e respectivo gráfico realizado com um programa feito no Processing</p>
+
+<p><img src="readtemperature/imagem1.PNG" alt="Processing Display Graph" /></p>
+
+<pre>
+<font color="#7e7e7e">/*</font><font color="#7e7e7e"></font><font color="#7e7e7e">*/</font>
+
+<font color="#434f54">//Temperature Sensors 1 and 2</font>
+<font color="#00979c">const</font> <font color="#00979c">int</font> <font color="#000000">analogin</font> <font color="#434f54">=</font> <font color="#000000">A0</font><font color="#000000">;</font>
+<font color="#00979c">const</font> <font color="#00979c">int</font> <font color="#000000">analogin1</font> <font color="#434f54">=</font> <font color="#000000">A1</font><font color="#000000">;</font>
+
+<font color="#434f54">//pwm output pin</font>
+<font color="#00979c">const</font> <font color="#00979c">int</font> <font color="#000000">analogout</font> <font color="#434f54">=</font> <font color="#000000">11</font><font color="#000000">;</font>
+
+<font color="#434f54">//Temperature sensors ADU_K's</font>
+<font color="#00979c">const</font> <font color="#00979c">float</font> <font color="#000000">ADU_K</font> <font color="#434f54">=</font> <font color="#000000">0.00107</font><font color="#000000">;</font>
+
+<font color="#00979c">unsigned</font> <font color="#00979c">int</font> <font color="#000000">input</font> <font color="#434f54">=</font> <font color="#000000">0</font><font color="#000000">;</font>
+<font color="#00979c">unsigned</font> <font color="#00979c">int</font> <font color="#000000">input1</font> <font color="#434f54">=</font> <font color="#000000">0</font><font color="#000000">;</font>
+<font color="#00979c">unsigned</font> <font color="#00979c">short</font> <font color="#000000">output</font> <font color="#434f54">=</font> <font color="#000000">0</font><font color="#000000">;</font>
+
+<font color="#434f54">//Temperature sensors ADC_K's</font>
+<font color="#00979c">float</font> <font color="#000000">ADC_K</font> <font color="#434f54">=</font> <font color="#000000">1.06231</font><font color="#000000">;</font>
+<font color="#00979c">float</font> <font color="#000000">ADC_K1</font> <font color="#434f54">=</font> <font color="#000000">1.06974</font><font color="#000000">;</font>
+
+<font color="#00979c">void</font> <font color="#5e6d03">setup</font><font color="#000000">(</font><font color="#000000">)</font> <font color="#000000">{</font>
+ &nbsp;<font color="#434f54">// put your setup code here, to run once:</font>
+ &nbsp;<b><font color="#d35400">Serial</font></b><font color="#434f54">.</font><font color="#d35400">begin</font><font color="#000000">(</font><font color="#000000">9600</font><font color="#000000">)</font><font color="#000000">;</font>
+ &nbsp;<font color="#d35400">analogReference</font><font color="#000000">(</font><font color="#00979c">INTERNAL</font><font color="#000000">)</font><font color="#000000">;</font>
+<font color="#000000">}</font>
+
+<font color="#00979c">void</font> <font color="#5e6d03">loop</font><font color="#000000">(</font><font color="#000000">)</font> <font color="#000000">{</font>
+ &nbsp;<font color="#434f54">// put your main code here, to run repeatedly:</font>
+
+ &nbsp;<font color="#000000">input</font> <font color="#434f54">=</font> <font color="#000000">readADC</font><font color="#000000">(</font><font color="#000000">analogin</font><font color="#000000">)</font><font color="#000000">;</font>
+
+ &nbsp;<font color="#000000">input1</font> <font color="#434f54">=</font> <font color="#000000">readADC</font><font color="#000000">(</font><font color="#000000">analogin1</font><font color="#000000">)</font><font color="#000000">;</font>
+
+ &nbsp;<font color="#00979c">float</font> <font color="#000000">temp</font> <font color="#434f54">=</font> <font color="#000000">(</font><font color="#000000">(</font><font color="#000000">input</font> <font color="#434f54">*</font> <font color="#000000">ADU_K</font><font color="#000000">)</font> <font color="#434f54">/</font> <font color="#000000">ADC_K</font> <font color="#434f54">-</font> <font color="#000000">0.6</font><font color="#000000">)</font> <font color="#434f54">*</font> <font color="#000000">100</font><font color="#000000">;</font>
+ &nbsp;<font color="#00979c">float</font> <font color="#000000">temp1</font> <font color="#434f54">=</font> <font color="#000000">(</font><font color="#000000">(</font><font color="#000000">input1</font> <font color="#434f54">*</font> <font color="#000000">ADU_K</font><font color="#000000">)</font> <font color="#434f54">/</font> <font color="#000000">ADC_K1</font> <font color="#434f54">-</font> <font color="#000000">0.6</font><font color="#000000">)</font> <font color="#434f54">*</font> <font color="#000000">100</font><font color="#000000">;</font>
+
+ &nbsp;<font color="#434f54">//Serial.print(input);</font>
+ &nbsp;<font color="#434f54">//Serial.print(" Temp: ");</font>
+ &nbsp;<b><font color="#d35400">Serial</font></b><font color="#434f54">.</font><font color="#d35400">print</font><font color="#000000">(</font><font color="#000000">temp</font><font color="#434f54">,</font> <font color="#000000">1</font><font color="#000000">)</font><font color="#000000">;</font>
+ &nbsp;<b><font color="#d35400">Serial</font></b><font color="#434f54">.</font><font color="#d35400">print</font><font color="#000000">(</font><font color="#00979c">" "</font><font color="#000000">)</font><font color="#000000">;</font>
+ &nbsp;<font color="#434f54">//Serial.println(input1);</font>
+ &nbsp;<font color="#434f54">//Serial.print(" Temp1: ");</font>
+ &nbsp;<b><font color="#d35400">Serial</font></b><font color="#434f54">.</font><font color="#d35400">println</font><font color="#000000">(</font><font color="#000000">temp1</font><font color="#434f54">,</font> <font color="#000000">1</font><font color="#000000">)</font><font color="#000000">;</font>
+ &nbsp;<font color="#d35400">delay</font><font color="#000000">(</font><font color="#000000">500</font><font color="#000000">)</font><font color="#000000">;</font>
+
+ &nbsp;<font color="#7e7e7e">/*</font><font color="#7e7e7e"> &nbsp;&nbsp;&nbsp;for (int i = 0; i &lt; 255; i++)</font><font color="#7e7e7e"> &nbsp;&nbsp;&nbsp;{</font><font color="#7e7e7e"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Serial.println(i);</font><font color="#7e7e7e"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;analogWrite(analogout, i);</font><font color="#7e7e7e"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;delay(100);</font><font color="#7e7e7e"> &nbsp;&nbsp;&nbsp;}</font><font color="#7e7e7e"> &nbsp;*/</font>
+
+ &nbsp;<font color="#d35400">analogWrite</font><font color="#000000">(</font><font color="#000000">analogout</font><font color="#434f54">,</font> <font color="#000000">255</font><font color="#000000">)</font><font color="#000000">;</font>
+
+<font color="#000000">}</font>
+
+<font color="#00979c">int</font> &nbsp;<font color="#000000">readADC</font><font color="#000000">(</font><font color="#00979c">int</font> <font color="#000000">sensor</font><font color="#000000">)</font>
+<font color="#000000">{</font>
+
+ &nbsp;<font color="#00979c">unsigned</font> <font color="#00979c">int</font> <font color="#000000">readout</font> <font color="#434f54">=</font> <font color="#d35400">analogRead</font><font color="#000000">(</font><font color="#000000">sensor</font><font color="#000000">)</font><font color="#000000">;</font>
+
+ &nbsp;<font color="#00979c">unsigned</font> <font color="#00979c">int</font> <font color="#000000">data</font><font color="#000000">;</font>
+
+ &nbsp;<font color="#5e6d03">for</font> <font color="#000000">(</font><font color="#00979c">int</font> <font color="#000000">i</font> <font color="#434f54">=</font> <font color="#000000">0</font><font color="#000000">;</font> <font color="#000000">i</font> <font color="#434f54">&lt;</font> <font color="#000000">33</font><font color="#000000">;</font> <font color="#000000">i</font><font color="#434f54">++</font><font color="#000000">)</font>
+ &nbsp;<font color="#000000">{</font>
+ &nbsp;&nbsp;&nbsp;<font color="#000000">data</font> <font color="#434f54">=</font> <font color="#000000">data</font> &nbsp;<font color="#434f54">+</font> <font color="#d35400">analogRead</font><font color="#000000">(</font><font color="#000000">sensor</font><font color="#000000">)</font><font color="#000000">;</font>
+ &nbsp;<font color="#000000">}</font>
+
+<font color="#000000">data</font> <font color="#434f54">=</font> <font color="#000000">data</font> <font color="#434f54">/</font><font color="#000000">33</font> <font color="#000000">;</font>
+
+<font color="#000000">}</font>
+
+</pre>
+
+					</div>
+				</section>
+				</div> <!-- Container -->
+
+				<footer id="footer" class="panel-footer">
+					<div class="inner">
+						<a href="https://github.com/PhileCMS/Phile">Phile</a> was made by <a href="https://github.com/PhileCMS">The PhileCMS Community</a>.
+					</div>
+				</footer>
+			</div>
+		</div>
+</div>
+		<script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-20725619-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+		<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.altlab.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+	</body>
+</html>

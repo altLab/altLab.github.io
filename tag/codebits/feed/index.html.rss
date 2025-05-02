@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>codebits - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/codebits/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Thu, 24 Apr 2014 23:57:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>SapoCodebits VII — The Aftermath</title>
+		<link>https://altlab.org/2014/04/25/sapocodebits-vii-aftermath/</link>
+		
+		<dc:creator><![CDATA[X3msnake]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2014 23:57:56 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[7]]></category>
+		<category><![CDATA[codebits]]></category>
+		<category><![CDATA[Osciloscopio]]></category>
+		<category><![CDATA[Pista Carros]]></category>
+		<category><![CDATA[Realiza a Virtualidade]]></category>
+		<category><![CDATA[sapo]]></category>
+		<category><![CDATA[VII]]></category>
+		<category><![CDATA[Workshops]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=4759</guid>
+
+					<description><![CDATA[&#160; Mais um ano, mais um Codebits! E o AltLab esteve lá mas desta vez não fomos a prémios, tivemos sim a honra de ter sido convidados. Como resposta ao desafio decidimos usar a prata da casa e apostar nos nossos workshops; - ALTLAB JUNK CHALLENGE — INTRODUÇÃO AO FRITZING (DESENHO DE CIRCUITOS E PCB &#8230; <a href="https://altlab.org/2014/04/25/sapocodebits-vii-aftermath/" class="more-link">Continue reading<span class="screen-reader-text"> "SapoCodebits VII — The Aftermath"</span></a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-4762" alt="DSC_1381" src="http://altlab.org/wp-content/uploads/2014/04/DSC_1381.jpg" width="100%" height="auto"></p>
+<p>&nbsp;</p>
+<p>Mais um ano, mais um Codebits!</p>
+<p>E o AltLab esteve lá mas desta vez não fomos a prémios, tivemos sim a honra de ter sido convidados.<br>
+Como resposta ao desafio decidimos usar a prata da casa e apostar nos nossos workshops;</p>
+<p>- ALTLAB JUNK CHALLENGE<br>
+— INTRODUÇÃO AO FRITZING (DESENHO DE CIRCUITOS E PCB BÁSICAS)<br>
+— MÉTODOS DE PRODUÇÃO DE PCB</p>
+<p>Todos sem excepção foram um sucesso, em especial o embrionário Junk Challenge que agregou os codbitários tipo marabuntas, à volta das carcaças de vários equipamentos em fim de vida, com o intuito de aprender a desmontar reaproveitar e readequar os componentes de qualquer equipamento eletrônico. Foi um mimo ver as impressoras a se desintegrarem sob a acção das nossas formiguinhas voluntárias.</p>
+<p>Nos nossos Hack-in-situ projects tivemos;</p>
+<p>- TV Osciloscopio<br>
+— Racing Car Run (RCR) aka “Realiza a Virtualidade”</p>
+<p>Com grande destaque para o RCR (em foto de capa) uma base interessante para tirar o pessoal do sofá e dar exercício aos neurónios e aos músculos, um projecto que não seguiu o plano , yes!!!</p>
+<p>O que começou por ter como input o batimento cardíaco, acabou ao ritmo de uma marcha. O plano inicial contava com um controlador por batimento cardiaco com o apoio do pessoal do <a title="bitalino" href="http://www.bitalino.com/">bitalino</a>, que gentilmente nos emprestaram um sensor de batimento cardíaco, mas como estávamos numa de marcar passo, conseguimos ao fim da noite de sexta ter a pista de carros a mexer-se com um stepper de exercício</p>
+<p>Quando nos dedicamos conseguimos! A velocidade do carro ainda não é proporcional à velocidade do atleta, mas também não queríamos fazer tudo bem à primeira. Acabou por ficar definido com uma velocidade mínima para o carro andar.</p>
+<p>Após desmontagem, porque no dia seguinte as coisas tinham que estar prontas para o workshop de PCB, descobrimos que fazer é uma coisa e refazer é outra e tivemos alguma dificuldade a repor o kit, mas conseguimos, tanto, que descobrimos um pequeno bug no sistema, que permitia que se ficássemos parados no pé certo o carro andava sozinho.</p>
+<p>Mas agora temos que voltar a montar a pista numa versão estável e arrancar com o campeonato e dar seguimento às nossas ideias.</p>
+<p>É preciso documentar para voltar a fazer.</p>
+<p>Venha o proximo evento…</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>robot - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/robot/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 15:04:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Video Arduino After Works #103 Recorded on July, 20.</title>
+		<link>https://altlab.org/2011/07/20/video-arduino-after-works-103-recorded-on-july-20-altlab/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Thu, 21 Jul 2011 01:19:17 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2202</guid>
+
+					<description><![CDATA[&#160; Depois de uma noite literalmente “movimentada”, com motores e Motoruinos por todo lado, não podíamos deixar de agradecer ao Guilherme Martins (@guibot) e ao André Almeida pela fantástica aula que deram e sobretudo aos participantes e aqueles que acompanharam esta 1ª emissão “live webcast” da altLabTV&#160;sem os quais nada disso teria acontecido. ah!&#160;também&#160;não podemos &#8230; <a href="https://altlab.org/2011/07/20/video-arduino-after-works-103-recorded-on-july-20-altlab/" class="more-link">Continue reading<span class="screen-reader-text"> "Video Arduino After Works #103 Recorded on July, 20."</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Depois de uma noite literalmente “movimentada”, com motores e <a href="http://www.guibot.pt/motoruino/" target="_blank">Motoruinos</a> por todo lado, não podíamos deixar de agradecer ao <a href="http://lab.guilhermemartins.net/" target="_blank">Guilherme Martins</a> (@guibot) e ao André Almeida pela fantástica aula que deram e sobretudo aos participantes e aqueles que acompanharam esta 1ª emissão “live webcast” da <a title="altLabTV" href="http://www.ustream.tv/channel/altlabtv" target="_blank">altLabTV</a>&nbsp;sem os quais nada disso teria acontecido.<br>
+ah!&nbsp;também&nbsp;não podemos esquecer de agradecer ao <a href="http://www.guibot.pt/farrusco/" target="_blank">Farrusco</a> por ter aparecido na festa <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>
+Muito obrigado !</p>
+<h5>[ustream vid=“16132201”]<br>
+<strong>&nbsp; ^ click play here!</strong></h5>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Arduino Hack Day report</title>
+		<link>https://altlab.org/2011/02/07/arduino-hack-day-report/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2011 18:38:46 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1527</guid>
+
+					<description><![CDATA[[PT]No último sábado, 5 de Fevereiro, o altlab organizou o Arduino Hack Day. Participaram no evento perto de 40 pessoas, entre entusiastas em electrónica, artistas, programadores, arquitectos, fotógrafos, amigos. [EN]On Feb 5th altlab held its first Arduino Hack Day. Around 40 enthusiasts, artists, programmers, architects, photographers and friends participated in the event. &#160; [PT]Para muitos, &#8230; <a href="https://altlab.org/2011/02/07/arduino-hack-day-report/" class="more-link">Continue reading<span class="screen-reader-text"> "Arduino Hack Day report"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong>[PT]</strong>No último sábado, 5 de Fevereiro, o altlab organizou o Arduino Hack Day.<br>
+Participaram no evento perto de 40 pessoas, entre entusiastas em electrónica, artistas, programadores, arquitectos, fotógrafos, amigos.<br>
+<strong>[EN]</strong>On Feb 5th altlab held its first Arduino Hack Day. Around 40 enthusiasts, artists, programmers, architects, photographers and friends participated in the event.</p>
+<p><a href="http://altlab.org/wp-content/uploads/2011/02/AHD01.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1533" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD01.jpg" alt width="600" height="400"></a></p>
+<p>&nbsp;</p>
+<p><strong>[PT]</strong>Para muitos, foi o primeiro contacto com o Arduino, a descoberta da simplicidade desta plataforma para o desenvolvimento de projectos de computação física.<br>
+Distribuídos por quatro bancadas, os participantes começaram a experimentar assim que chegaram!<br>
+<strong>[EN]</strong>For many this was their first contact with the Arduino, discovering the ease with which this platform can be used for the development of physical computing projects.<br>
+Assembled around workbenches, participants started experimenting as soon as they arrived!</p>
+<p><span style="text-align: left;"><a href="http://altlab.org/wp-content/uploads/2011/02/AHD04.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1563 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD04.jpg" alt="Arduino Hack Day" width="600" height="400"></a></span><span style="text-align: left;"> <a href="http://altlab.org/wp-content/uploads/2011/02/AHD05.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1566 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD05.jpg" alt="Arduino Hack Day" width="600" height="400"></a></span></p>
+<p><span style="text-align: left;"><strong>[PT]</strong>Uma das bancadas, dedicada ao tema Arduino, motores e a robótica, ficou por conta do <a href="http://lab.guilhermemartins.net/" target="_blank">Guilherme Martins</a> (Guibot). </span>Noutra bancada, alguns principiantes aprendiam a dar os primeiros passos, com a ajuda de membros do altlab.<br>
+<span style="text-align: left;"><strong>[EN]</strong>One of the tables, dedicated to Arduino, motors and robotics, was run by <a href="http://lab.guilhermemartins.net/" target="_blank">Guilherme Martins</a> (Guibot). </span>Near by, at another table, some participants took their first steps with the help of altlab members.</p>
+<p><a href="http://altlab.org/wp-content/uploads/2011/02/AHD02.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1575 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD02.jpg" alt="Arduino Hack Day" width="600" height="450"></a> <a href="http://altlab.org/wp-content/uploads/2011/02/AHD06.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1585 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD06.jpg" alt="Arduino Hack Day" width="600" height="450"></a></p>
+<p><span style="text-align: left;"><strong>[PT]</strong>Enquanto isso, a impressora 3D (“makerbot”) trazida pelo nosso convidado neozelandês, Tiago, ia imprimindo as primeiras peças.</span><br>
+<span style="text-align: left;"><strong>[EN]</strong>All the while, the MakerBot brought by our New Zeleand guest Tiago, was printing some plastic parts for the projects.</span></p>
+<p><span style="text-align: left;"><a href="http://altlab.org/wp-content/uploads/2011/02/AHD08.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1589 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD08.jpg" alt="Arduino Hack Day" width="600" height="400"></a></span><span style="text-align: left;"> <a href="http://altlab.org/wp-content/uploads/2011/02/AHD07.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1590 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD07.jpg" alt="Arduino Hack Day" width="600" height="400"></a></span></p>
+<p><span style="text-align: left;"><strong>[PT]</strong>O Pedro Ângelo, do <a href="http://labcd.org/" target="_blank">LCDLab</a>, veio do Porto para nos ajudar e ressuscitou um projecto antigo do Maurício, que depois de pronto gerou alguma diversão…</span><br>
+<span style="text-align: left;"><strong>[EN]</strong>O Pedro Ângelo, from <a href="http://labcd.org/" target="_blank">LCDLab</a>, came from Porto to help out and decided to bring back to life an old project of Maurício’s which immediately turned into a lot of fun.…</span></p>
+<p><span style="text-align: left;"><a href="http://altlab.org/wp-content/uploads/2011/02/AHD09.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1591" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD09.jpg" alt="Arduino Hack Day" width="600" height="450"></a></span></p>
+<p><iframe loading="lazy" src="http://player.vimeo.com/video/19634124" width="600" height="340" frameborder="0"></iframe></p>
+<p><span style="text-align: left;"><strong>[PT]</strong>Logo depois do almoço começaram as apresentações. A <a href="http://monicamendes.wordpress.com/" target="_blank">Mónica Mendes</a> e o <a href="http://ledsandchips.com" target="_blank">Maurício Martins</a> deram a conhecer o colectivo altlab, o seu passado, presente e futuro. A <a href="http://cheeriocheng.com" target="_blank">Cheng Xu</a>, também nossa convidada, apresentou-nos o Seeeduino Film. Por fim, o Guibot e o André, da Artica, falaram do Motoruino e do Farrusco.</span><br>
+<span style="text-align: left;"><strong>[EN]</strong>After lunch we had some presentations. <a href="http://monicamendes.wordpress.com/" target="_blank">Mónica Mendes</a> and <a href="http://ledsandchips.com" target="_blank">Maurício Martins</a> talked about the past, present and future of altlab. Our guest <a href="http://cheeriocheng.com" target="_blank">Cheng Xu</a> presented the Seeduino film. Finally, Guibot and André from Artica talked about the Motoruino and Farrusco.</span></p>
+<p><a href="http://altlab.org/wp-content/uploads/2011/02/AHD10.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1592 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD10.jpg" alt="Arduino Hack Day" width="600" height="450"></a> <a href="http://altlab.org/wp-content/uploads/2011/02/AHD11.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1593 size-full" title="Arduino Hack Day" src="http://altlab.org/wp-content/uploads/2011/02/AHD11.jpg" alt="Arduino Hack Day" width="600" height="450"></a></p>
+<p><strong>[PT]</strong>Passadas 10 horas de puro hacking e muita cerveja, o Arduino Hack Day chegava ao fim, todos os participantes muito satisfeitos com a experiência. O altlab conseguiu concretizar o principal objectivo desta iniciativa: juntar pessoas interessadas em partilhar conhecimentos sobre o Arduino, ajudar quem nunca tinha desenvolvido nada com a plataforma e conquistar novos interessados em pertencer a este colectivo fantástico!<br>
+<strong>[EN]</strong>After 10 hours of pure hacking and lots of beer, the Arduino Hack Day came to an end, and everyone left with a smile on their faces. We were able to attain the main goals for this event: gather people interested in sharing knowledge about the Arduino, help those who had never used the platform, and have several new members join our beloved collective.</p>
+<p><iframe loading="lazy" src="http://player.vimeo.com/video/19665078" width="600" height="340" frameborder="0"></iframe></p>
+<p><strong>[PT]</strong>Por último, fica aqui um agradecimento muito especial aos membros do altlab que contribuíram na organização deste evento:<br>
+<strong>[EN]</strong>Finally, a word of special thanks to the altlab members who contributed to making the Arduino Hack Day possible:</p>
+<p><strong>Andre Almeida, Ferdi Meier, Guilherme Martins, Leonardo Marques, Manuel Alves, Mauricio Martins, Mónica Mendes, Nuno João, Paulo Rodrigues e Pedro Ângelo (LCD).</strong></p>
+<p>Some photos by João Nogueira e Rita Carvalho.</p>
+<p><strong>Flickr Photo Set: <a href="http://tinyurl.com/6f7vhsx" target="_blank" rel="nofollow">http://tinyurl.com/6f7vhsx</a></strong></p>
+<p><strong>English version soon!</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>makerbot as microscope: what we learned</title>
+		<link>https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2010 19:08:14 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[bio]]></category>
+		<category><![CDATA[repurpose]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=766</guid>
+
+					<description><![CDATA[Joel Belouet has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the MakerBot sitting on our table was the solution. At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear &#8230; <a href="https://altlab.org/2010/06/17/makerbot-as-microscope-what-we-learned/" class="more-link">Continue reading<span class="screen-reader-text"> "makerbot as microscope: what we learned"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><object width="400" height="320"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12644313&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="320"></object></p>
+<p><a href="http://joel.belouet.free.fr/" target="_blank">Joel Belouet</a> has been working on an art piece involving microorganisms and needed a support structure for his microscope camera. It turns out the <a href="http://www.makerbot.com/" target="_blank">MakerBot</a> sitting on our table was the solution.</p>
+<p>At first Joel attached the camera to the z axis and the slide rested on the build platform, but it soon became clear that it would be much better to have the sample remain still and the camera move instead. Inverting the positions meant attaching the slide to the bottom of the z axis platform in order to prevent the camera lens from bumping against it. This setup also allowed him to use the <a href="http://www.thingiverse.com/thing:975" target="_blank">z crank</a> as a focus mechanism.<span id="more-766"></span></p>
+<p><a href="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg"><img decoding="async" loading="lazy" src="http://altlab.org/wp-content/uploads/2010/06/makerbotMicroscope.jpg" alt title="makerbot microscope" width="400" height="533" class="alignnone size-full wp-image-838"></a></p>
+<p>So we were happy with the physical setup which, in conjunction with <a href="http://replicat.org/" target="_blank">ReplicatorG’s</a> control panel, proved very useful for finding and tracking microorganisms within the sample.</p>
+<p>But we also wanted to try an automated scan.</p>
+<p>So the next step was to generate a path for the camera. We made a bunch of experiments with MakerBot’s <a href="http://wiki.makerbot.com/frostruder-mk2-usage" target="_blank">Frostruder Tool Sweet</a>, but eventually an stl + <a href="http://reprap.org/wiki/Skeinforge" target="_blank">skeinforge</a>, with a feedrate of 12 mm/m, turned out to be the best solution.</p>
+<p>Finally, the microscope camera (which is a cheap webcam with a macro lens that Joel flipped upside down) was connected to his <a href="http://processing.org/" target="_blank">Processing</a> script that records both video and stills from the incoming video feed.</p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1"><embed src="http://vimeo.com/moogaloop.swf?clip_id=12630684&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></object><br>
+<em>Video of fist automated scan (sample is moss from a well).</em></p>
+<p>Joel will continue to work on this as part of his art project, but this setup seems to be useful for a few other things:<br>
+— Record microscopic images of each and every area of a sample: just feed the makerbot a grid-like design, set the processing script to take a photo of each quadrant, go enjoy the <a href="http://www.flickr.com/photos/34906770@N07/4701251724/in/set-72157623408197899/" target="_blank">great outdoors</a>, and when you return to the lab you’ll have all the images waiting for you on your hard drive.<br>
+— Automatically capture images of live bacteria: we’ll try to do this by having the processing script track certain types of motion and capture stills when it’s detected.<br>
+— Some dancers here at the AZ residency also became very interested in using it as live video feed for performance.</p>
+<p>Well, that’s it for now. We’re going to get more coffee and think of a way to make an action movie starring nematodes and tardigrades <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshops at BetaLab</title>
+		<link>https://altlab.org/2010/05/10/workshops-at-betalab/</link>
+		
+		<dc:creator><![CDATA[Tiago Henriques]]></dc:creator>
+		<pubDate>Mon, 10 May 2010 09:01:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[solarbots]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=731</guid>
+
+					<description><![CDATA[In the next weeks we’ll be giving two workshops at BetaLab, a co-working space organized by betahaus&#124; within the Chiado-After-Work program. Here’s all the information and workshops’ schedule (in Portuguese): Workshop DIY Kinetic SolarBots — Construa o seu próprio robot cinético solar. Neste workshop os participantes vão construir um pequeno robot cinético através da montagem &#8230; <a href="https://altlab.org/2010/05/10/workshops-at-betalab/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshops at BetaLab"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>In the next weeks we’ll be giving two workshops at BetaLab, a co-working space organized by <a href="http://www.betahaus.de/">betahaus|</a> within the <a href="http://chiado-after-work.blogspot.com/">Chiado-After-Work</a> program.</p>
+<p>Here’s all the information and workshops’ schedule (in Portuguese):</p>
+<p><strong>Workshop DIY Kinetic SolarBots</strong> — Construa o seu próprio robot cinético solar.</p>
+<p>Neste workshop os participantes vão construir um pequeno robot cinético através da montagem de um circuito solar com um pequeno motor e do design/modelagem do corpo do robot com Shmelzolan (plástico utilizado em artesanato).</p>
+<p><strong>Datas</strong> : 12 de Maio / 19 de Maio / 26 de Maio</p>
+<p><strong>Horário</strong> : 17h — 21h</p>
+<p><strong>Preço</strong> : 25 Euros/Pessoa</p>
+<p><strong>Local</strong> : Rua Garrett, 70 (Baixa, Lisboa)</p>
+<p><object width="522" height="294" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=10737480&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="522" height="294" src="http://vimeo.com/moogaloop.swf?clip_id=10737480&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" allowfullscreen="allowfullscreen"></object></p>
+<p>CC : Video by xdatelier (<a href="http://xdatelier.org/">http://xdatelier.org/</a>)</p>
+<p><strong>Workshop Electrónica Aprender a soldar </strong></p>
+<p>Qualquer pessoa é capaz de fazer uma boa soldadura, é só uma questão de prática! Neste workshop aprendemos a soldar construindo circuitos muito divertidos como o Pisca-Pisca LED, uPONG (Retro Video GAME), Drawdio (um lápis/pincel que emite sons enquanto desenhámos) entre outros.</p>
+<p><strong>Datas</strong> : 14 de Maio / 21 de Maio / 28 de Maio</p>
+<p><strong>Horário</strong> : 17h — 21h</p>
+<p><strong>Preço</strong> : entre 10 — 35&nbsp; Euros/Pessoa (consoante o kit seleccionado para construir)</p>
+<p><strong>Local</strong> : Rua Garrett, 70 (Baixa, Lisboa)</p>
+<figure id="attachment_734" aria-describedby="caption-attachment-734" style="width: 300px" class="wp-caption alignnone"><a href="http://altlab.org/wp-content/uploads/2010/05/moz-screenshot.png"><img decoding="async" loading="lazy" class="wp-image-734 size-medium" title="moz-screenshot" src="http://altlab.org/wp-content/uploads/2010/05/moz-screenshot-300x218.png" width="300" height="218" srcset="https://altlab.org/wp-content/uploads/2010/05/moz-screenshot-300x218.png 300w, https://altlab.org/wp-content/uploads/2010/05/moz-screenshot.png 500w" sizes="(max-width: 300px) 85vw, 300px"></a><figcaption id="caption-attachment-734" class="wp-caption-text">CC : Photo by LadyAda (www.adafruit.com)</figcaption></figure>
+<p>A inscrição para qualquer um dos workshops numa das das disponíveis deve ser efectuada via email para o endereço : <a href="mailto:daniela@betahaus.de">daniela@betahaus.de</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop de Impressão 3D com Zach Hoeken (Lisboa)</title>
+		<link>https://altlab.org/2009/06/19/workshop-de-impressao-3d-com-zach-hoeken-lisboa/</link>
+		
+		<dc:creator><![CDATA[Catarina M.]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2009 14:15:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=374</guid>
+
+					<description><![CDATA[Datas: 19 de Out a 1 de Nov de 2009 Local: Lisboa (espaço a anunciar) Horários: 19:30 às 22:30 (dias de semana) 11:00 às 19:00 (fins de semana) total de 58h Informação e inscrições: http://www.audienciazero.org/cct/3dprinting &#160; Organização: Audiência Zero (altLab + LCD) Contacto: catarinamota (at) audienciazero (dot) org (inscrições abertas :: número limitado de vagas) &#8230; <a href="https://altlab.org/2009/06/19/workshop-de-impressao-3d-com-zach-hoeken-lisboa/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop de Impressão 3D com Zach Hoeken (Lisboa)"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" width="500" height="456" class="alignnone size-full wp-image-375" title="3D Printing Workshop" src="http://altlab.org/wp-content/uploads/2009/06/3432040415_a35a2efc82.jpg" alt="3D Printing Workshop"></p>
+<p><em><strong>Datas:</strong> 19 de Out a 1 de Nov de 2009</em></p>
+<p><strong>Local:</strong> Lisboa (espaço a anunciar)</p>
+<p><strong>Horários:</strong></p>
+<p>19:30 às 22:30 (dias de semana)</p>
+<p>11:00 às 19:00 (fins de semana)</p>
+<p>total de 58h</p>
+<p><strong>Informação e inscrições:</strong> <a href="http://www.audienciazero.org/cct/3dprinting" target="_blank">http://www.audienciazero.org/cct/3dprinting</a></p>
+<p>&nbsp;</p>
+<p><em><strong>Organização:</strong> <a href="http://www.audienciazero.org/cct/" target="_blank">Audiência Zero</a> (<a href="http://altlab.org">altLab</a> + <a href="http://www.audienciazero.org/lcd/" target="_blank">LCD</a>)</em></p>
+<p><strong>Contacto:</strong> catarinamota (at) audienciazero (dot) org</p>
+<p>(inscrições abertas :: número limitado de vagas)</p>
+<p>:::::::::::</p>
+<p>A impressão 3D é uma forma original de impressão, no âmbito da tecnologia de prototipagem, em que um objecto tridimensional é criado por uma máquina a partir da acumulação de camadas sucessivas de um dado material (<a href="http://en.wikipedia.org/wiki/3D_printing" target="_blank">Wikipedia</a>).</p>
+<p><strong>O Workshop</strong></p>
+<p>O objectivo do workshop é a construção e utilização de uma impressora 3D open source (modelo <a href="http://www.makerbot.com/" target="_blank">MakerBot</a>). Os participantes irão construir a máquina de raiz: desde a montagem das componentes electrónicas e extrusor, passando pela mecânica, até à junção de todas as peças. Irão ainda adquirir e aperfeiçoar aptidões e técnicas nas área de fabrico de electrónica, mecânica, modelação 3D, fabricação digital e resolução de problemas com impressoras 3D. O workshop será ainda um lugar privilegiado para adquirir conhecimentos sobre os mais diversos tópicos, como teoria da electrónica, design de firmware, engenharia mecânica, protocolos de série, fabricação digital e desenho 3D.</p>
+<p>A impressora 3D construída durante o workshop ficará posteriormente disponível para os membros do altLab (qualquer interessado se pode inscrever no altLab se assim o desejar). Os participantes que desejem construir a sua própria máquina, e levá-la para casa, terão que adquirir o respectivo kit open source no site da <a href="http://www.makerbot.com/" target="_blank">MakerBot</a>.</p>
+<p><strong>Zach Hoeken</strong></p>
+<p>Zach Hoeken likes to dream big, fail big, and win big. His true passion in life is acting as a catalyst and helping others do amazing things. Whether it is creating open source micro controllers (sanguino.cc), robot controller software (replicat.org), object sharing websites (thingiverse.com), self replicating 3D printers (reprap.org), or hacker collectives (nycresistor.com) there is one central purpose: to help other people help themselves create an awesome world to live in. He hopes that someday we can create a world that surpasses even the wildest futures portrayed in science fiction. He thinks the universe is and will continue to be completely rad. Do you want to help?</p>
+<p><strong>Datas e Valores para inscrição no workshop:</strong></p>
+<p>Inscrições até 31 de Julho: 200€*</p>
+<p>(50% no acto de inscrição + 50% até 19 de Setembro)</p>
+<p>Inscrições após 31 de Julho: 250€*</p>
+<p>(pagos no acto de inscrição)</p>
+<p>* não reembolsável</p>
+<p><img decoding="async" loading="lazy" width="500" height="768" class="alignnone size-full wp-image-398" title="3D printing workshop" src="http://altlab.org/wp-content/uploads/2009/06/3dprinting.jpg" alt="3D printing workshop"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Control your motors with L293D and Arduino</title>
+		<link>https://altlab.org/2009/04/29/control-your-motors-with-l293d-and-arduino/</link>
+		
+		<dc:creator><![CDATA[guibot]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 09:30:47 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[chip]]></category>
+		<category><![CDATA[instructable]]></category>
+		<category><![CDATA[l293d]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://altlablx.org/?p=222</guid>
+
+					<description><![CDATA[I realized there was some lack of information regarding the use of this chip with Arduino, so I made this Instructable. Hope you find it usefull 😉]]></description>
+										<content:encoded><![CDATA[<p>I realized there was some lack of information regarding the use of this chip with Arduino, so I made this Instructable. Hope you find it usefull  <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/"><img decoding="async" class="alignnone" src="http://www.instructables.com/image/F8TQPXMFTY4CX3G/Basic-implementation.jpg" alt></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

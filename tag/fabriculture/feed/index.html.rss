@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FabriCulture - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/fabriculture/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 21 Mar 2011 10:56:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>FabriCamp Lx1</title>
+		<link>https://altlab.org/2011/03/21/fabricamp-lx1/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2011 10:56:14 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[3D printing]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[FabriCulture]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1687</guid>
+
+					<description><![CDATA[3 de Abril de 2011 &#124; April 3rd 2011 @ Pavilhão do Conhecimento [PT] É com grande satisfação que a Rede de Laboratórios da AZ (Associação Audiência Zero) anuncia o primeiro evento da FabriCulture: o FabriCamp Lx1! É verdade, será um dia inteiro ao estilo barcamp , dedicado à fabricação digital. Vários membros e amigos &#8230; <a href="https://altlab.org/2011/03/21/fabricamp-lx1/" class="more-link">Continue reading<span class="screen-reader-text"> "FabriCamp Lx1"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong><em><strong><em>3 de Abril de 2011 | </em></strong>April 3rd 2011 @<a href="http://www.pavconhecimento.pt/home/"> Pavilhão do Conhecimento</a></em></strong></p>
+<p><strong> [PT]<br>
+</strong>É com grande satisfação que a <a href="http://www.audienciazero.org/">Rede de Laboratórios da AZ (Associação Audiência Zero)</a> anuncia o primeiro evento da <a title="FabriCulture" href="http://fabriculture.org/about/" target="_blank">FabriCulture</a>: o FabriCamp Lx1!</p>
+<p>É verdade, será um dia inteiro ao estilo <a href="http://en.wikipedia.org/wiki/Unconference">barcamp</a> , dedicado à fabricação digital. Vários membros e amigos dos hackerspaces da AZ (<a href="http://labcd.org/">LCD</a>, <a href="http://altlab.org/">altLab</a> e&nbsp;<a href="http://xdatelier.org/">xDA</a>) irão demonstrar as suas máquinas de prototipagem rápida, impressoras 3D e CNC Mills.<br>
+Caso tenha uma máquina para fabricação digital, seja de que tipo for, acabada, por acabar, avariada, etc., traga‑a consigo. Ou então traga os amigos e a família (é um evento também para crianças).</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1719" title="FabriCamp Lx1" src="http://altlab.org/wp-content/uploads/2011/03/flyer-post.jpg" alt="FabriCamp Lx1" width="600" height="425"></p>
+<p>Photo by MakerBot Industries</p>
+<p>Como em qualquer outro evento ao estilo barcamp, os participantes são também oradores; portanto estão todos convidados a fazer apresentações, lançar debates, demonstrar os seus projectos, o que lhes apetecer.</p>
+<h4>A participação é gratuita. Inscreva-se <a title="Event Registration" href="http://fabriculture.org/event-registration/" target="_blank">aqui</a>.</h4>
+<p><em>A <a title="FabriCulture" href="http://fabriculture.org" target="_blank">F</a>abriCulture é um projecto da AZ Labs Network dedicado à promoção do fabrico digital open source e da cultura maker em geral. <a href="http://fabriculture.org/about/">Saiba mais sobre a FabriCulture aqui</a>.</em></p>
+<p><em> </em><em>Se a revolução do fabrico digital é para si novidade , vale a pena dar uma vista de olhos à bela animação da NueveOjos <a href="http://vimeo.com/12768578?utm_source=share&amp;utm_medium=nsyght.com">Full Printed</a> e à apresentação <a href="http://www.youtube.com/watch?v=1osdnKzj-1k&amp;utm_source=MakerBot+Industries+List&amp;utm_campaign=9194f9b504-MakerBot_Newsletter_4_March_2011&amp;utm_medium=email">Schuyler St. Ledger’s Ignite Phoenix</a> .</em></p>
+<p><strong>[EN]</strong><br>
+The <a href="http://www.audienciazero.org/">AZ Labs Network</a> is extremely happy to announce <a title="FabriCulture" href="http://fabriculture.org/about/" target="_blank">FabriCulture</a>’s first event: FabriCamp Lx1! That’s right, it’ll be a barcamp style <a href="http://en.wikipedia.org/wiki/Unconference">unconference</a> dedicated to digital fabrication. Several members and friends of AZ’s hackerspaces (<a href="http://labcd.org/">LCD</a>, <a href="http://altlab.org/">altLab</a> and <a href="http://xdatelier.org/">xDA</a>) will be demoing their 3D printers and CNC mills. If you have any kind of digital fabricator—finished, unfinished, broken or so and so—bring it along. Or just bring yourself, your friends, your family (this is a children-friendly event). As in any other barcamp-style event, the attendees are also the speakers, so everyone is encouraged to give talks, start debates, demo their projects, lead workshops, whatever suits their fancy.</p>
+<h4>Participation is free. Please register <a title="Event Registration" href="http://fabriculture.org/event-registration/" target="_blank">here</a>.</h4>
+<p><em>Fabriculture is an AZ Labs Network project dedicated to promoting open source digital fabrication and maker culture in general. <a href="http://fabriculture.org/about/">Learn more about FabriCulture here</a>.</em></p>
+<p><em>For those new to the digital fabrication revolution make sure to also check out the beautiful Nueve Ojos <a href="http://vimeo.com/12768578?utm_source=share&amp;utm_medium=nsyght.com">Full Printed</a> animation and <a href="http://www.youtube.com/watch?v=1osdnKzj-1k&amp;utm_source=MakerBot+Industries+List&amp;utm_campaign=9194f9b504-MakerBot_Newsletter_4_March_2011&amp;utm_medium=email">Schuyler St. Ledger’s Ignite Phoenix presentation</a> for a quick overview.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

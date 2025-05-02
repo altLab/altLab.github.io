@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<!-- <base href="https://altlab.org/d/" />  -->
+		<title>altLab Documenta</title>
+				<meta property="og:type" content="article" />
+		<meta property="og:title" content=" | altLab Documenta" />
+		<meta property="og:description" content="" />
+		<meta property="og:url" content="https://altlab.org/d/m/jpralves/recover_atmega2560/" />
+		<meta property="og:site_name" content="altLab Documenta" />
+
+		<!-- Bootstrap -->
+		<link href="../../themes/altlab/css/bootstrap.min.css" rel="stylesheet">
+		<link href="../../themes/altlab/override-test.css" rel="stylesheet">
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="../../themes/altlab/js/jquery-1.12.4.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="../../themes/altlab/js/bootstrap.min.js"></script>
+
+	</head>
+	<body>
+<div class="container">
+<div class="container-fluid">
+      <div class="page-header hidden-xs" id="brand-logo">
+        <h1><a href="../../../index.html"><img src="../../themes/altlab/altlab-logo-gradoverwhite.png" width="180" height="120" alt="Home" style="vertical-align:text-bottom" /></a> Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></h1>
+
+      </div>
+			<nav class="navbar navbar-inverse">
+
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+<div class="visible-xs">
+<a class="navbar-brand" href="../../../index.html"><img src="../../themes/altlab/altlab-logo-documenta.png" width="58" height="35" alt="Home" style="margin-top: -7px;"></a>
+						<a class="navbar-brand" href="../../index.html">Documenta <span class="glyphicon glyphicon-leaf" style="color:#98ff98; padding-left:5px; top:2.8px;"></span></a></div>
+					</div>
+					<div class="collapse navbar-collapse" id="myNavbar">
+						<ul class="nav navbar-nav">
+
+           	<li id="dropdown.1" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Membros <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../index.html">Index</a>
+</li>
+   
+           	<li id="dropdown.101" class="dropdown">
+		<a href="index.html">João Alves <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.102" class="dropdown">
+		<a href="../sislog/index.html">Fernando Carvalho <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.103" class="dropdown">
+		<a href="../pangelo/index.html">Pedro Ângelo <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.104" class="dropdown">
+		<a href="../dinix/index.html">Dinix <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../funke/funke.html">m/funke/funke</a>
+  
+   	</li>
+            	<li id="dropdown.106" class="dropdown">
+		<a href="../afonsom/index.html">Afonso Muralha <span class="caret"></span></a>
+  
+      	</li>
+            	<li id="dropdown.107" class="dropdown">
+		<a href="../x3msnake/index.html">X3msnake <span class="caret"></span></a>
+  
+      	</li>
+            	<li>
+		<a href="../ampmendes/index.html">António Mendes</a>
+  
+   	</li>
+            	<li>
+		<a href="../guardajoao/index.html">GuardaJoao</a>
+  
+   	</li>
+            	<li>
+		<a href="../jac/index.html">JAC</a>
+  
+   	</li>
+            	<li>
+		<a href="../nini/index.html">Nuno Nini</a>
+  
+   	</li>
+ 
+</ul>
+    	</li>
+            	<li id="dropdown.2" class="dropdown">
+		<a class= "dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Documentação Partilhada <span class="caret"></span></a>
+  
+    <ul class="dropdown-menu">
+<li>
+<a href="../../s/index.html">Index</a>
+</li>
+   
+                         	<li id="dropdown.203" class="dropdown">
+		<a href="../../s/workshops/index.html">Workshops <span class="caret"></span></a>
+  
+      	</li>
+                   	<li>
+		<a href="../../s/documenta/index.html">Documenta DevMap</a>
+  
+   	</li>
+                   	<li>
+		<a href="../../s/processos/index.html">Processos do Lab (draft)</a>
+  
+   	</li>
+            	<li id="dropdown.208" class="dropdown">
+		<a href="../../s/recursos/index.html">Recursos <span class="caret"></span></a>
+  
+      	</li>
+ 
+</ul>
+    	</li>
+ 
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="container">
+				<section id="content">
+					<div class="inner">
+						<h1>altLab Troubleshooting Sessions - Recovering an Arduino MEGA ADK</h1>
+
+<p>By João Alves (<a href="../../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="2e445e5c4f42584b5d6e49434f4742004d4143">[email&#160;protected]</a>) on Nov 28, 2014</p>
+
+<p>Pedro Angelo has brought this card and it seems that it is damaged on a software level not being able to be programmed using USB.</p>
+
+<h2>The Board</h2>
+
+<p>The Arduino MEGA ADK is a special board based on the ATmega2560. It has a USB host interface to connect with Android based phones, based on the MAX3421e IC. Like the Arduino Mega 2560 it has 54 digital input/output pins (of which 15 can be used as PWM outputs), 16 analog inputs, 4 UARTs (hardware serial ports), a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header, and a reset button.</p>
+
+<h3>Summary</h3>
+
+<ul>
+<li>Microcontroller: ATmega2560</li>
+<li>Operating Voltage: 5V</li>
+<li>Input Voltage (recommended): 7-12V</li>
+<li>Input Voltage (limits): 6-20V</li>
+<li>Digital I/O Pins: 54 (of which 15 provide PWM output)</li>
+<li>Analog Input Pins: 16</li>
+<li>DC Current per I/O Pin: 40 mA</li>
+<li>DC Current for 3.3V Pin: 50 mA</li>
+<li>Flash Memory: 256 KB of which 8 KB used by bootloader</li>
+<li>SRAM: 8 KB</li>
+<li>EEPROM: 4 KB</li>
+<li>Clock Speed: 16 MHz</li>
+<li>USB Host Chip: MAX3421E</li>
+</ul>
+
+<p>More info on <a href="http://arduino.cc/en/Main/ArduinoBoardMegaADK">Arduino official MEGA ADK page</a>.</p>
+
+<p><img src="recover_atmega2560/ArduinoADK_R3_Front_450px.jpg" alt="Image of Arduino MEGA ADK" /></p>
+
+<h2>Symptons</h2>
+
+<ul>
+<li>Unable to upload sketches using Arduino IDE</li>
+<li>Pin 13 LED always on</li>
+</ul>
+
+<p>The errors that appeared in the Arduino IDE:</p>
+
+<pre><code class="sh">Binary sketch size: 1,628 bytes (of a 258,048 byte maximum)
+Binary sketch size: 1,628 bytes (of a 258,048 byte maximum)
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_getsync(): timeout communicating with programmer
+</code></pre>
+
+<h2>Long History</h2>
+
+<p>Spoiler... Short History....</p>
+
+<p>The first possible problem would be a firmware bootloader code on the ATmega2560 microcontroller.</p>
+
+<p>Using an inexpensive ebay usbasp clone I’ve tried to update the bootloader and check for the correctness of the fuse settings. I’ve run the 3 recommended commands (as in <a href="http://cisana.net/burning-the-bootloader-onto-the-arduino-mega-2560/">Burning the bootloader onto the Arduino Mega 2560</a>):
+* Setup Fuses unlocking bootloader
+* Burn the bootloader
+* Setup Fuses locking bootloader</p>
+
+<pre><code class="sh">$ avrdude -c usbasp -p m2560 -P usb -b 115200 -e -u -U lock:w:0x3F:m -U efuse:w:0xFD:m -U hfuse:w:0xD8:m -U efuse:w:0xFF:m
+$ avrdude -c usbasp -p m2560 -P usb -b 115200 -V -U flash:w:stk500boot_v2_mega2560.hex
+$ avrdude -c usbasp -p m2560 -P usb -b 115200 -U lock:w:0x0F:m
+</code></pre>
+
+<p>And this was the output:</p>
+
+<pre><code class="sh">avrdude: Version 5.11, compiled on Sep  7 2011 at 19:34:16
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/home/jpalves/apps/arduino-1.0.6/hardware/tools/avrdude.conf"
+         User configuration file is "/home/jpalves/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : usb
+         Using Programmer              : usbasp
+avrdude: seen device from vendor -&gt;www.fischl.de&lt;-
+avrdude: seen product -&gt;USBasp&lt;-
+         AVR Part                      : ATMEGA2560
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    10     8    0 no       4096    8      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           flash         65    10   256    0 yes    262144  256   1024  4500  4500 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : usbasp
+         Description     : USBasp, http://www.fischl.de/usbasp/
+
+avrdude: auto set sck period (because given equals null)
+avrdude: warning: cannot set sck period. please check for usbasp firmware update.
+avrdude: AVR device initialized and ready to accept instructions
+Reading | ################################################## | 100% 0.01s
+avrdude: Device signature = 0x1e9801
+avrdude: erasing chip
+avrdude: auto set sck period (because given equals null)
+avrdude: warning: cannot set sck period. please check for usbasp firmware update.
+avrdude: reading input file "0x3F"
+avrdude: writing lock (1 bytes):
+Writing | ################################################## | 100% 0.00s
+avrdude: 1 bytes of lock written
+avrdude: verifying lock memory against 0x3F:
+avrdude: load data lock data from input file 0x3F:
+avrdude: input file 0x3F contains 1 bytes
+avrdude: reading on-chip lock data:
+Reading | ################################################## | 100% 0.00s
+avrdude: verifying ...
+avrdude: 1 bytes of lock verified
+avrdude: reading input file "0xFD"
+avrdude: writing efuse (1 bytes):
+Writing | ################################################## | 100% 0.00s
+vrdude: 1 bytes of efuse written
+avrdude: verifying efuse memory against 0xFD:
+avrdude: load data efuse data from input file 0xFD:
+avrdude: input file 0xFD contains 1 bytes
+avrdude: reading on-chip efuse data:
+Reading | ################################################## | 100% 0.00s
+avrdude: verifying ...
+avrdude: 1 bytes of efuse verified
+avrdude: reading input file "0xD8"
+avrdude: writing hfuse (1 bytes):
+Writing | ################################################## | 100% 0.00s
+avrdude: 1 bytes of hfuse written
+avrdude: verifying hfuse memory against 0xD8:
+avrdude: load data hfuse data from input file 0xD8:
+avrdude: input file 0xD8 contains 1 bytes
+avrdude: reading on-chip hfuse data:
+Reading | ################################################## | 100% 0.00s
+avrdude: verifying ...
+avrdude: 1 bytes of hfuse verified
+avrdude: reading input file "0xFF"
+avrdude: writing lfuse (1 bytes):
+Writing | ################################################## | 100% 0.00s
+avrdude: 1 bytes of lfuse written
+avrdude: verifying lfuse memory against 0xFF:
+avrdude: load data lfuse data from input file 0xFF:
+avrdude: input file 0xFF contains 1 bytes
+avrdude: reading on-chip lfuse data:
+Reading | ################################################## | 100% 0.01s
+avrdude: verifying ...
+avrdude: 1 bytes of lfuse verified
+avrdude done.  Thank you.
+
+avrdude: Version 5.11, compiled on Sep  7 2011 at 19:34:16
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2009 Joerg Wunsch
+
+         System wide configuration file is "/home/jpalves/apps/arduino-1.0.6/hardware/tools/avrdude.conf"
+         User configuration file is "/home/jpalves/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : usb
+         Using Programmer              : usbasp
+avrdude: seen device from vendor -&gt;www.fischl.de&lt;-
+avrdude: seen product -&gt;USBasp&lt;-
+         AVR Part                      : ATMEGA2560
+         Chip Erase delay              : 9000 us
+         PAGEL                         : PD7
+         BS2                           : PA0
+         RESET disposition             : dedicated
+         RETRY pulse                   : SCK
+         serial program mode           : yes
+         parallel program mode         : yes
+         Timeout                       : 200
+         StabDelay                     : 100
+         CmdexeDelay                   : 25
+         SyncLoops                     : 32
+         ByteDelay                     : 0
+         PollIndex                     : 3
+         PollValue                     : 0x53
+         Memory Detail                 :
+
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           eeprom        65    10     8    0 no       4096    8      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           flash         65    10   256    0 yes    262144  256   1024  4500  4500 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00
+                                  Block Poll               Page                       Polled
+           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack
+           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------
+           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00
+
+         Programmer Type : usbasp
+         Description     : USBasp, http://www.fischl.de/usbasp/
+
+avrdude: auto set sck period (because given equals null)
+avrdude: warning: cannot set sck period. please check for usbasp firmware update.
+avrdude: AVR device initialized and ready to accept instructions
+Reading | ################################################## | 100% 0.01s
+avrdude: Device signature = 0x1e9801
+avrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed
+         To disable this feature, specify the -D option.
+avrdude: erasing chip
+avrdude: auto set sck period (because given equals null)
+avrdude: warning: cannot set sck period. please check for usbasp firmware update.
+avrdude: reading input file "/home/jpalves/apps/arduino-1.0.6/hardware/arduino/bootloaders/stk500v2/stk500boot_v2_mega2560.hex"
+avrdude: writing flash (261406 bytes):
+Writing | ################################################## | 100% 144.37s
+avrdude: 261406 bytes of flash written
+avrdude: verifying flash memory against /home/jpalves/apps/arduino-1.0.6/hardware/arduino/bootloaders/stk500v2/stk500boot_v2_mega2560.hex:
+avrdude: load data flash data from input file /home/jpalves/apps/arduino-1.0.6/hardware/arduino/bootloaders/stk500v2/stk500boot_v2_mega2560.hex:
+avrdude: input file /home/jpalves/apps/arduino-1.0.6/hardware/arduino/bootloaders/stk500v2/stk500boot_v2_mega2560.hex contains 261406 bytes
+avrdude: reading on-chip flash data:
+Reading | ################################################## | 100% 139.13s
+avrdude: verifying ...
+avrdude: verification error, first mismatch at byte 0x1e000
+         0xff != 0x0d
+avrdude: verification error; content mismatch
+avrdude done.  Thank you.
+</code></pre>
+
+<p>But when I run the flash command (the second one), I always got the error of the verification.
+This error is probably the result of the usbasp clone having an old version of the software and not being able to flash the 256Kb of the MEGA.</p>
+
+<p>Then I’ve tried an alternative way of flashing the MEGA. The <a href="http://www.gammon.com.au/forum/?id=11635">Nick Gammon</a> way!</p>
+
+<p>Nick has created a very nice and simple way to flash the bootloader on several different atmel microcontrollers only using the console to control the process.</p>
+
+<p>Using a custom cable and a CSEduino I’ve made the following steps:
+* Uploaded the code [Atmega_Board_Programmer] (https://github.com/nickgammon/arduino_sketches/tree/master/Atmega_Board_Programmer) to the <a href="https://jpralves.net/cseduino">CSEduino</a>
+* Disconnected everything
+* Wired the CSEduino and the ATMega according to the following:</p>
+
+<table>
+<thead>
+<tr>
+  <th>CSEduino</th>
+  <th>atMEGA2560</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Gnd</td>
+  <td>ICSP pin 6 - Gnd</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>VCC +5V</td>
+  <td>ICSP pin 2 - +5V</td>
+</tr>
+<tr>
+  <td>D13 (SCK)</td>
+  <td>ICSP pin 3 - D52</td>
+</tr>
+<tr>
+  <td>D12 (MISO)</td>
+  <td>ICSP pin 1 - D50</td>
+</tr>
+<tr>
+  <td>D11 (MOSI)</td>
+  <td>ICSP pin 4 - D51</td>
+</tr>
+<tr>
+  <td>D10 (SS)</td>
+  <td>ICSP pin 5 - Reset</td>
+</tr>
+</tbody>
+</table>
+
+<p>After that i've Connected the FTDI interface to the CSEduino:</p>
+
+<pre><code class="sh">After choosing the USB monitor:
+Atmega chip programmer.
+Written by Nick Gammon.
+Entered programming mode OK.
+Signature = 0x1E 0x98 0x01
+Processor = ATmega2560
+Flash memory size = 262144 bytes.
+LFuse = 0xFF
+HFuse = 0xD8
+EFuse = 0xFD
+Lock byte = 0xCF
+Bootloader address = 0x3E000
+Bootloader length = 8192 bytes.
+Type 'G' to program the chip with the bootloader ...
+</code></pre>
+
+<p>Pressed the G</p>
+
+<pre><code class="sh">Erasing chip ...
+Writing bootloader ...
+Committing page starting at 0x3E000
+Committing page starting at 0x3E100
+Committing page starting at 0x3E200
+Committing page starting at 0x3E300
+Committing page starting at 0x3E400
+Committing page starting at 0x3E500
+Committing page starting at 0x3E600
+Committing page starting at 0x3E700
+Committing page starting at 0x3E800
+Committing page starting at 0x3E900
+Committing page starting at 0x3EA00
+Committing page starting at 0x3EB00
+Committing page starting at 0x3EC00
+Committing page starting at 0x3ED00
+Committing page starting at 0x3EE00
+Committing page starting at 0x3EF00
+Committing page starting at 0x3F000
+Committing page starting at 0x3F100
+Committing page starting at 0x3F200
+Committing page starting at 0x3F300
+Committing page starting at 0x3F400
+Committing page starting at 0x3F500
+Committing page starting at 0x3F600
+Committing page starting at 0x3F700
+Committing page starting at 0x3F800
+Committing page starting at 0x3F900
+Committing page starting at 0x3FA00
+Committing page starting at 0x3FB00
+Committing page starting at 0x3FC00
+Committing page starting at 0x3FD00
+Committing page starting at 0x3FE00
+Committing page starting at 0x3FF00
+Written.
+Verifying ...
+No errors found.
+Writing fuses ...
+LFuse = 0xFF
+HFuse = 0xD8
+EFuse = 0xFD
+Lock byte = 0xCF
+Done.
+Type 'C' when ready to continue with another chip ...
+
+Done.
+</code></pre>
+
+<p>The bootloader was OK.</p>
+
+<p>Again disconnected everything.
+Connected the MEGA with the USB cable to the PC and run the IDE, loaded the Blink Sketch and tried to upload it.</p>
+
+<pre><code class="sh">Binary sketch size: 1,628 bytes (of a 258,048 byte maximum)
+Binary sketch size: 1,628 bytes (of a 258,048 byte maximum)
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_getsync(): timeout communicating with programmer
+</code></pre>
+
+<p>Humm…. same problem.</p>
+
+<p>Well back to square one.</p>
+
+<p>One thing was for sure. The MEGA now had the proper bootloader and fuses setup. But it still didn’t work.</p>
+
+<h2>Short History</h2>
+
+<p>After thinking for a while and after some googling... I started to look for other options.
+I’ve read that there is another Atmel microcontroller on the board, the ATmega8U2 that is responsible for the USB-to-serial convertion... hummm is that the problem ?</p>
+
+<p>After reading some documentation about the role of the chip:
+   * <a href="http://arduino.cc/en/Hacking/DFUProgramming8U2">Updating the Atmega8U2 and 16U2 on an Uno or Mega2560 using DFU</a>
+   * <a href="http://marcoramilli.blogspot.pt/2011/05/how-to-upgrade-atmega8u2-firmware.html">How to upgrade ATMEGA8U2 Firmware</a>
+   * <a href="https://github.com/arduino/Arduino/tree/master/hardware/arduino/firmwares/atmegaxxu2">Arduino Uno and Mega 2560 Firmwares for the ATmega8U2</a></p>
+
+<p>Then I noticed that the board has a second ICSP header near the chip:
+<img src="recover_atmega2560/MEGA2560ADK-headers.png" alt="Headers" /></p>
+
+<p>Connected the usbasp clone programmer and plugged it into the ICSP header of the atMEGA8U2 and run the following command:</p>
+
+<pre><code class="sh">avrdude -p at90usb82 -F -P usb -c avrispmkii -U flash:w:MEGA-dfu_and_usbserial_combined.hex -U lfuse:w:0xFF:m -U hfuse:w:0xD9:m -U efuse:w:0xF4:m -U lock:w:0x0F:m
+</code></pre>
+
+<p>This command was executed in the hardware/arduino/firmwares/atmegaxxu2 folder where the file MEGA-dfu_and_usbserial_combined.hex is.
+If you don’t have it you can download it from the github link above.
+After this step, tried to upload Blink using the Arduino IDE again and....</p>
+
+<p>It worked!!!!!!</p>
+
+<p>The Arduino MEGA ADK is working like a charm!</p>
+
+<p>I Love when the story ends well.</p>
+
+<p>No magic smoke this time!</p>
+
+<h2>Additional links:</h2>
+
+<ul>
+<li><a href="http://www.engbedded.com/fusecalc/">Atmel fuse calculator</a></li>
+<li><a href="https://web.archive.org/web/20180127150819/pighixxx.com/megapdf.pdf">MEGA Pinout</a></li>
+<li><a href="https://jpralves.net/cseduino/">CSEduino</a></li>
+</ul>
+
+					</div>
+				</section>
+				</div> <!-- Container -->
+
+				<footer id="footer" class="panel-footer">
+					<div class="inner">
+						<a href="https://github.com/PhileCMS/Phile">Phile</a> was made by <a href="https://github.com/PhileCMS">The PhileCMS Community</a>.
+					</div>
+				</footer>
+			</div>
+		</div>
+</div>
+		<script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-20725619-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+		<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.altlab.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+	</body>
+</html>

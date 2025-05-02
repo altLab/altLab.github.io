@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>arduino - altLab - DIT Creativity</title>
+	<atom:link href="https://altlab.org/tag/arduino/feed/" rel="self" type="application/rss+xml" />
+	<link>https://altlab.org</link>
+	<description>Lisbon&#039;s [DIT] Do It Together Hackerspace</description>
+	<lastBuildDate>Mon, 02 May 2016 15:24:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.6</generator>
+	<item>
+		<title>Workshop — Constrói o teu CSEduino</title>
+		<link>https://altlab.org/2016/03/22/workshop-constroi-o-teu-cseduino-2/</link>
+		
+		<dc:creator><![CDATA[João Alves]]></dc:creator>
+		<pubDate>Tue, 22 Mar 2016 16:27:24 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[atmega328p]]></category>
+		<category><![CDATA[cseduino]]></category>
+		<category><![CDATA[diy]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5450</guid>
+
+					<description><![CDATA[&#160; No próximo dia 2 de Abril de 2016 vai realizar-se a Workshop — Constrói o teu CSEduino. O CSEduino é uma versão barata do Arduino construída apenas com componentes THT (Thru Hole Technology) que são facilmente soldáveis a uma PCB desenhada especificamente para este projeto. Será apresentada nesta Workshop a versão 4 desta placa. &#8230; <a href="https://altlab.org/2016/03/22/workshop-constroi-o-teu-cseduino-2/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Constrói o teu CSEduino"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>No próximo dia 2 de Abril de 2016 vai realizar-se a Workshop — Constrói o teu <em>CSEduino</em>.</p>
+<p>O <em>CSEduino</em> é uma versão barata do Arduino construída apenas com componentes <em>THT (Thru Hole Technology)</em> que são facilmente soldáveis a uma <em>PCB</em> desenhada especificamente para este projeto. Será apresentada nesta Workshop a versão 4 desta placa.</p>
+<p>Esta workshop foi desenhada para ser acessível a qualquer pessoa que deseje dar os primeiros passos no mundo da electrónica e ter logo a mão um <em>kit</em> que te permite iniciar a programação de microcontroladores e a interacção com componentes diversos.</p>
+<p>A Workshop realiza-se nas instalações do FabLab Lisboa — Rua Maria da Fonte – Mercado do Forno do Tijolo, 1170-221 Lisboa.</p>
+<p>O custo da Workshop é de 30€ e inclui todos os componentes para a construção do <em>CSEduino</em> assim como cerca de 30 componentes adicionais que serão teus no final da <em>workshop</em> e que te permitirão fazer desde logo&nbsp;as tuas experiências.</p>
+<p>A agenda da Workshop é a seguinte:</p>
+<ul>
+<li>Aprendendo a soldar;</li>
+<li>Montagem do <em>CSEduino;</em></li>
+<li>Quatro módulos que exploram os componentes que serão distribuídos no <em>kit</em>. Nestes quatro módulos iremos construir um <em>Ohmmeter</em>, um <em>Theremin</em>, um gerador de código Morse e mais algumas surpresas;</li>
+<li>Algumas dicas sobre onde comprar mais componentes e como;</li>
+</ul>
+<p>O horário da Workshop é das 10H até às 18H com intervalo para almoço.</p>
+<p>Nº Máximo de Participantes: 8</p>
+<p>É necessário trazer um computador portátil com Linux&nbsp;ou Windows&nbsp;com uma porta USB disponível.</p>
+<p>Todas as ferramentas para a montagem do <em>CSEduino</em> e dos módulos estarão disponíveis.<br>
+Qualquer questão adicional poderá ser colocada através de email para jpralves@gmail.com</p>
+<p>Cada participante levará consigo um kit que lhe permitirá construir na workshop o CSEduino e todos os módulos. Será igualmente fornecido no <em>kit</em> uma placa com <em>interface</em>&nbsp;<em>USB</em> que permite programar o <em>CSEduino</em>.</p>
+<p>As inscrições na workshop estão fechadas. As vagas estão todas ocupadas.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop — Constrói o teu CSEduino</title>
+		<link>https://altlab.org/2015/02/03/workshop-constroi-o-teu-cseduino/</link>
+		
+		<dc:creator><![CDATA[João Alves]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2015 22:18:29 +0000</pubDate>
+				<category><![CDATA[Archive]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[atmega328p]]></category>
+		<category><![CDATA[diy]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=5145</guid>
+
+					<description><![CDATA[&#160; Nos próximos dias 28 de Fevereiro e 1 de Março de 2015 vai realizar-se a Workshop — Constrói o teu CSEduino. O CSEduino é uma versão barata do Arduino construída apenas com componentes THT (Thru Hole Technology) que são facilmente soldáveis a uma Stripboard. Será apresentada nesta Workshop a versão 2 desta placa. Esta &#8230; <a href="https://altlab.org/2015/02/03/workshop-constroi-o-teu-cseduino/" class="more-link">Continue reading<span class="screen-reader-text"> "Workshop — Constrói o teu CSEduino"</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-5133 size-medium" src="http://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-300x199.jpg" alt="TS@altLab-17.01.2015-CSEduinoKitDetail-Web" width="300" height="199" srcset="https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-300x199.jpg 300w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-768x509.jpg 768w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web-1024x678.jpg 1024w, https://altlab.org/wp-content/uploads/2015/01/TS@altLab-17.01.2015-CSEduinoKitDetail-Web.jpg 1200w" sizes="(max-width: 300px) 85vw, 300px"></a></p>
+<p>&nbsp;</p>
+<p>Nos próximos dias 28 de Fevereiro e 1 de Março de 2015 vai realizar-se a Workshop — Constrói o teu <em>CSEduino</em>.</p>
+<p>O <em>CSEduino</em> é uma versão barata do Arduino construída apenas com componentes <em>THT (Thru Hole Technology)</em> que são facilmente soldáveis a uma <em>Stripboard</em>. Será apresentada nesta Workshop a versão 2 desta placa.</p>
+<p>Esta workshop foi desenhada para ser acessível a qualquer pessoa que deseje dar os primeiros passos no mundo da electrónica e ter logo a mão um <em>kit</em> que te permite iniciar a programação de microcontroladores e a interacção com componentes diversos.</p>
+<p>A Workshop realiza-se nas instalações do FabLab Lisboa — Rua Maria da Fonte – Mercado do Forno do Tijolo, 1170-221 Lisboa.</p>
+<p>O custo da Workshop é de 60€ e inclui todos os componentes para a construção do <em>CSEduino</em> assim como cerca de 30 componentes adicionais que serão teus no final da <em>workshop</em> e que te permitirão fazer desde logo&nbsp;as tuas experiências.</p>
+<p>A agenda da Workshop é a seguinte:</p>
+<p><strong>Dia 1:</strong></p>
+<ul>
+<li>Introdução à electrónica;</li>
+<li>Montagem do <em>CSEduino</em> numa <em>breadboard;</em></li>
+<li>Quatro módulos simples de introdução ao <em>Arduino.</em></li>
+</ul>
+<p><strong>Dia 2:</strong></p>
+<ul>
+<li>Aprendendo a soldar;</li>
+<li>Montagem do <em>CSEduino;</em></li>
+<li>Quatro módulos mais complexos que exploram os componentes que serão distribuidos no <em>kit</em>. Nestes quatro módulos iremos construir um <em>Ohmmeter</em>, um <em>Theremin</em>, um gerador de código Morse e mais algumas surpresas;</li>
+<li>Algumas dicas sobre onde comprar mais componentes e como;</li>
+<li>Apresentação em detalhe de um projectomais complexo que usa o CSEduino.</li>
+</ul>
+<p>O horário da Workshop é das 10H até às 18H com intervalo para almoço.</p>
+<p>Nº Máximo de Participantes: 8</p>
+<p>É necessário trazer um computador portátil com Linux&nbsp;ou Windows&nbsp;com uma porta USB disponível.</p>
+<p>Todas as ferramentas para a montagem do <em>CSEduino</em> e dos módulos estarão disponíveis.<br>
+Qualquer questão adicional poderá ser colocada através de email para jpralves@gmail.com</p>
+<p>Cada participante levará consigo um kit que lhe permitirá construir na workshop o CSEduino e todos os módulos. Será igualmente fornecido no <em>kit</em> uma placa com <em>interface</em>&nbsp;<em>USB</em> que permite programar o <em>CSEduino</em>.</p>
+<p>&nbsp;</p>
+<p>As inscrições na workshop estão fechadas. As vagas estão todas cheias.</p>
+<p>Caso queira inscrever-se na lista de espera ou ser notificado quando for preparada uma nova data pode preencher <a href="http://goo.gl/3ijEbX" target="_blank">este formulário</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Work­shop Fritz­ing — Do pro­tótipo a insta­lação definitiva!</title>
+		<link>https://altlab.org/2012/09/06/work%c2%adshop-fritz%c2%ading-do-pro%c2%adtotipo-a-insta%c2%adlacao-definitiva/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Thu, 06 Sep 2012 21:38:03 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[PCB]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=3789</guid>
+
+					<description><![CDATA[&#62; Inscrições abertas! &#160; &#62; +&#160;info]]></description>
+										<content:encoded><![CDATA[<h4><a title="Inscrições Workshop Aprender a Soldar + Electrónica + Arduino" href="http://altlab.org/event-registration/#WFRITZ">&gt; Inscrições abertas!</a></h4>
+<p>&nbsp;</p>
+<p><a href="http://altlab.org/events/#WFRITZ"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-3778" title="eFlyer_WFritzing" src="http://altlab.org/wp-content/uploads/2012/09/eFlyer_WFritzing.jpg" alt width="500" height="707"></a></p>
+<h4><a title="Workshop Aprender a Soldar + Electrónica + Arduino" href="http://altlab.org/events/#WFRITZ">&gt; +&nbsp;info</a></h4>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TANGÍVEIS — Residência AZ 2012</title>
+		<link>https://altlab.org/2011/11/28/residencia-az-2012/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2011 10:08:12 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[altLab]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[residency]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2792</guid>
+
+					<description><![CDATA[&#160; A Audiência Zero vai realizar mais uma residência artística multidisciplinar em O Espaço do Tempo (Montemor-o-Novo), entre os dias 14 a 22 de Janeiro. Nesta edição, teremos uma novidade 🙂 Enquanto nas edições anteriores os participantes eram convidados a desenvolver qualquer tipo de projecto, individual ou colectivamente, nas áreas de electrónica, computação física, instalações &#8230; <a href="https://altlab.org/2011/11/28/residencia-az-2012/" class="more-link">Continue reading<span class="screen-reader-text"> "TANGÍVEIS — Residência AZ 2012"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>A Audiência Zero vai realizar mais uma residência artística multidisciplinar em <a href="http://www.oespacodotempo.pt/" target="_blank">O Espaço do Tempo (Montemor-o-Novo)</a>, entre os dias 14 a 22 de Janeiro.</p>
+<p>Nesta edição, teremos uma novidade <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Enquanto nas edições anteriores os participantes eram convidados a desenvolver qualquer tipo de projecto, individual ou colectivamente, nas áreas de electrónica, computação física, instalações interactivas, etc., este ano propomos também um objectivo comum: o desenvolvimento de interacções tangíveis, através da construção de objectos e espaços interactivos capazes de demonstrar que um objecto pode causar interacções distintas em espaços distintos. A ideia é fazer com que cada objecto a desenvolver interaja de forma diferenciada nos espaços criados, ou que os objectos interajam entre eles próprios.</p>
+<p>Deixamos aqui alguns exemplos de ideias a abordar.</p>
+<p>Imagine um objecto a ser levado para determinado espaço onde está uma luz robotizada. Quando o objecto é “reconhecido” no espaço, a luz robotizada passa a seguir a pessoa que o carrega. Se o objecto for dado a outra pessoa, passa então ela a ser seguida pela luz.</p>
+<p>
+<a href="https://altlab.org/wp-content/uploads/2011/11/followspots.jpg"><img width="150" height="137" src="https://altlab.org/wp-content/uploads/2011/11/followspots.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/11/augmentedhopscotch.jpg"><img width="150" height="134" src="https://altlab.org/wp-content/uploads/2011/11/augmentedhopscotch.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/11/balloons.jpg"><img width="150" height="119" src="https://altlab.org/wp-content/uploads/2011/11/balloons.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<br>
+É possível desenvolver outras interacções semelhantes, por exemplo:</p>
+<ul>
+<li>Ao apontar os objectos uns para os outros, os objectos reagem com som, luzes, etc.;</li>
+<li>Ao alterar a sua posição no espaço, o objecto reage com som, luzes, etc.;</li>
+<li>Ao alterar a sua posição no espaço, o objecto faz com que o espaço reaja com projecções de vídeo, som, luzes, etc.;</li>
+<li>A mesma posição no espaço pode causar interacções diferentes com cada um dos objectos.</li>
+</ul>
+<p>Podem ser desenvolvidas diversas narrativas – artísticas, didácticas, de “gaming”, etc.</p>
+<p>Para o desenvolvimento destes objectos e espaços, propõem-se vários tipos de tecnologias:</p>
+<ul>
+<li>Electrónica;</li>
+<li>Computação Física;</li>
+<li>Instalações Interactivas;</li>
+<li>Robótica;</li>
+<li>Visão por Computador;</li>
+<li>Visualização de Dados.</li>
+</ul>
+<p>Serão disponibilizados (<strong>a título de empréstimo</strong>) computadores, Arduínos, sensores e material electrónico, projectores de vídeo, sistemas de áudio, etc. <strong>para uso exlusivo no local da residência e durante o período de desenvolvimento dos projectos.</strong></p>
+<p>A residência é destinada aos actuais membros da rede AZ Labs ou a quem se identifique com o ojectivo proposto e tenha interesse em conhecer o trabalho por nós desenvolvido. As vagas na residência estão limitadas a 15.</p>
+<p>Todos os participantes desfrutam de alojamento, pequeno almoço e almoço durante o período da residência.</p>
+<p><strong>Residência AZ Janeiro 2012</strong></p>
+<p>Coordenação: altLab – Lisbon’s Hackerspace</p>
+<p>Datas: 14 a 22 janeiro de 2012</p>
+<p>Local: <a href="http://www.oespacodotempo.pt/" target="_blank">O Espaço do Tempo (Montemor-o-Novo)</a></p>
+<p><a href="http://altlab.org" target="_blank">altlab.org</a></p>
+<p><a href="http://www.labcd.org" target="_blank">www.labcd.org</a></p>
+<p><a href="http://www.xdatelier.org" target="_blank">www.xdatelier.org</a></p>
+<p><a href="http://www.oespacodotempo.pt" target="_blank">www.oespacodotempo.pt</a></p>
+<p><span id="more-2792"></span></p>
+<h4><strong>[English]</strong></h4>
+<p>&nbsp;</p>
+<p>Between 14 and 22 January 2012&nbsp;O Espaço do Tempo (Montemor-o-Novo) in collaboration with&nbsp;Audiência Zero is organizing another multi-disciplinary artistic residency.</p>
+<p>During the previous editions the residents were invited to develop any kind of project, collectively or individually, in the areas of electronics, physical computation, interactive instalation, etc.&nbsp;In this edition we will have a new concept. We propose to develop projects with a common goal, tangible interaction, through the construction of objects and interactive spaces where the same object can interact in different ways. Or objects can interact among themselfs.</p>
+<p>Here are a few example ideas, open for reuse.</p>
+<p>Imagine an object being carried to a certain space where there is a robotized light source. When the object is recognized as entered the space the robotized light will follow the person carrying it. If the object is given to another person, they become the target of the light.</p>
+
+<a href="https://altlab.org/wp-content/uploads/2011/11/followspots.jpg"><img width="150" height="137" src="https://altlab.org/wp-content/uploads/2011/11/followspots.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/11/augmentedhopscotch.jpg"><img width="150" height="134" src="https://altlab.org/wp-content/uploads/2011/11/augmentedhopscotch.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/11/balloons.jpg"><img width="150" height="119" src="https://altlab.org/wp-content/uploads/2011/11/balloons.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+
+<p>It’s possible to develop other similar interactions such as:</p>
+<ul>
+<li>Pointing objects to one another, they react with sound, lights, etc</li>
+<li>Changing an object position in space, the object reacts with sound, lights, etc.</li>
+<li>Changing the object position in space, the object makes the space react with video projections, sound, lights, etc.</li>
+<li>Same position in space can &nbsp;cause different interactions with different obejcts.</li>
+</ul>
+<p>Different narratives can be developed — artistic, educational, gaming, etc.</p>
+<p>For the developmnet of these objects and spaces, several technologies are proposed.</p>
+<ul>
+<li>Electronics</li>
+<li>Physical Computation</li>
+<li>Interactive Installations</li>
+<li>Robotics</li>
+<li>Computer Vision</li>
+<li>Data Visualization</li>
+</ul>
+<p>The residency is open to current members of the AZ Labs network or anyone who identifies with the proposed objective.&nbsp;The residency is limited to 15 attenders only.</p>
+<p>All participants have free lodging, breakfast and lunch during the residency period.</p>
+<p><strong>Residência AZ Janeiro 2012</strong></p>
+<p>Coordination: altLab – Lisbon’s Hackerspace</p>
+<p>When: 14 ~ 22 january 2012</p>
+<p>Where: <a href="http://www.oespacodotempo.pt/" target="_blank">O Espaço do Tempo (Montemor-o-Novo)</a></p>
+<p><a href="http://www.altlab.org" target="_blank">www.altlab.org</a></p>
+<p><a href="http://www.labcd.org" target="_blank">www.labcd.org</a></p>
+<p><a href="http://www.xdatelier.org" target="_blank">www.xdatelier.org</a></p>
+<p><a href="http://www.oespacodotempo.pt" target="_blank">www.oespacodotempo.pt</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop Arduino Shields II — Photo Report</title>
+		<link>https://altlab.org/2011/09/26/workshop-arduino-shields-ii-photo-report/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2011 09:22:14 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2429</guid>
+
+					<description><![CDATA[&#160;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+
+<a href="https://altlab.org/wp-content/uploads/2011/09/406305227.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/09/406305227.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/09/406305922.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/09/406305922.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/09/406347366.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/09/406347366.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/09/406404234.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/09/406404234.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/09/406404668.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/09/406404668.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/09/406405941.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/09/406405941.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Video Arduino After Works #103 Recorded on July, 20.</title>
+		<link>https://altlab.org/2011/07/20/video-arduino-after-works-103-recorded-on-july-20-altlab/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Thu, 21 Jul 2011 01:19:17 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2202</guid>
+
+					<description><![CDATA[&#160; Depois de uma noite literalmente “movimentada”, com motores e Motoruinos por todo lado, não podíamos deixar de agradecer ao Guilherme Martins (@guibot) e ao André Almeida pela fantástica aula que deram e sobretudo aos participantes e aqueles que acompanharam esta 1ª emissão “live webcast” da altLabTV&#160;sem os quais nada disso teria acontecido. ah!&#160;também&#160;não podemos &#8230; <a href="https://altlab.org/2011/07/20/video-arduino-after-works-103-recorded-on-july-20-altlab/" class="more-link">Continue reading<span class="screen-reader-text"> "Video Arduino After Works #103 Recorded on July, 20."</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Depois de uma noite literalmente “movimentada”, com motores e <a href="http://www.guibot.pt/motoruino/" target="_blank">Motoruinos</a> por todo lado, não podíamos deixar de agradecer ao <a href="http://lab.guilhermemartins.net/" target="_blank">Guilherme Martins</a> (@guibot) e ao André Almeida pela fantástica aula que deram e sobretudo aos participantes e aqueles que acompanharam esta 1ª emissão “live webcast” da <a title="altLabTV" href="http://www.ustream.tv/channel/altlabtv" target="_blank">altLabTV</a>&nbsp;sem os quais nada disso teria acontecido.<br>
+ah!&nbsp;também&nbsp;não podemos esquecer de agradecer ao <a href="http://www.guibot.pt/farrusco/" target="_blank">Farrusco</a> por ter aparecido na festa <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>
+Muito obrigado !</p>
+<h5>[ustream vid=“16132201”]<br>
+<strong>&nbsp; ^ click play here!</strong></h5>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop Arduino Shields photo report</title>
+		<link>https://altlab.org/2011/07/16/workshop-arduino-shields-photo-report/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Sat, 16 Jul 2011 18:01:08 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[circuits]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[l293d]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[soldering]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2059</guid>
+
+					<description><![CDATA[&#160;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+
+<a href="https://altlab.org/wp-content/uploads/2011/07/06web.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/06web.jpg" class="attachment-thumbnail size-thumbnail" alt="Arduino Shields Workshop" decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/01web.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/01web.jpg" class="attachment-thumbnail size-thumbnail" alt="Arduino Shields Workshop" decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/07web.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/07web.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/10web.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/10web.jpg" class="attachment-thumbnail size-thumbnail" alt="Arduino Shields Workshop" decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/03web.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/03web.jpg" class="attachment-thumbnail size-thumbnail" alt="Arduino Shields Workshop" decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/05web.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/05web.jpg" class="attachment-thumbnail size-thumbnail" alt="Arduino Shields Workshop" decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/08web.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/08web.jpg" class="attachment-thumbnail size-thumbnail" alt="Arduino Shields Workshop" decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/55.jpg"><img width="150" height="115" src="https://altlab.org/wp-content/uploads/2011/07/55.jpg" class="attachment-thumbnail size-thumbnail" alt="Arduino Shields Workshop" decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/54.jpg"><img width="150" height="115" src="https://altlab.org/wp-content/uploads/2011/07/54.jpg" class="attachment-thumbnail size-thumbnail" alt="Arduino Shields Workshop" decoding="async" loading="lazy"></a>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Arduino After Work 101 photo report</title>
+		<link>https://altlab.org/2011/07/10/arduino-after-work-101-photo-report/</link>
+		
+		<dc:creator><![CDATA[ferdi]]></dc:creator>
+		<pubDate>Sun, 10 Jul 2011 23:56:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[soldering]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=2034</guid>
+
+					<description><![CDATA[&#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+
+<a href="https://altlab.org/wp-content/uploads/2011/07/01.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/01.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/02.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/02.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/03.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/03.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/04.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/04.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/05.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/05.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+<a href="https://altlab.org/wp-content/uploads/2011/07/06.jpg"><img width="150" height="113" src="https://altlab.org/wp-content/uploads/2011/07/06.jpg" class="attachment-thumbnail size-thumbnail" alt decoding="async" loading="lazy"></a>
+
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Arduino After Work Classes</title>
+		<link>https://altlab.org/2011/06/23/arduino-after-work-classes/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2011 15:03:53 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[motor]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<category><![CDATA[synthesizer]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1994</guid>
+
+					<description><![CDATA[+ info e inscrições aqui]]></description>
+										<content:encoded><![CDATA[<p><a href="http://altlab.org/classes/#AAW"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1995" title="Arduino After Work" src="http://altlab.org/wp-content/uploads/2011/06/arduino-afterwork.jpg" alt width="640" height="480" srcset="https://altlab.org/wp-content/uploads/2011/06/arduino-afterwork.jpg 800w, https://altlab.org/wp-content/uploads/2011/06/arduino-afterwork-300x225.jpg 300w, https://altlab.org/wp-content/uploads/2011/06/arduino-afterwork-768x576.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></a></p>
+<p><span style="font-size: 21px; line-height: 23px;"><a title="Classes" href="http://altlab.org/classes/#AAW">+ info e inscrições aqui</a></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop Arduino Shields</title>
+		<link>https://altlab.org/2011/06/21/workshop-arduino-shields/</link>
+		
+		<dc:creator><![CDATA[mm]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2011 14:27:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arduino]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[soft circuits]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://altlab.org/?p=1973</guid>
+
+					<description><![CDATA[&#160; + info e inscrições aqui &#160;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><a title="Workshop Arduino Shields" href="http://altlab.org/events/#WAS"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-1974" title="ArduinoShieldsWorkshop" src="http://altlab.org/wp-content/uploads/2011/06/ArduinoShields_web.jpg" alt width="552" height="842"></a></p>
+<h3><a title="Workshop Arduino Shields" href="http://altlab.org/events/#WAS">+ info e inscrições aqui</a></h3>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
