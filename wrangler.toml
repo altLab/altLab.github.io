@@ -1,4 +1,4 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "altlab-static-site"
+name = "static-site"
 compatibility_date = "2024-09-25"
 assets = { directory = "./" }
